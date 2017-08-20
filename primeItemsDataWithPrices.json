@@ -24,17 +24,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 15,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 300,
+                        "Average": 87,
+                        "Median": 15,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 75.83333333333333,
-                        "Max": 300,
-                        "Min": 10,
-                        "Median": 17.5
                     }
                 }
             },
@@ -61,17 +61,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Link",
                 "Ducats": 45,
+                "Name": "Link",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 20,
+                        "Average": 12.75,
+                        "Median": 10,
+                        "Min": 8
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 12.75,
-                        "Max": 20,
-                        "Min": 8,
-                        "Median": 10
                     }
                 }
             }
@@ -89,17 +89,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 45,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 90,
+                        "Average": 26.64516129032258,
+                        "Median": 20,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 13.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 26.64516129032258,
-                        "Max": 90,
-                        "Min": 10,
-                        "Median": 20
                     }
                 }
             },
@@ -111,17 +111,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Link",
                 "Ducats": 100,
+                "Name": "Link",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 150,
+                        "Average": 88.73846153846154,
+                        "Median": 90,
+                        "Min": 40
+                    },
                     "Warframe.market": {
                         "Smart-median": 69.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 88.73846153846154,
-                        "Max": 150,
-                        "Min": 40,
-                        "Median": 90
                     }
                 }
             }
@@ -144,17 +144,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Barrel",
                 "Ducats": 45,
+                "Name": "Barrel",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 20,
+                        "Average": 10.526315789473685,
+                        "Median": 10,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 6.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 10.526315789473685,
-                        "Max": 20,
-                        "Min": 6,
-                        "Median": 10
                     }
                 }
             },
@@ -176,17 +176,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 100,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 80,
+                        "Average": 15.589285714285714,
+                        "Median": 15,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 11.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 15.491228070175438,
-                        "Max": 80,
-                        "Min": 6,
-                        "Median": 15
                     }
                 }
             },
@@ -208,17 +208,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Link",
                 "Ducats": 45,
+                "Name": "Link",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 6.0
-                    },
                     "Nexus-stats": {
-                        "Average": 15.666666666666666,
                         "Max": 35,
-                        "Min": 8,
-                        "Median": 15
+                        "Average": 15.666666666666666,
+                        "Median": 15,
+                        "Min": 8
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 5.5
                     }
                 }
             },
@@ -245,17 +245,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Receiver",
                 "Ducats": 45,
+                "Name": "Receiver",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 10.0
-                    },
                     "Nexus-stats": {
-                        "Average": 16.096153846153847,
                         "Max": 40,
-                        "Min": 7,
-                        "Median": 15
+                        "Average": 16.096153846153847,
+                        "Median": 15,
+                        "Min": 7
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 9.5
                     }
                 }
             }
@@ -273,17 +273,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blade",
                 "Ducats": 45,
+                "Name": "Blade",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 22.5
-                    },
                     "Nexus-stats": {
-                        "Average": 20.6,
                         "Max": 50,
-                        "Min": 10,
-                        "Median": 20
+                        "Average": 20.6,
+                        "Median": 20,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 19.0
                     }
                 }
             },
@@ -295,17 +295,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 15,
+                "Name": "Blueprint",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 3.5
-                    },
                     "Nexus-stats": {
-                        "Average": 11.916666666666666,
                         "Max": 20,
-                        "Min": 6,
-                        "Median": 10
+                        "Average": 11.916666666666666,
+                        "Median": 10,
+                        "Min": 6
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 4.5
                     }
                 }
             },
@@ -317,17 +317,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Gauntlet",
                 "Ducats": 15,
+                "Name": "Gauntlet",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 25,
+                        "Average": 12.857142857142858,
+                        "Median": 10,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 10.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 12.857142857142858,
-                        "Max": 25,
-                        "Min": 10,
-                        "Median": 10
                     }
                 }
             }
@@ -355,17 +355,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 45,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 40,
+                        "Average": 16.148936170212767,
+                        "Median": 15,
+                        "Min": 7
+                    },
                     "Warframe.market": {
                         "Smart-median": 10.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 16.148936170212767,
-                        "Max": 40,
-                        "Min": 7,
-                        "Median": 15
                     }
                 }
             },
@@ -387,17 +387,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Chassis",
                 "Ducats": 15,
+                "Name": "Chassis",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 6.0
-                    },
                     "Nexus-stats": {
-                        "Average": 15.4,
                         "Max": 30,
-                        "Min": 6,
-                        "Median": 15
+                        "Average": 15.390243902439025,
+                        "Median": 15,
+                        "Min": 6
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 6.5
                     }
                 }
             },
@@ -429,17 +429,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Neuroptics",
                 "Ducats": 45,
+                "Name": "Neuroptics",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 35,
+                        "Average": 15.411764705882353,
+                        "Median": 15,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 6.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 15.411764705882353,
-                        "Max": 35,
-                        "Min": 6,
-                        "Median": 15
                     }
                 }
             },
@@ -456,17 +456,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Systems",
                 "Ducats": 65,
+                "Name": "Systems",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 100,
+                        "Average": 41.16483516483517,
+                        "Median": 40,
+                        "Min": 15
+                    },
                     "Warframe.market": {
                         "Smart-median": 40.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 41.16483516483517,
-                        "Max": 100,
-                        "Min": 15,
-                        "Median": 40
                     }
                 }
             }
@@ -489,17 +489,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 45,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 15.431372549019608,
+                        "Median": 15,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 4.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 15.431372549019608,
-                        "Max": 30,
-                        "Min": 6,
-                        "Median": 15
                     }
                 }
             },
@@ -516,17 +516,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Chassis",
                 "Ducats": 100,
+                "Name": "Chassis",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 15.0
-                    },
                     "Nexus-stats": {
-                        "Average": 20.329545454545453,
                         "Max": 45,
-                        "Min": 10,
-                        "Median": 20
+                        "Average": 20.329545454545453,
+                        "Median": 20,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 17.0
                     }
                 }
             },
@@ -538,17 +538,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Neuroptics",
                 "Ducats": 15,
+                "Name": "Neuroptics",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 6.0
-                    },
                     "Nexus-stats": {
-                        "Average": 12.172413793103448,
                         "Max": 20,
-                        "Min": 8,
-                        "Median": 10
+                        "Average": 12.172413793103448,
+                        "Median": 10,
+                        "Min": 8
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 6.5
                     }
                 }
             },
@@ -565,17 +565,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Systems",
                 "Ducats": 100,
+                "Name": "Systems",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 32.5
-                    },
                     "Nexus-stats": {
-                        "Average": 39.04651162790697,
                         "Max": 110,
-                        "Min": 10,
-                        "Median": 40
+                        "Average": 39.04651162790697,
+                        "Median": 40,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 36.0
                     }
                 }
             }
@@ -587,49 +587,49 @@
         "Components": [
             {
                 "Relics": [],
-                "Name": "Blueprint",
                 "Ducats": 15,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 110,
+                        "Average": 36.25,
+                        "Median": 12.5,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 6.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 36.25,
-                        "Max": 110,
-                        "Min": 10,
-                        "Median": 12.5
                     }
                 }
             },
             {
                 "Relics": [],
-                "Name": "Ornament",
                 "Ducats": 15,
+                "Name": "Ornament",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 8.5
-                    },
                     "Nexus-stats": {
-                        "Average": 14.285714285714286,
                         "Max": 30,
-                        "Min": 7,
-                        "Median": 10
+                        "Average": 14.285714285714286,
+                        "Median": 10,
+                        "Min": 7
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 7.5
                     }
                 }
             },
             {
                 "Relics": [],
-                "Name": "Handle",
                 "Ducats": 45,
+                "Name": "Handle",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 200,
+                        "Average": 120.71428571428571,
+                        "Median": 115,
+                        "Min": 15
+                    },
                     "Warframe.market": {
                         "Smart-median": 115.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 120.71428571428571,
-                        "Max": 200,
-                        "Min": 15,
-                        "Median": 115
                     }
                 }
             }
@@ -652,17 +652,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Barrel",
                 "Ducats": 45,
+                "Name": "Barrel",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 40,
+                        "Average": 25.375,
+                        "Median": 27.5,
+                        "Min": 8
+                    },
                     "Warframe.market": {
                         "Smart-median": 7.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 23.666666666666668,
-                        "Max": 40,
-                        "Min": 8,
-                        "Median": 25
                     }
                 }
             },
@@ -679,17 +679,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 15,
+                "Name": "Blueprint",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 5.5
-                    },
                     "Nexus-stats": {
-                        "Average": 12.461538461538462,
                         "Max": 17,
-                        "Min": 10,
-                        "Median": 10
+                        "Average": 12.25,
+                        "Median": 10,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 5.0
                     }
                 }
             },
@@ -706,17 +706,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Receiver",
                 "Ducats": 15,
+                "Name": "Receiver",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 20,
+                        "Average": 12.545454545454545,
+                        "Median": 10,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 7.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 12.333333333333334,
-                        "Max": 20,
-                        "Min": 6,
-                        "Median": 10
                     }
                 }
             },
@@ -733,17 +733,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Stock",
                 "Ducats": 100,
+                "Name": "Stock",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 15.5
-                    },
                     "Nexus-stats": {
-                        "Average": 18.375,
                         "Max": 40,
-                        "Min": 9,
-                        "Median": 15.5
+                        "Average": 18.375,
+                        "Median": 15.5,
+                        "Min": 9
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 16.5
                     }
                 }
             }
@@ -761,17 +761,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Barrel",
                 "Ducats": 15,
+                "Name": "Barrel",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 7.5
-                    },
                     "Nexus-stats": {
-                        "Average": 18.6875,
                         "Max": 100,
-                        "Min": 6,
-                        "Median": 10
+                        "Average": 18.6875,
+                        "Median": 10,
+                        "Min": 6
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 9.0
                     }
                 }
             },
@@ -783,17 +783,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 100,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 100,
+                        "Average": 33.51020408163265,
+                        "Median": 30,
+                        "Min": 15
+                    },
                     "Warframe.market": {
                         "Smart-median": 30.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 33.51020408163265,
-                        "Max": 100,
-                        "Min": 15,
-                        "Median": 30
                     }
                 }
             },
@@ -805,17 +805,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Receiver",
                 "Ducats": 45,
+                "Name": "Receiver",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 25,
+                        "Average": 14.916666666666666,
+                        "Median": 14,
+                        "Min": 7
+                    },
                     "Warframe.market": {
                         "Smart-median": 8.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 15.130434782608695,
-                        "Max": 25,
-                        "Min": 7,
-                        "Median": 15
                     }
                 }
             },
@@ -827,17 +827,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Stock",
                 "Ducats": 15,
+                "Name": "Stock",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 21.0
-                    },
                     "Nexus-stats": {
-                        "Average": 24.085714285714285,
-                        "Max": 50,
-                        "Min": 10,
-                        "Median": 25
+                        "Max": 110,
+                        "Average": 26.47222222222222,
+                        "Median": 25,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 19.5
                     }
                 }
             }
@@ -870,17 +870,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Barrel",
                 "Ducats": 15,
+                "Name": "Barrel",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 15,
+                        "Average": 11.666666666666666,
+                        "Median": 10,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 11.666666666666666,
-                        "Max": 15,
-                        "Min": 10,
-                        "Median": 10
                     }
                 }
             },
@@ -912,17 +912,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 25,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 40,
+                        "Average": 13.88888888888889,
+                        "Median": 10,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 14,
-                        "Max": 40,
-                        "Min": 10,
-                        "Median": 10
                     }
                 }
             },
@@ -944,17 +944,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Receiver",
                 "Ducats": 45,
+                "Name": "Receiver",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 8.5
-                    },
                     "Nexus-stats": {
-                        "Average": 11.64,
                         "Max": 20,
-                        "Min": 8,
-                        "Median": 10
+                        "Average": 11.64,
+                        "Median": 10,
+                        "Min": 8
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 9.0
                     }
                 }
             },
@@ -991,17 +991,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Stock",
                 "Ducats": 15,
+                "Name": "Stock",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 15,
+                        "Average": 11.333333333333334,
+                        "Median": 10,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.25
-                    },
-                    "Nexus-stats": {
-                        "Average": 11.333333333333334,
-                        "Max": 15,
-                        "Min": 10,
-                        "Median": 10
                     }
                 }
             }
@@ -1029,17 +1029,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Barrel",
                 "Ducats": 45,
+                "Name": "Barrel",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 15,
+                        "Average": 9.5625,
+                        "Median": 10,
+                        "Min": 7
+                    },
                     "Warframe.market": {
                         "Smart-median": 7.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 9.5625,
-                        "Max": 15,
-                        "Min": 7,
-                        "Median": 10
                     }
                 }
             },
@@ -1091,17 +1091,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 15,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 300,
+                        "Average": 68.2,
+                        "Median": 10,
+                        "Min": 8
+                    },
                     "Warframe.market": {
                         "Smart-median": 2.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 68.2,
-                        "Max": 300,
-                        "Min": 8,
-                        "Median": 10
                     }
                 }
             },
@@ -1133,17 +1133,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Receiver",
                 "Ducats": 15,
+                "Name": "Receiver",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 15,
+                        "Average": 11.666666666666666,
+                        "Median": 10,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 11.666666666666666,
-                        "Max": 15,
-                        "Min": 10,
-                        "Median": 10
                     }
                 }
             }
@@ -1176,17 +1176,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Barrel",
                 "Ducats": 45,
+                "Name": "Barrel",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 100,
+                        "Average": 24,
+                        "Median": 10,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 4.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 24,
-                        "Max": 100,
-                        "Min": 10,
-                        "Median": 10
                     }
                 }
             },
@@ -1208,17 +1208,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 15,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 100,
+                        "Average": 33.5,
+                        "Median": 25,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 33.5,
-                        "Max": 100,
-                        "Min": 10,
-                        "Median": 25
                     }
                 }
             },
@@ -1240,17 +1240,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Receiver",
                 "Ducats": 15,
+                "Name": "Receiver",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 40,
+                        "Average": 15.375,
+                        "Median": 12.5,
+                        "Min": 8
+                    },
                     "Warframe.market": {
                         "Smart-median": 2.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 16.142857142857142,
-                        "Max": 40,
-                        "Min": 8,
-                        "Median": 15
                     }
                 }
             },
@@ -1282,17 +1282,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Stock",
                 "Ducats": 15,
+                "Name": "Stock",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 17.5,
+                        "Median": 15,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 17.5,
-                        "Max": 30,
-                        "Min": 10,
-                        "Median": 15
                     }
                 }
             }
@@ -1325,17 +1325,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 15,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 50,
+                        "Average": 17.428571428571427,
+                        "Median": 15,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 4.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 17.428571428571427,
-                        "Max": 50,
-                        "Min": 6,
-                        "Median": 15
                     }
                 }
             },
@@ -1357,17 +1357,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Carapace",
                 "Ducats": 15,
+                "Name": "Carapace",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 15.454545454545455,
+                        "Median": 12,
+                        "Min": 8
+                    },
                     "Warframe.market": {
                         "Smart-median": 7.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 15.454545454545455,
-                        "Max": 30,
-                        "Min": 8,
-                        "Median": 12
                     }
                 }
             },
@@ -1394,17 +1394,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Cerebrum",
                 "Ducats": 65,
+                "Name": "Cerebrum",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 25.0
-                    },
                     "Nexus-stats": {
-                        "Average": 30.338983050847457,
                         "Max": 90,
-                        "Min": 10,
-                        "Median": 30
+                        "Average": 30.338983050847457,
+                        "Median": 30,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 22.5
                     }
                 }
             },
@@ -1441,17 +1441,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Systems",
                 "Ducats": 15,
+                "Name": "Systems",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 40,
+                        "Average": 15.470588235294118,
+                        "Median": 10,
+                        "Min": 8
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 15.470588235294118,
-                        "Max": 40,
-                        "Min": 8,
-                        "Median": 10
                     }
                 }
             }
@@ -1479,17 +1479,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 45,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 16.5625,
+                        "Median": 20,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 16.5625,
-                        "Max": 30,
-                        "Min": 10,
-                        "Median": 20
                     }
                 }
             },
@@ -1506,17 +1506,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Grip",
                 "Ducats": 15,
+                "Name": "Grip",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 32,
+                        "Average": 13.571428571428571,
+                        "Median": 10,
+                        "Min": 8
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 10.5,
-                        "Max": 15,
-                        "Min": 8,
-                        "Median": 10
                     }
                 }
             },
@@ -1533,17 +1533,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Lower Limb",
                 "Ducats": 100,
+                "Name": "Lower Limb",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 19.0
-                    },
                     "Nexus-stats": {
-                        "Average": 21.62295081967213,
                         "Max": 60,
-                        "Min": 7,
-                        "Median": 20
+                        "Average": 22.080645161290324,
+                        "Median": 20,
+                        "Min": 7
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 19.75
                     }
                 }
             },
@@ -1565,17 +1565,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "String",
                 "Ducats": 45,
+                "Name": "String",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 3.5
-                    },
                     "Nexus-stats": {
-                        "Average": 17.4,
                         "Max": 25,
-                        "Min": 12,
-                        "Median": 15
+                        "Average": 17.4,
+                        "Median": 15,
+                        "Min": 12
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 4.0
                     }
                 }
             },
@@ -1597,17 +1597,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Upper Limb",
                 "Ducats": 15,
+                "Name": "Upper Limb",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 40,
+                        "Average": 17.85,
+                        "Median": 15,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 17.85,
-                        "Max": 40,
-                        "Min": 10,
-                        "Median": 15
                     }
                 }
             }
@@ -1630,17 +1630,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blade",
                 "Ducats": 65,
+                "Name": "Blade",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 15.0
-                    },
                     "Nexus-stats": {
-                        "Average": 10.6,
                         "Max": 15,
-                        "Min": 8,
-                        "Median": 10
+                        "Average": 10.6,
+                        "Median": 10,
+                        "Min": 8
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 12.0
                     }
                 }
             },
@@ -1657,17 +1657,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 45,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 20,
+                        "Average": 10.333333333333334,
+                        "Median": 10,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 6.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 10.333333333333334,
-                        "Max": 20,
-                        "Min": 6,
-                        "Median": 10
                     }
                 }
             },
@@ -1684,17 +1684,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Handle",
                 "Ducats": 15,
+                "Name": "Handle",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 4.0
-                    },
                     "Nexus-stats": {
-                        "Average": 12.142857142857142,
                         "Max": 20,
-                        "Min": 10,
-                        "Median": 10
+                        "Average": 12.142857142857142,
+                        "Median": 10,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 5.0
                     }
                 }
             }
@@ -1712,17 +1712,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Blade",
                 "Ducats": 100,
+                "Name": "Blade",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 50,
+                        "Average": 22.226666666666667,
+                        "Median": 20,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 25.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 22.12162162162162,
-                        "Max": 50,
-                        "Min": 10,
-                        "Median": 20
                     }
                 }
             },
@@ -1759,17 +1759,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 15,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 1520,
+                        "Average": 124.28571428571429,
+                        "Median": 15,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 124.28571428571429,
-                        "Max": 1520,
-                        "Min": 10,
-                        "Median": 15
                     }
                 }
             },
@@ -1791,17 +1791,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Handle",
                 "Ducats": 45,
+                "Name": "Handle",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 4.5
-                    },
                     "Nexus-stats": {
-                        "Average": 18.5,
                         "Max": 35,
-                        "Min": 10,
-                        "Median": 17.5
+                        "Average": 18.5,
+                        "Median": 17.5,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 6.0
                     }
                 }
             }
@@ -1819,17 +1819,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 100,
+                "Name": "Blueprint",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 424.5
-                    },
                     "Nexus-stats": {
-                        "Average": 433.8217821782178,
                         "Max": 750,
-                        "Min": 200,
-                        "Median": 450
+                        "Average": 434.4271844660194,
+                        "Median": 450,
+                        "Min": 200
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 425.0
                     }
                 }
             },
@@ -1841,17 +1841,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Chassis",
                 "Ducats": 15,
+                "Name": "Chassis",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 27.5
-                    },
                     "Nexus-stats": {
-                        "Average": 28.072727272727274,
-                        "Max": 80,
-                        "Min": 10,
-                        "Median": 25
+                        "Max": 110,
+                        "Average": 28.79310344827586,
+                        "Median": 25,
+                        "Min": 8
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 25.0
                     }
                 }
             },
@@ -1863,17 +1863,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Neuroptics",
                 "Ducats": 15,
+                "Name": "Neuroptics",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 15.0
-                    },
                     "Nexus-stats": {
-                        "Average": 21.3768115942029,
                         "Max": 60,
-                        "Min": 8,
-                        "Median": 20
+                        "Average": 21.185714285714287,
+                        "Median": 20,
+                        "Min": 8
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 14.0
                     }
                 }
             },
@@ -1885,17 +1885,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Systems",
                 "Ducats": 45,
+                "Name": "Systems",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 57.75
-                    },
                     "Nexus-stats": {
-                        "Average": 82.52941176470588,
                         "Max": 200,
-                        "Min": 20,
-                        "Median": 75
+                        "Average": 83.47058823529412,
+                        "Median": 75,
+                        "Min": 30
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 59.25
                     }
                 }
             }
@@ -1918,17 +1918,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Barrel",
                 "Ducats": 45,
+                "Name": "Barrel",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 15,
+                        "Average": 10.333333333333334,
+                        "Median": 10,
+                        "Min": 7
+                    },
                     "Warframe.market": {
                         "Smart-median": 5.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 10.333333333333334,
-                        "Max": 15,
-                        "Min": 7,
-                        "Median": 10
                     }
                 }
             },
@@ -1950,17 +1950,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 15,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 15.076923076923077,
+                        "Median": 15,
+                        "Min": 8
+                    },
                     "Warframe.market": {
                         "Smart-median": 4.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 15.076923076923077,
-                        "Max": 30,
-                        "Min": 8,
-                        "Median": 15
                     }
                 }
             },
@@ -1972,17 +1972,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Receiver",
                 "Ducats": 100,
+                "Name": "Receiver",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 24.0
-                    },
                     "Nexus-stats": {
-                        "Average": 27.093023255813954,
                         "Max": 40,
-                        "Min": 9,
-                        "Median": 25
+                        "Average": 27.093023255813954,
+                        "Median": 25,
+                        "Min": 9
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 22.5
                     }
                 }
             }
@@ -2035,17 +2035,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blade",
                 "Ducats": 15,
+                "Name": "Blade",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 2.5
-                    },
                     "Nexus-stats": {
-                        "Average": 12.916666666666666,
                         "Max": 25,
-                        "Min": 10,
-                        "Median": 10
+                        "Average": 12.916666666666666,
+                        "Median": 10,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 3.0
                     }
                 }
             },
@@ -2082,17 +2082,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 15,
+                "Name": "Blueprint",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 2.0
-                    },
                     "Nexus-stats": {
-                        "Average": 10,
                         "Max": 14,
-                        "Min": 8,
-                        "Median": 10
+                        "Average": 10,
+                        "Median": 10,
+                        "Min": 8
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 2.5
                     }
                 }
             },
@@ -2134,17 +2134,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Handle",
                 "Ducats": 25,
+                "Name": "Handle",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 4.0
-                    },
                     "Nexus-stats": {
-                        "Average": 13,
                         "Max": 35,
-                        "Min": 7,
-                        "Median": 10
+                        "Average": 13,
+                        "Median": 10,
+                        "Min": 7
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 3.5
                     }
                 }
             }
@@ -2167,17 +2167,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 100,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 25,
+                        "Average": 13.285714285714286,
+                        "Median": 10,
+                        "Min": 7
+                    },
                     "Warframe.market": {
                         "Smart-median": 11.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 13.285714285714286,
-                        "Max": 25,
-                        "Min": 7,
-                        "Median": 10
                     }
                 }
             },
@@ -2199,17 +2199,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Handle",
                 "Ducats": 65,
+                "Name": "Handle",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 25,
+                        "Average": 11.666666666666666,
+                        "Median": 10,
+                        "Min": 7
+                    },
                     "Warframe.market": {
                         "Smart-median": 5.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 11.666666666666666,
-                        "Max": 25,
-                        "Min": 7,
-                        "Median": 10
                     }
                 }
             },
@@ -2231,17 +2231,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Head",
                 "Ducats": 15,
+                "Name": "Head",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": null,
+                        "Average": null,
+                        "Median": null,
+                        "Min": null
+                    },
                     "Warframe.market": {
                         "Smart-median": 5.0
-                    },
-                    "Nexus-stats": {
-                        "Average": null,
-                        "Max": null,
-                        "Min": null,
-                        "Median": null
                     }
                 }
             }
@@ -2259,17 +2259,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 100,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 300,
+                        "Average": 164.01923076923077,
+                        "Median": 155,
+                        "Min": 70
+                    },
                     "Warframe.market": {
                         "Smart-median": 150.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 164.01923076923077,
-                        "Max": 300,
-                        "Min": 70,
-                        "Median": 155
                     }
                 }
             },
@@ -2281,17 +2281,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Chassis",
                 "Ducats": 15,
+                "Name": "Chassis",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 50,
+                        "Average": 19.90625,
+                        "Median": 18.5,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 13.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 19.90625,
-                        "Max": 50,
-                        "Min": 10,
-                        "Median": 18.5
                     }
                 }
             },
@@ -2303,17 +2303,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Neuroptics",
                 "Ducats": 15,
+                "Name": "Neuroptics",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 38.0
-                    },
                     "Nexus-stats": {
-                        "Average": 30.916666666666668,
                         "Max": 75,
-                        "Min": 15,
-                        "Median": 30
+                        "Average": 30.916666666666668,
+                        "Median": 30,
+                        "Min": 15
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 35.75
                     }
                 }
             },
@@ -2325,17 +2325,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Systems",
                 "Ducats": 45,
+                "Name": "Systems",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 60,
+                        "Average": 26.833333333333332,
+                        "Median": 22.5,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 23.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 26.833333333333332,
-                        "Max": 60,
-                        "Min": 10,
-                        "Median": 22.5
                     }
                 }
             }
@@ -2383,17 +2383,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blade",
                 "Ducats": 15,
+                "Name": "Blade",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 4.0
-                    },
                     "Nexus-stats": {
-                        "Average": 14.923076923076923,
                         "Max": 40,
-                        "Min": 8,
-                        "Median": 10
+                        "Average": 14.923076923076923,
+                        "Median": 10,
+                        "Min": 8
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 3.5
                     }
                 }
             },
@@ -2405,17 +2405,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 100,
+                "Name": "Blueprint",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 22.5
-                    },
                     "Nexus-stats": {
-                        "Average": 20.23076923076923,
                         "Max": 40,
-                        "Min": 7,
-                        "Median": 20
+                        "Average": 20.23076923076923,
+                        "Median": 20,
+                        "Min": 7
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 21.0
                     }
                 }
             },
@@ -2437,17 +2437,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Handle",
                 "Ducats": 45,
+                "Name": "Handle",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 14.875,
+                        "Median": 15,
+                        "Min": 7
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.75
-                    },
-                    "Nexus-stats": {
-                        "Average": 14.875,
-                        "Max": 30,
-                        "Min": 7,
-                        "Median": 15
                     }
                 }
             }
@@ -2465,17 +2465,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blade",
                 "Ducats": 45,
+                "Name": "Blade",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 100,
+                        "Average": 57.05128205128205,
+                        "Median": 45,
+                        "Min": 20
+                    },
                     "Warframe.market": {
                         "Smart-median": 67.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 57.05128205128205,
-                        "Max": 100,
-                        "Min": 20,
-                        "Median": 45
                     }
                 }
             },
@@ -2487,17 +2487,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 100,
+                "Name": "Blueprint",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 74.5
-                    },
                     "Nexus-stats": {
-                        "Average": 79.54545454545455,
                         "Max": 150,
-                        "Min": 40,
-                        "Median": 90
+                        "Average": 79.54545454545455,
+                        "Median": 90,
+                        "Min": 40
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 85.0
                     }
                 }
             },
@@ -2509,17 +2509,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Disc",
                 "Ducats": 45,
+                "Name": "Disc",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 50,
+                        "Average": 17.727272727272727,
+                        "Median": 15,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 10.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 17.727272727272727,
-                        "Max": 50,
-                        "Min": 10,
-                        "Median": 15
                     }
                 }
             }
@@ -2542,17 +2542,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 45,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 40,
+                        "Average": 16,
+                        "Median": 15,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 4.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 16,
-                        "Max": 40,
-                        "Min": 6,
-                        "Median": 15
                     }
                 }
             },
@@ -2574,17 +2574,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Carapace",
                 "Ducats": 15,
+                "Name": "Carapace",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 40,
+                        "Average": 18.25,
+                        "Median": 15,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 4.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 18.25,
-                        "Max": 40,
-                        "Min": 10,
-                        "Median": 15
                     }
                 }
             },
@@ -2601,17 +2601,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Cerebrum",
                 "Ducats": 100,
+                "Name": "Cerebrum",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 28.5
-                    },
                     "Nexus-stats": {
-                        "Average": 34.043010752688176,
                         "Max": 80,
-                        "Min": 15,
-                        "Median": 35
+                        "Average": 34.043010752688176,
+                        "Median": 35,
+                        "Min": 15
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 31.5
                     }
                 }
             },
@@ -2623,17 +2623,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Systems",
                 "Ducats": 45,
+                "Name": "Systems",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 40,
+                        "Average": 15.238095238095237,
+                        "Median": 10,
+                        "Min": 8
+                    },
                     "Warframe.market": {
                         "Smart-median": 6.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 15.238095238095237,
-                        "Max": 40,
-                        "Min": 8,
-                        "Median": 10
                     }
                 }
             }
@@ -2656,17 +2656,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 15,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 65,
+                        "Average": 46.666666666666664,
+                        "Median": 65,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 46.666666666666664,
-                        "Max": 65,
-                        "Min": 10,
-                        "Median": 65
                     }
                 }
             },
@@ -2683,17 +2683,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Pouch",
                 "Ducats": 15,
+                "Name": "Pouch",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 20,
+                        "Average": 14.666666666666666,
+                        "Median": 15,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 14.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 14.666666666666666,
-                        "Max": 20,
-                        "Min": 6,
-                        "Median": 15
                     }
                 }
             },
@@ -2710,17 +2710,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Stars",
                 "Ducats": 15,
+                "Name": "Stars",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 25,
+                        "Average": 17.5,
+                        "Median": 15,
+                        "Min": 15
+                    },
                     "Warframe.market": {
                         "Smart-median": 7.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 17.5,
-                        "Max": 25,
-                        "Min": 15,
-                        "Median": 15
                     }
                 }
             }
@@ -2758,13 +2758,13 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Band",
                 "Ducats": 45,
+                "Name": "Band",
                 "data": {
+                    "Nexus-stats": {},
                     "Warframe.market": {
                         "Smart-median": 4.0
-                    },
-                    "Nexus-stats": {}
+                    }
                 }
             },
             {
@@ -2790,13 +2790,13 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Buckle",
                 "Ducats": 65,
+                "Name": "Buckle",
                 "data": {
+                    "Nexus-stats": {},
                     "Warframe.market": {
                         "Smart-median": 7.0
-                    },
-                    "Nexus-stats": {}
+                    }
                 }
             },
             {
@@ -2817,17 +2817,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 45,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": null,
+                        "Average": null,
+                        "Median": null,
+                        "Min": null
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.75
-                    },
-                    "Nexus-stats": {
-                        "Average": null,
-                        "Max": null,
-                        "Min": null,
-                        "Median": null
                     }
                 }
             }
@@ -2845,17 +2845,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Barrel",
                 "Ducats": 15,
+                "Name": "Barrel",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 45,
+                        "Average": 28.88888888888889,
+                        "Median": 35,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 35.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 28.88888888888889,
-                        "Max": 45,
-                        "Min": 10,
-                        "Median": 35
                     }
                 }
             },
@@ -2867,17 +2867,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 15,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 400,
+                        "Average": 228.75,
+                        "Median": 237.5,
+                        "Min": 40
+                    },
                     "Warframe.market": {
                         "Smart-median": 7.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 228.75,
-                        "Max": 400,
-                        "Min": 40,
-                        "Median": 237.5
                     }
                 }
             },
@@ -2889,17 +2889,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Receiver",
                 "Ducats": 15,
+                "Name": "Receiver",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 10.0
-                    },
                     "Nexus-stats": {
-                        "Average": 12.5,
                         "Max": 15,
-                        "Min": 10,
-                        "Median": 12.5
+                        "Average": 12.5,
+                        "Median": 12.5,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 11.0
                     }
                 }
             },
@@ -2911,17 +2911,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Stock",
                 "Ducats": 15,
+                "Name": "Stock",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": null,
+                        "Average": null,
+                        "Median": null,
+                        "Min": null
+                    },
                     "Warframe.market": {
                         "Smart-median": 10.25
-                    },
-                    "Nexus-stats": {
-                        "Average": null,
-                        "Max": null,
-                        "Min": null,
-                        "Median": null
                     }
                 }
             }
@@ -2974,17 +2974,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Barrel",
                 "Ducats": 15,
+                "Name": "Barrel",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 2.5
-                    },
                     "Nexus-stats": {
-                        "Average": 11.571428571428571,
                         "Max": 20,
-                        "Min": 10,
-                        "Median": 10
+                        "Average": 11.571428571428571,
+                        "Median": 10,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 2.0
                     }
                 }
             },
@@ -3011,17 +3011,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 25,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 14.5625,
+                        "Median": 13.5,
+                        "Min": 8
+                    },
                     "Warframe.market": {
                         "Smart-median": 2.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 14.5625,
-                        "Max": 30,
-                        "Min": 8,
-                        "Median": 13.5
                     }
                 }
             },
@@ -3058,17 +3058,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Receiver",
                 "Ducats": 15,
+                "Name": "Receiver",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 9.5
-                    },
                     "Nexus-stats": {
-                        "Average": 10.217391304347826,
                         "Max": 20,
-                        "Min": 6,
-                        "Median": 10
+                        "Average": 10.227272727272727,
+                        "Median": 10,
+                        "Min": 6
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 10.0
                     }
                 }
             }
@@ -3080,65 +3080,65 @@
         "Components": [
             {
                 "Relics": [],
-                "Name": "Blueprint",
                 "Ducats": 15,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 100,
+                        "Average": 26.695652173913043,
+                        "Median": 20,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 9.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 26.695652173913043,
-                        "Max": 100,
-                        "Min": 10,
-                        "Median": 20
                     }
                 }
             },
             {
                 "Relics": [],
-                "Name": "Chassis",
                 "Ducats": 45,
+                "Name": "Chassis",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 350,
+                        "Average": 63.333333333333336,
+                        "Median": 50,
+                        "Min": 15
+                    },
                     "Warframe.market": {
                         "Smart-median": 37.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 63.333333333333336,
-                        "Max": 350,
-                        "Min": 15,
-                        "Median": 50
                     }
                 }
             },
             {
                 "Relics": [],
-                "Name": "Neuroptics",
                 "Ducats": 15,
+                "Name": "Neuroptics",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 50,
+                        "Average": 24.666666666666668,
+                        "Median": 25,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 9.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 24.666666666666668,
-                        "Max": 50,
-                        "Min": 10,
-                        "Median": 25
                     }
                 }
             },
             {
                 "Relics": [],
-                "Name": "Systems",
                 "Ducats": 100,
+                "Name": "Systems",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 800,
+                        "Average": 315.84090909090907,
+                        "Median": 290,
+                        "Min": 95
+                    },
                     "Warframe.market": {
                         "Smart-median": 315.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 315.84090909090907,
-                        "Max": 800,
-                        "Min": 95,
-                        "Median": 290
                     }
                 }
             }
@@ -3161,17 +3161,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 100,
+                "Name": "Blueprint",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 24.0
-                    },
                     "Nexus-stats": {
-                        "Average": 22.215384615384615,
                         "Max": 60,
-                        "Min": 10,
-                        "Median": 20
+                        "Average": 22.215384615384615,
+                        "Median": 20,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 26.0
                     }
                 }
             },
@@ -3188,17 +3188,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Chassis",
                 "Ducats": 45,
+                "Name": "Chassis",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 16.88888888888889,
+                        "Median": 15,
+                        "Min": 8
+                    },
                     "Warframe.market": {
                         "Smart-median": 6.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 16.88888888888889,
-                        "Max": 30,
-                        "Min": 8,
-                        "Median": 15
                     }
                 }
             },
@@ -3215,17 +3215,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Neuroptics",
                 "Ducats": 15,
+                "Name": "Neuroptics",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 9.0
-                    },
                     "Nexus-stats": {
-                        "Average": 18.55263157894737,
                         "Max": 50,
-                        "Min": 7,
-                        "Median": 15
+                        "Average": 18.55263157894737,
+                        "Median": 15,
+                        "Min": 7
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 6.5
                     }
                 }
             },
@@ -3242,17 +3242,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Systems",
                 "Ducats": 15,
+                "Name": "Systems",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 40,
+                        "Average": 19.692307692307693,
+                        "Median": 20,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 14.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 19.825,
-                        "Max": 40,
-                        "Min": 10,
-                        "Median": 20
                     }
                 }
             }
@@ -3280,17 +3280,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 100,
+                "Name": "Blueprint",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 21.0
-                    },
                     "Nexus-stats": {
-                        "Average": 20.093333333333334,
                         "Max": 50,
-                        "Min": 7,
-                        "Median": 20
+                        "Average": 20.093333333333334,
+                        "Median": 20,
+                        "Min": 7
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 20.0
                     }
                 }
             },
@@ -3317,17 +3317,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Chassis",
                 "Ducats": 15,
+                "Name": "Chassis",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 40,
+                        "Average": 15.619565217391305,
+                        "Median": 15,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 15.619565217391305,
-                        "Max": 40,
-                        "Min": 6,
-                        "Median": 15
                     }
                 }
             },
@@ -3339,17 +3339,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Neuroptics",
                 "Ducats": 45,
+                "Name": "Neuroptics",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 35,
+                        "Average": 12.340909090909092,
+                        "Median": 10,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 6.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 12.340909090909092,
-                        "Max": 35,
-                        "Min": 6,
-                        "Median": 10
                     }
                 }
             },
@@ -3371,17 +3371,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Systems",
                 "Ducats": 100,
+                "Name": "Systems",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 60,
+                        "Average": 23.45045045045045,
+                        "Median": 20,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 20.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 23.45045045045045,
-                        "Max": 60,
-                        "Min": 10,
-                        "Median": 20
                     }
                 }
             }
@@ -3409,17 +3409,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blade",
                 "Ducats": 100,
+                "Name": "Blade",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 20.0
-                    },
                     "Nexus-stats": {
-                        "Average": 18.73134328358209,
                         "Max": 40,
-                        "Min": 10,
-                        "Median": 20
+                        "Average": 18.823529411764707,
+                        "Median": 20,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 20.5
                     }
                 }
             },
@@ -3436,17 +3436,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 100,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 50,
+                        "Average": 18.87323943661972,
+                        "Median": 20,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 15.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 18.87323943661972,
-                        "Max": 50,
-                        "Min": 10,
-                        "Median": 20
                     }
                 }
             },
@@ -3463,17 +3463,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Hilt",
                 "Ducats": 100,
+                "Name": "Hilt",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 40,
+                        "Average": 17.24137931034483,
+                        "Median": 15,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 15.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 17.24137931034483,
-                        "Max": 40,
-                        "Min": 10,
-                        "Median": 15
                     }
                 }
             }
@@ -3491,17 +3491,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 45,
+                "Name": "Blueprint",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 17.0
-                    },
                     "Nexus-stats": {
-                        "Average": 19.693877551020407,
                         "Max": 60,
-                        "Min": 10,
-                        "Median": 20
+                        "Average": 19.693877551020407,
+                        "Median": 20,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 16.5
                     }
                 }
             },
@@ -3518,17 +3518,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Chassis",
                 "Ducats": 100,
+                "Name": "Chassis",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 122.5
-                    },
                     "Nexus-stats": {
-                        "Average": 127,
                         "Max": 220,
-                        "Min": 50,
-                        "Median": 130
+                        "Average": 124.62727272727273,
+                        "Median": 127.5,
+                        "Min": 40
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 129.5
                     }
                 }
             },
@@ -3545,17 +3545,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Neuroptics",
                 "Ducats": 15,
+                "Name": "Neuroptics",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 15.5,
+                        "Median": 15,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 6.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 15.5,
-                        "Max": 30,
-                        "Min": 10,
-                        "Median": 15
                     }
                 }
             },
@@ -3577,17 +3577,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Systems",
                 "Ducats": 15,
+                "Name": "Systems",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 12.25
-                    },
                     "Nexus-stats": {
-                        "Average": 15.722222222222221,
                         "Max": 30,
-                        "Min": 10,
-                        "Median": 15
+                        "Average": 15.885714285714286,
+                        "Median": 15,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 12.0
                     }
                 }
             }
@@ -3610,17 +3610,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 15,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 60,
+                        "Average": 19.675,
+                        "Median": 20,
+                        "Min": 8
+                    },
                     "Warframe.market": {
                         "Smart-median": 5.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 19.675,
-                        "Max": 60,
-                        "Min": 8,
-                        "Median": 20
                     }
                 }
             },
@@ -3632,17 +3632,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Chassis",
                 "Ducats": 100,
+                "Name": "Chassis",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 110.0
-                    },
                     "Nexus-stats": {
-                        "Average": 117.09836065573771,
                         "Max": 170,
-                        "Min": 50,
-                        "Median": 120
+                        "Average": 117.09836065573771,
+                        "Median": 120,
+                        "Min": 50
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 117.5
                     }
                 }
             },
@@ -3654,17 +3654,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Neuroptics",
                 "Ducats": 100,
+                "Name": "Neuroptics",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 40.5
-                    },
                     "Nexus-stats": {
-                        "Average": 40.666666666666664,
                         "Max": 70,
-                        "Min": 15,
-                        "Median": 40
+                        "Average": 40.02439024390244,
+                        "Median": 40,
+                        "Min": 15
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 37.5
                     }
                 }
             },
@@ -3676,17 +3676,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Systems",
                 "Ducats": 45,
+                "Name": "Systems",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 14.9,
+                        "Median": 15,
+                        "Min": 8
+                    },
                     "Warframe.market": {
                         "Smart-median": 10.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 14.9,
-                        "Max": 30,
-                        "Min": 8,
-                        "Median": 15
                     }
                 }
             }
@@ -3704,17 +3704,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 45,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 15.566666666666666,
+                        "Median": 15,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 6.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 15.566666666666666,
-                        "Max": 30,
-                        "Min": 6,
-                        "Median": 15
                     }
                 }
             },
@@ -3726,17 +3726,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Chassis",
                 "Ducats": 15,
+                "Name": "Chassis",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 90,
+                        "Average": 15.972222222222221,
+                        "Median": 11,
+                        "Min": 8
+                    },
                     "Warframe.market": {
                         "Smart-median": 10.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 15.972222222222221,
-                        "Max": 90,
-                        "Min": 8,
-                        "Median": 11
                     }
                 }
             },
@@ -3748,17 +3748,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Neuroptics",
                 "Ducats": 100,
+                "Name": "Neuroptics",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 32.0
-                    },
                     "Nexus-stats": {
-                        "Average": 27.78,
                         "Max": 50,
-                        "Min": 10,
-                        "Median": 29
+                        "Average": 27.78,
+                        "Median": 29,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 32.5
                     }
                 }
             },
@@ -3770,17 +3770,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Systems",
                 "Ducats": 100,
+                "Name": "Systems",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 70,
+                        "Average": 35.05940594059406,
+                        "Median": 35,
+                        "Min": 15
+                    },
                     "Warframe.market": {
                         "Smart-median": 32.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 35.21,
-                        "Max": 70,
-                        "Min": 15,
-                        "Median": 35
                     }
                 }
             }
@@ -3808,17 +3808,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 45,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 50,
+                        "Average": 16.5,
+                        "Median": 10,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 6.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 16.5,
-                        "Max": 50,
-                        "Min": 10,
-                        "Median": 10
                     }
                 }
             },
@@ -3845,17 +3845,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Harness",
                 "Ducats": 15,
+                "Name": "Harness",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 5.5
-                    },
                     "Nexus-stats": {
-                        "Average": 15,
                         "Max": 40,
-                        "Min": 10,
-                        "Median": 10
+                        "Average": 15,
+                        "Median": 10,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 6.0
                     }
                 }
             },
@@ -3877,17 +3877,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Systems",
                 "Ducats": 15,
+                "Name": "Systems",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 40,
+                        "Average": 30,
+                        "Median": 30,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 30,
-                        "Max": 40,
-                        "Min": 10,
-                        "Median": 30
                     }
                 }
             },
@@ -3899,17 +3899,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Wings",
                 "Ducats": 45,
+                "Name": "Wings",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 50,
+                        "Average": 26,
+                        "Median": 27.5,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 22.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 26,
-                        "Max": 50,
-                        "Min": 10,
-                        "Median": 27.5
                     }
                 }
             }
@@ -3927,17 +3927,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Blade",
                 "Ducats": 45,
+                "Name": "Blade",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 20,
+                        "Average": 10.217391304347826,
+                        "Median": 10,
+                        "Min": 7
+                    },
                     "Warframe.market": {
                         "Smart-median": 6.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 10.217391304347826,
-                        "Max": 20,
-                        "Min": 7,
-                        "Median": 10
                     }
                 }
             },
@@ -3964,17 +3964,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 45,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 20,
+                        "Average": 11.75,
+                        "Median": 10,
+                        "Min": 7
+                    },
                     "Warframe.market": {
                         "Smart-median": 6.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 11.75,
-                        "Max": 20,
-                        "Min": 7,
-                        "Median": 10
                     }
                 }
             },
@@ -3996,17 +3996,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Handle",
                 "Ducats": 15,
+                "Name": "Handle",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 3.0
-                    },
                     "Nexus-stats": {
-                        "Average": 138.75,
                         "Max": 510,
-                        "Min": 15,
-                        "Median": 15
+                        "Average": 138.75,
+                        "Median": 15,
+                        "Min": 15
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 2.5
                     }
                 }
             }
@@ -4059,17 +4059,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 15,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 14.466666666666667,
+                        "Median": 10,
+                        "Min": 7
+                    },
                     "Warframe.market": {
                         "Smart-median": 2.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 14.466666666666667,
-                        "Max": 30,
-                        "Min": 7,
-                        "Median": 10
                     }
                 }
             },
@@ -4086,16 +4086,16 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Grip",
                 "Ducats": 45,
+                "Name": "Grip",
                 "data": {
-                    "Warframe.market": {},
                     "Nexus-stats": {
-                        "Average": 25,
                         "Max": 50,
-                        "Min": 10,
-                        "Median": 20
-                    }
+                        "Average": 25,
+                        "Median": 20,
+                        "Min": 10
+                    },
+                    "Warframe.market": {}
                 }
             },
             {
@@ -4131,16 +4131,16 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Lower Limb",
                 "Ducats": 15,
+                "Name": "Lower Limb",
                 "data": {
-                    "Warframe.market": {},
                     "Nexus-stats": {
-                        "Average": 26.75,
                         "Max": 75,
-                        "Min": 10,
-                        "Median": 14.5
-                    }
+                        "Average": 26.75,
+                        "Median": 14.5,
+                        "Min": 10
+                    },
+                    "Warframe.market": {}
                 }
             },
             {
@@ -4186,17 +4186,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "String",
                 "Ducats": 15,
+                "Name": "String",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 10,
+                        "Average": 9.142857142857142,
+                        "Median": 10,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 4.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 9.142857142857142,
-                        "Max": 10,
-                        "Min": 6,
-                        "Median": 10
                     }
                 }
             },
@@ -4243,17 +4243,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Upper Limb",
                 "Ducats": 25,
+                "Name": "Upper Limb",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 25,
+                        "Average": 16.11111111111111,
+                        "Median": 15,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 16.11111111111111,
-                        "Max": 25,
-                        "Min": 10,
-                        "Median": 15
                     }
                 }
             }
@@ -4271,17 +4271,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blade",
                 "Ducats": 45,
+                "Name": "Blade",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 22.5
-                    },
                     "Nexus-stats": {
-                        "Average": 35.27777777777778,
                         "Max": 50,
-                        "Min": 10,
-                        "Median": 40
+                        "Average": 35.27777777777778,
+                        "Median": 40,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 25.0
                     }
                 }
             },
@@ -4293,17 +4293,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 15,
+                "Name": "Blueprint",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 13.75
-                    },
                     "Nexus-stats": {
-                        "Average": 11.666666666666666,
                         "Max": 15,
-                        "Min": 10,
-                        "Median": 10
+                        "Average": 11.666666666666666,
+                        "Median": 10,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 13.5
                     }
                 }
             },
@@ -4315,17 +4315,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Handle",
                 "Ducats": 15,
+                "Name": "Handle",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 12.25
-                    },
                     "Nexus-stats": {
-                        "Average": 19.11111111111111,
                         "Max": 40,
-                        "Min": 10,
-                        "Median": 15
+                        "Average": 19.11111111111111,
+                        "Median": 15,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 13.25
                     }
                 }
             }
@@ -4343,17 +4343,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 100,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 350,
+                        "Average": 143.121387283237,
+                        "Median": 150,
+                        "Min": 50
+                    },
                     "Warframe.market": {
                         "Smart-median": 149.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 141.94285714285715,
-                        "Max": 350,
-                        "Min": 40,
-                        "Median": 150
                     }
                 }
             },
@@ -4365,17 +4365,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Chassis",
                 "Ducats": 45,
+                "Name": "Chassis",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 22.5
-                    },
                     "Nexus-stats": {
-                        "Average": 22.978021978021978,
                         "Max": 70,
-                        "Min": 10,
-                        "Median": 20
+                        "Average": 22.978021978021978,
+                        "Median": 20,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 20.75
                     }
                 }
             },
@@ -4387,17 +4387,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Neuroptics",
                 "Ducats": 45,
+                "Name": "Neuroptics",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 12.5
-                    },
                     "Nexus-stats": {
-                        "Average": 15.168539325842696,
                         "Max": 40,
-                        "Min": 6,
-                        "Median": 15
+                        "Average": 15.168539325842696,
+                        "Median": 15,
+                        "Min": 6
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 11.5
                     }
                 }
             },
@@ -4409,17 +4409,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Systems",
                 "Ducats": 15,
+                "Name": "Systems",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 50,
+                        "Average": 16.533333333333335,
+                        "Median": 15,
+                        "Min": 7
+                    },
                     "Warframe.market": {
                         "Smart-median": 10.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 16.533333333333335,
-                        "Max": 50,
-                        "Min": 7,
-                        "Median": 15
                     }
                 }
             }
@@ -4447,17 +4447,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 100,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 45,
+                        "Average": 15.795180722891565,
+                        "Median": 15,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 11.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 15.795180722891565,
-                        "Max": 45,
-                        "Min": 6,
-                        "Median": 15
                     }
                 }
             },
@@ -4474,17 +4474,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Chassis",
                 "Ducats": 100,
+                "Name": "Chassis",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 21.0
-                    },
                     "Nexus-stats": {
-                        "Average": 23.0125,
-                        "Max": 60,
-                        "Min": 8,
-                        "Median": 20
+                        "Max": 40,
+                        "Average": 22.192307692307693,
+                        "Median": 20,
+                        "Min": 8
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 20.25
                     }
                 }
             },
@@ -4506,17 +4506,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Neuroptics",
                 "Ducats": 45,
+                "Name": "Neuroptics",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 12.735294117647058,
+                        "Median": 10,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 6.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 12.735294117647058,
-                        "Max": 30,
-                        "Min": 6,
-                        "Median": 10
                     }
                 }
             },
@@ -4553,17 +4553,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Systems",
                 "Ducats": 15,
+                "Name": "Systems",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 60,
+                        "Average": 21.25423728813559,
+                        "Median": 20,
+                        "Min": 7
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 21.566666666666666,
-                        "Max": 60,
-                        "Min": 7,
-                        "Median": 20
                     }
                 }
             }
@@ -4581,17 +4581,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blade",
                 "Ducats": 100,
+                "Name": "Blade",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 100,
+                        "Average": 44.78260869565217,
+                        "Median": 45,
+                        "Min": 15
+                    },
                     "Warframe.market": {
                         "Smart-median": 39.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 44.78260869565217,
-                        "Max": 100,
-                        "Min": 15,
-                        "Median": 45
                     }
                 }
             },
@@ -4603,17 +4603,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 45,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 25,
+                        "Average": 12.25,
+                        "Median": 10,
+                        "Min": 7
+                    },
                     "Warframe.market": {
                         "Smart-median": 5.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 12.25,
-                        "Max": 25,
-                        "Min": 7,
-                        "Median": 10
                     }
                 }
             },
@@ -4625,17 +4625,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Handle",
                 "Ducats": 45,
+                "Name": "Handle",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 13.625,
+                        "Median": 10,
+                        "Min": 9
+                    },
                     "Warframe.market": {
                         "Smart-median": 6.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 13.625,
-                        "Max": 30,
-                        "Min": 9,
-                        "Median": 10
                     }
                 }
             }
@@ -4653,17 +4653,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Barrel",
                 "Ducats": 15,
+                "Name": "Barrel",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 35,
+                        "Average": 24.181818181818183,
+                        "Median": 30,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 14.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 24.181818181818183,
-                        "Max": 35,
-                        "Min": 10,
-                        "Median": 30
                     }
                 }
             },
@@ -4675,17 +4675,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 15,
+                "Name": "Blueprint",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 39.25
-                    },
                     "Nexus-stats": {
-                        "Average": 67.6875,
                         "Max": 150,
-                        "Min": 20,
-                        "Median": 65
+                        "Average": 67.6875,
+                        "Median": 65,
+                        "Min": 20
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 36.75
                     }
                 }
             },
@@ -4697,17 +4697,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Receiver",
                 "Ducats": 100,
+                "Name": "Receiver",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 112.0
-                    },
                     "Nexus-stats": {
-                        "Average": 92.46428571428571,
                         "Max": 159,
-                        "Min": 20,
-                        "Median": 100
+                        "Average": 92.46428571428571,
+                        "Median": 100,
+                        "Min": 20
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 110.0
                     }
                 }
             }
@@ -4725,17 +4725,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Blade",
                 "Ducats": 45,
+                "Name": "Blade",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 45,
+                        "Average": 15.583333333333334,
+                        "Median": 12,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 9.25
-                    },
-                    "Nexus-stats": {
-                        "Average": 15.583333333333334,
-                        "Max": 45,
-                        "Min": 10,
-                        "Median": 12
                     }
                 }
             },
@@ -4747,17 +4747,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 45,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 50,
+                        "Average": 13.2,
+                        "Median": 10,
+                        "Min": 7
+                    },
                     "Warframe.market": {
                         "Smart-median": 6.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 13.2,
-                        "Max": 50,
-                        "Min": 7,
-                        "Median": 10
                     }
                 }
             },
@@ -4769,17 +4769,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Guard",
                 "Ducats": 100,
+                "Name": "Guard",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 40,
+                        "Average": 18.9,
+                        "Median": 20,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 17.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 18.9,
-                        "Max": 40,
-                        "Min": 6,
-                        "Median": 20
                     }
                 }
             },
@@ -4791,17 +4791,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Hilt",
                 "Ducats": 15,
+                "Name": "Hilt",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 6.5
-                    },
                     "Nexus-stats": {
-                        "Average": 10.75,
                         "Max": 20,
-                        "Min": 7,
-                        "Median": 10
+                        "Average": 10.75,
+                        "Median": 10,
+                        "Min": 7
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 6.0
                     }
                 }
             }
@@ -4819,17 +4819,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Barrel",
                 "Ducats": 15,
+                "Name": "Barrel",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 14.75
-                    },
                     "Nexus-stats": {
-                        "Average": 16.78723404255319,
                         "Max": 40,
-                        "Min": 7,
-                        "Median": 15
+                        "Average": 16.78723404255319,
+                        "Median": 15,
+                        "Min": 7
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 15.0
                     }
                 }
             },
@@ -4846,17 +4846,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 25,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 50,
+                        "Average": 21.157894736842106,
+                        "Median": 15,
+                        "Min": 7
+                    },
                     "Warframe.market": {
                         "Smart-median": 7.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 21.157894736842106,
-                        "Max": 50,
-                        "Min": 7,
-                        "Median": 15
                     }
                 }
             },
@@ -4873,17 +4873,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Receiver",
                 "Ducats": 45,
+                "Name": "Receiver",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 110,
+                        "Average": 39.45977011494253,
+                        "Median": 40,
+                        "Min": 15
+                    },
                     "Warframe.market": {
                         "Smart-median": 37.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 38.98837209302326,
-                        "Max": 110,
-                        "Min": 15,
-                        "Median": 40
                     }
                 }
             },
@@ -4900,17 +4900,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Stock",
                 "Ducats": 100,
+                "Name": "Stock",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 200,
+                        "Average": 70.48091603053435,
+                        "Median": 75,
+                        "Min": 20
+                    },
                     "Warframe.market": {
                         "Smart-median": 68.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 70.48091603053435,
-                        "Max": 200,
-                        "Min": 20,
-                        "Median": 75
                     }
                 }
             }
@@ -4938,17 +4938,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blade",
                 "Ducats": 100,
+                "Name": "Blade",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 60,
+                        "Average": 26.714285714285715,
+                        "Median": 29,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 25.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 26.714285714285715,
-                        "Max": 60,
-                        "Min": 10,
-                        "Median": 29
                     }
                 }
             },
@@ -4980,17 +4980,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 15,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 14.235294117647058,
+                        "Median": 10,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 2.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 14.235294117647058,
-                        "Max": 30,
-                        "Min": 6,
-                        "Median": 10
                     }
                 }
             },
@@ -5017,17 +5017,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Pouch",
                 "Ducats": 100,
+                "Name": "Pouch",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 25,
+                        "Average": 13.41025641025641,
+                        "Median": 10,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 11.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 13.325,
-                        "Max": 25,
-                        "Min": 6,
-                        "Median": 10
                     }
                 }
             }
@@ -5045,17 +5045,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Barrel",
                 "Ducats": 100,
+                "Name": "Barrel",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 80,
+                        "Average": 28.586666666666666,
+                        "Median": 30,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 27.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 28.986666666666668,
-                        "Max": 80,
-                        "Min": 10,
-                        "Median": 30
                     }
                 }
             },
@@ -5067,17 +5067,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 15,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 13.136363636363637,
+                        "Median": 10,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 7.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 13.136363636363637,
-                        "Max": 30,
-                        "Min": 6,
-                        "Median": 10
                     }
                 }
             },
@@ -5089,17 +5089,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Receiver",
                 "Ducats": 45,
+                "Name": "Receiver",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 25,
+                        "Average": 11.882352941176471,
+                        "Median": 10,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 6.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 11.882352941176471,
-                        "Max": 25,
-                        "Min": 6,
-                        "Median": 10
                     }
                 }
             },
@@ -5111,17 +5111,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Stock",
                 "Ducats": 15,
+                "Name": "Stock",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 4.0
-                    },
                     "Nexus-stats": {
-                        "Average": 18.272727272727273,
-                        "Max": 40,
-                        "Min": 6,
-                        "Median": 15
+                        "Max": 50,
+                        "Average": 23.153846153846153,
+                        "Median": 15,
+                        "Min": 6
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 3.5
                     }
                 }
             }
@@ -5149,17 +5149,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Barrel",
                 "Ducats": 45,
+                "Name": "Barrel",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 18.666666666666668,
+                        "Median": 20,
+                        "Min": 7
+                    },
                     "Warframe.market": {
                         "Smart-median": 4.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 18.666666666666668,
-                        "Max": 30,
-                        "Min": 7,
-                        "Median": 20
                     }
                 }
             },
@@ -5176,17 +5176,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 100,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 35,
+                        "Average": 15.197802197802197,
+                        "Median": 15,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 15.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 15.202247191011235,
-                        "Max": 35,
-                        "Min": 6,
-                        "Median": 15
                     }
                 }
             },
@@ -5213,17 +5213,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Receiver",
                 "Ducats": 45,
+                "Name": "Receiver",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 13.5,
+                        "Median": 10.5,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 4.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 13.5,
-                        "Max": 30,
-                        "Min": 6,
-                        "Median": 10.5
                     }
                 }
             },
@@ -5245,17 +5245,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Stock",
                 "Ducats": 15,
+                "Name": "Stock",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 100,
+                        "Average": 24.916666666666668,
+                        "Median": 17.5,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.25
-                    },
-                    "Nexus-stats": {
-                        "Average": 24.916666666666668,
-                        "Max": 100,
-                        "Min": 6,
-                        "Median": 17.5
                     }
                 }
             }
@@ -5288,17 +5288,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 45,
+                "Name": "Blueprint",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 6.0
-                    },
                     "Nexus-stats": {
-                        "Average": 13.344827586206897,
-                        "Max": 30,
-                        "Min": 6,
-                        "Median": 10
+                        "Max": 40,
+                        "Average": 13.796610169491526,
+                        "Median": 10,
+                        "Min": 6
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 6.5
                     }
                 }
             },
@@ -5325,17 +5325,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Chassis",
                 "Ducats": 45,
+                "Name": "Chassis",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 11.903846153846153,
+                        "Median": 10,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 5.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 11.903846153846153,
-                        "Max": 30,
-                        "Min": 6,
-                        "Median": 10
                     }
                 }
             },
@@ -5367,17 +5367,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Neuroptics",
                 "Ducats": 25,
+                "Name": "Neuroptics",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 11.295454545454545,
+                        "Median": 10,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 7.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 11.295454545454545,
-                        "Max": 30,
-                        "Min": 6,
-                        "Median": 10
                     }
                 }
             },
@@ -5414,17 +5414,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Systems",
                 "Ducats": 15,
+                "Name": "Systems",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 30,
+                        "Average": 12.89090909090909,
+                        "Median": 10,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 10.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 12.89090909090909,
-                        "Max": 30,
-                        "Min": 6,
-                        "Median": 10
                     }
                 }
             }
@@ -5457,17 +5457,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 15,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 50,
+                        "Average": 18.142857142857142,
+                        "Median": 15,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 18.142857142857142,
-                        "Max": 50,
-                        "Min": 6,
-                        "Median": 15
                     }
                 }
             },
@@ -5479,17 +5479,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Chassis",
                 "Ducats": 100,
+                "Name": "Chassis",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 90,
+                        "Average": 38.261538461538464,
+                        "Median": 40,
+                        "Min": 12
+                    },
                     "Warframe.market": {
                         "Smart-median": 37.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 38.36434108527132,
-                        "Max": 90,
-                        "Min": 12,
-                        "Median": 40
                     }
                 }
             },
@@ -5516,17 +5516,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Neuroptics",
                 "Ducats": 45,
+                "Name": "Neuroptics",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 50,
+                        "Average": 15.044444444444444,
+                        "Median": 15,
+                        "Min": 7
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 15.044444444444444,
-                        "Max": 50,
-                        "Min": 7,
-                        "Median": 15
                     }
                 }
             },
@@ -5543,17 +5543,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Systems",
                 "Ducats": 100,
+                "Name": "Systems",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 60,
+                        "Average": 24.855555555555554,
+                        "Median": 25,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 20.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 24.96629213483146,
-                        "Max": 60,
-                        "Min": 10,
-                        "Median": 25
                     }
                 }
             }
@@ -5581,17 +5581,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Barrel",
                 "Ducats": 15,
+                "Name": "Barrel",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 7.0
-                    },
                     "Nexus-stats": {
-                        "Average": 10,
                         "Max": 10,
-                        "Min": 10,
-                        "Median": 10
+                        "Average": 10,
+                        "Median": 10,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 7.5
                     }
                 }
             },
@@ -5603,17 +5603,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 45,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 55,
+                        "Average": 20.9375,
+                        "Median": 20,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 15.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 20.9375,
-                        "Max": 55,
-                        "Min": 10,
-                        "Median": 20
                     }
                 }
             },
@@ -5630,17 +5630,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Receiver",
                 "Ducats": 15,
+                "Name": "Receiver",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 100,
+                        "Average": 29,
+                        "Median": 10,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 3.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 29,
-                        "Max": 100,
-                        "Min": 10,
-                        "Median": 10
                     }
                 }
             }
@@ -5663,17 +5663,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 100,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 40,
+                        "Average": 15.320754716981131,
+                        "Median": 15,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 15.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 15.320754716981131,
-                        "Max": 40,
-                        "Min": 10,
-                        "Median": 15
                     }
                 }
             },
@@ -5695,17 +5695,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Chassis",
                 "Ducats": 100,
+                "Name": "Chassis",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 40,
+                        "Average": 15.133333333333333,
+                        "Median": 15,
+                        "Min": 7
+                    },
                     "Warframe.market": {
                         "Smart-median": 14.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 15.130434782608695,
-                        "Max": 40,
-                        "Min": 7,
-                        "Median": 15
                     }
                 }
             },
@@ -5727,17 +5727,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Neuroptics",
                 "Ducats": 100,
+                "Name": "Neuroptics",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 50,
+                        "Average": 17.5625,
+                        "Median": 15,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 15.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 17.6,
-                        "Max": 50,
-                        "Min": 10,
-                        "Median": 15
                     }
                 }
             },
@@ -5754,17 +5754,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Systems",
                 "Ducats": 100,
+                "Name": "Systems",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 35,
+                        "Average": 17.509090909090908,
+                        "Median": 15,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 15.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 17.509090909090908,
-                        "Max": 35,
-                        "Min": 10,
-                        "Median": 15
                     }
                 }
             }
@@ -5797,17 +5797,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Barrel",
                 "Ducats": 15,
+                "Name": "Barrel",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 20,
+                        "Average": 11.25,
+                        "Median": 10,
+                        "Min": 10
+                    },
                     "Warframe.market": {
                         "Smart-median": 7.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 11.25,
-                        "Max": 20,
-                        "Min": 10,
-                        "Median": 10
                     }
                 }
             },
@@ -5824,17 +5824,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 45,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 50,
+                        "Average": 17.4375,
+                        "Median": 15,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 6.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 17.4375,
-                        "Max": 50,
-                        "Min": 6,
-                        "Median": 15
                     }
                 }
             },
@@ -5846,17 +5846,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Receiver",
                 "Ducats": 100,
+                "Name": "Receiver",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 40.0
-                    },
                     "Nexus-stats": {
-                        "Average": 44.680851063829785,
                         "Max": 90,
-                        "Min": 15,
-                        "Median": 40
+                        "Average": 44.680851063829785,
+                        "Median": 40,
+                        "Min": 15
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 41.5
                     }
                 }
             },
@@ -5883,17 +5883,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Stock",
                 "Ducats": 65,
+                "Name": "Stock",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 70,
+                        "Average": 19.20689655172414,
+                        "Median": 15,
+                        "Min": 7
+                    },
                     "Warframe.market": {
                         "Smart-median": 13.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 19.20689655172414,
-                        "Max": 70,
-                        "Min": 7,
-                        "Median": 15
                     }
                 }
             }
@@ -5921,17 +5921,17 @@
                         "Vaulted": false
                     }
                 ],
-                "Name": "Blades",
                 "Ducats": 15,
+                "Name": "Blades",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 60,
+                        "Average": 15.714285714285714,
+                        "Median": 10,
+                        "Min": 7
+                    },
                     "Warframe.market": {
                         "Smart-median": 5.5
-                    },
-                    "Nexus-stats": {
-                        "Average": 15.714285714285714,
-                        "Max": 60,
-                        "Min": 7,
-                        "Median": 10
                     }
                 }
             },
@@ -5948,17 +5948,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 45,
+                "Name": "Blueprint",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 20,
+                        "Average": 11.375,
+                        "Median": 10,
+                        "Min": 6
+                    },
                     "Warframe.market": {
                         "Smart-median": 4.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 11.375,
-                        "Max": 20,
-                        "Min": 6,
-                        "Median": 10
                     }
                 }
             },
@@ -5975,17 +5975,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Gauntlet",
                 "Ducats": 100,
+                "Name": "Gauntlet",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 20.25
-                    },
                     "Nexus-stats": {
-                        "Average": 25.796296296296298,
                         "Max": 60,
-                        "Min": 10,
-                        "Median": 25
+                        "Average": 25.81132075471698,
+                        "Median": 25,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 22.5
                     }
                 }
             }
@@ -6008,17 +6008,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Blueprint",
                 "Ducats": 45,
+                "Name": "Blueprint",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 19.0
-                    },
                     "Nexus-stats": {
-                        "Average": 23.433962264150942,
                         "Max": 60,
-                        "Min": 10,
-                        "Median": 20
+                        "Average": 23.433962264150942,
+                        "Median": 20,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 20.0
                     }
                 }
             },
@@ -6035,17 +6035,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Chassis",
                 "Ducats": 45,
+                "Name": "Chassis",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 12.5
-                    },
                     "Nexus-stats": {
-                        "Average": 19.175,
                         "Max": 45,
-                        "Min": 10,
-                        "Median": 16
+                        "Average": 19.28205128205128,
+                        "Median": 17,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 14.0
                     }
                 }
             },
@@ -6057,17 +6057,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Neuroptics",
                 "Ducats": 45,
+                "Name": "Neuroptics",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 15.5
-                    },
                     "Nexus-stats": {
-                        "Average": 20,
                         "Max": 60,
-                        "Min": 10,
-                        "Median": 20
+                        "Average": 20,
+                        "Median": 20,
+                        "Min": 10
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 17.5
                     }
                 }
             },
@@ -6079,17 +6079,17 @@
                         "Vaulted": true
                     }
                 ],
-                "Name": "Systems",
                 "Ducats": 45,
+                "Name": "Systems",
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 9.25
-                    },
                     "Nexus-stats": {
-                        "Average": 15.717391304347826,
                         "Max": 35,
-                        "Min": 7,
-                        "Median": 15
+                        "Average": 15.717391304347826,
+                        "Median": 15,
+                        "Min": 7
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 9.5
                     }
                 }
             }
@@ -6101,65 +6101,65 @@
         "Components": [
             {
                 "Relics": [],
+                "Ducats": 15,
                 "Name": "Blueprint",
-                "Ducats": 15,
                 "data": {
-                    "Warframe.market": {
-                        "Smart-median": 79.75
-                    },
                     "Nexus-stats": {
-                        "Average": 79.0909090909091,
                         "Max": 145,
-                        "Min": 50,
-                        "Median": 70
-                    }
-                }
-            },
-            {
-                "Relics": [],
-                "Name": "Cerebrum",
-                "Ducats": 15,
-                "data": {
-                    "Warframe.market": {
-                        "Smart-median": 37.25
+                        "Average": 79.0909090909091,
+                        "Median": 70,
+                        "Min": 50
                     },
-                    "Nexus-stats": {
-                        "Average": 46.94444444444444,
-                        "Max": 100,
-                        "Min": 15,
-                        "Median": 40
+                    "Warframe.market": {
+                        "Smart-median": 76.5
                     }
                 }
             },
             {
                 "Relics": [],
-                "Name": "Carapace",
                 "Ducats": 15,
+                "Name": "Cerebrum",
                 "data": {
+                    "Nexus-stats": {
+                        "Max": 100,
+                        "Average": 45.78947368421053,
+                        "Median": 40,
+                        "Min": 15
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 37.5
+                    }
+                }
+            },
+            {
+                "Relics": [],
+                "Ducats": 15,
+                "Name": "Carapace",
+                "data": {
+                    "Nexus-stats": {
+                        "Max": 300,
+                        "Average": 53.92857142857143,
+                        "Median": 27.5,
+                        "Min": 15
+                    },
+                    "Warframe.market": {
+                        "Smart-median": 32.5
+                    }
+                }
+            },
+            {
+                "Relics": [],
+                "Ducats": 45,
+                "Name": "Systems",
+                "data": {
+                    "Nexus-stats": {
+                        "Max": 60,
+                        "Average": 36.95454545454545,
+                        "Median": 35,
+                        "Min": 18
+                    },
                     "Warframe.market": {
                         "Smart-median": 30.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 56.15384615384615,
-                        "Max": 300,
-                        "Min": 15,
-                        "Median": 30
-                    }
-                }
-            },
-            {
-                "Relics": [],
-                "Name": "Systems",
-                "Ducats": 45,
-                "data": {
-                    "Warframe.market": {
-                        "Smart-median": 31.0
-                    },
-                    "Nexus-stats": {
-                        "Average": 41.869565217391305,
-                        "Max": 150,
-                        "Min": 18,
-                        "Median": 35
                     }
                 }
             }
