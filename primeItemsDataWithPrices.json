@@ -1,35 +1,34 @@
 [
     {
         "Name": "Akbronco Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith S2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith S3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso O1",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso S3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 2.5
+                        "Smart-median": 3.0
                     },
                     "Nexus-stats": {
                         "Max": 100,
@@ -44,23 +43,23 @@
                 "Name": "Link",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith A2",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith N1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith S5",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi S1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -77,24 +76,24 @@
                 },
                 "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Aklex Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi A2",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 17.5
+                        "Smart-median": 13.0
                     },
                     "Nexus-stats": {
                         "Max": 60,
@@ -109,14 +108,14 @@
                 "Name": "Link",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi A2",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 65.5
+                        "Smart-median": 67.5
                     },
                     "Nexus-stats": {
                         "Max": 160,
@@ -127,29 +126,29 @@
                 },
                 "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Akstiletto Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Barrel",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi A1",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi H2",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 6.0
+                        "Smart-median": 6.5
                     },
                     "Nexus-stats": {
                         "Max": 20,
@@ -164,18 +163,18 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith A1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith A2",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo A1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
@@ -187,7 +186,7 @@
                         "Max": 40,
                         "Min": 8,
                         "Median": 15,
-                        "Average": 15.208955223880597
+                        "Average": 15.212121212121213
                     }
                 },
                 "Ducats": 100
@@ -196,24 +195,24 @@
                 "Name": "Link",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso O1",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo N5",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi N1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 5.5
+                        "Smart-median": 6.5
                     },
                     "Nexus-stats": {
                         "Max": 35,
@@ -228,29 +227,29 @@
                 "Name": "Receiver",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi H1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi K1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi O1",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi T1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 10.0
+                        "Smart-median": 10.5
                     },
                     "Nexus-stats": {
                         "Max": 40,
@@ -261,18 +260,18 @@
                 },
                 "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Ankyros Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Blade",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi R1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -293,8 +292,8 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith B1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -315,14 +314,14 @@
                 "Name": "Gauntlet",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Meso M1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 12.5
+                        "Smart-median": 12.75
                     },
                     "Nexus-stats": {
                         "Max": 25,
@@ -333,34 +332,34 @@
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Ash Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith S3",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso C1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso S3",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 11.75
+                        "Smart-median": 12.5
                     },
                     "Nexus-stats": {
                         "Max": 50,
@@ -375,30 +374,30 @@
                 "Name": "Chassis",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Meso V2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo N4",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi B1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 6.0
+                        "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Max": 40,
+                        "Max": 60,
                         "Min": 9,
                         "Median": 15,
-                        "Average": 17.547619047619047
+                        "Average": 18.454545454545453
                     }
                 },
                 "Ducats": 15
@@ -407,28 +406,28 @@
                 "Name": "Neuroptics",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso N2",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso V4",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo N3",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo V4",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi N2",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -449,13 +448,13 @@
                 "Name": "Systems",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo N5",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi N1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
@@ -472,23 +471,23 @@
                 },
                 "Ducats": 65
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Banshee Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo N7",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo T1",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
@@ -500,7 +499,7 @@
                         "Max": 40,
                         "Min": 7,
                         "Median": 15,
-                        "Average": 15.851851851851851
+                        "Average": 15.867924528301886
                     }
                 },
                 "Ducats": 45
@@ -509,13 +508,13 @@
                 "Name": "Chassis",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo B1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo B2",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     }
                 ],
@@ -536,8 +535,8 @@
                 "Name": "Neuroptics",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Meso S4",
+                        "Rarity": "Common",
                         "Vaulted": false
                     }
                 ],
@@ -558,19 +557,19 @@
                 "Name": "Systems",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi B1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi B2",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 37.5
+                        "Smart-median": 35.0
                     },
                     "Nexus-stats": {
                         "Max": 75,
@@ -581,11 +580,11 @@
                 },
                 "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Bo Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Blueprint",
@@ -635,23 +634,23 @@
                 },
                 "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Boar Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Barrel",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso M1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi V2",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -672,13 +671,13 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Neo B3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo D1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -699,13 +698,13 @@
                 "Name": "Receiver",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith M1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi R1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -726,13 +725,13 @@
                 "Name": "Stock",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith B1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso B1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
@@ -749,18 +748,18 @@
                 },
                 "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Boltor Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Barrel",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Meso M1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -781,8 +780,8 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo B3",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
@@ -803,8 +802,8 @@
                 "Name": "Receiver",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith B1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -825,51 +824,51 @@
                 "Name": "Stock",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Axi R1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 22.5
+                        "Smart-median": 19.5
                     },
                     "Nexus-stats": {
                         "Max": 50,
                         "Min": 10,
-                        "Median": 24.5,
-                        "Average": 25.42105263157895
+                        "Median": 25,
+                        "Average": 25.435897435897434
                     }
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Braton Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Barrel",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith A1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso N3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso S5",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo A1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -890,28 +889,28 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith N3",
-                        "Vaulted": false
-                    },
-                    {
-                        "Rarity": "Common",
-                        "Name": "Lith V3",
-                        "Vaulted": false
-                    },
-                    {
                         "Rarity": "Uncommon",
+                        "Vaulted": false
+                    },
+                    {
+                        "Name": "Lith V3",
+                        "Rarity": "Common",
+                        "Vaulted": false
+                    },
+                    {
                         "Name": "Meso V1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi C2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi N1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -920,10 +919,10 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Max": 20,
+                        "Max": 30,
                         "Min": 7,
                         "Median": 10,
-                        "Average": 11.083333333333334
+                        "Average": 12.538461538461538
                     }
                 },
                 "Ducats": 25
@@ -932,24 +931,24 @@
                 "Name": "Receiver",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi V2",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi V3",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi V5",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 9.0
+                        "Smart-median": 9.5
                     },
                     "Nexus-stats": {
                         "Max": 20,
@@ -964,33 +963,33 @@
                 "Name": "Stock",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Meso N1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo B2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo N4",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo V2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi A1",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi E2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     }
                 ],
@@ -1007,28 +1006,28 @@
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Bronco Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Barrel",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo V1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi E2",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi N3",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -1049,48 +1048,48 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith N1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith S1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso C2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso N2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso N3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso S2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso V5",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi N2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi S1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -1111,34 +1110,34 @@
                 "Name": "Receiver",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Meso F1",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo B1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo N6",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo V4",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi S1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 3.5
+                        "Smart-median": 3.0
                     },
                     "Nexus-stats": {
                         "Max": 15,
@@ -1149,39 +1148,39 @@
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Burston Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Barrel",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith F2",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo B1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo V5",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi T1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 4.75
+                        "Smart-median": 5.0
                     },
                     "Nexus-stats": {
                         "Max": 100,
@@ -1196,18 +1195,18 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Meso V1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo S6",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo T1",
+                        "Rarity": "Common",
                         "Vaulted": false
                     }
                 ],
@@ -1228,24 +1227,24 @@
                 "Name": "Receiver",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith N3",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith S5",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo S3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 2.5
+                        "Smart-median": 3.0
                     },
                     "Nexus-stats": {
                         "Max": 15,
@@ -1260,34 +1259,34 @@
                 "Name": "Stock",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith K1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith V1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso N3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso S5",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo S2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 2.0
+                        "Smart-median": 2.5
                     },
                     "Nexus-stats": {
                         "Max": 30,
@@ -1298,39 +1297,39 @@
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Carrier Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Meso V1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso V3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso V4",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo S3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 3.25
+                        "Smart-median": 5.5
                     },
                     "Nexus-stats": {
                         "Max": 50,
@@ -1345,18 +1344,18 @@
                 "Name": "Carapace",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith S5",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo S1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi N2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -1377,23 +1376,23 @@
                 "Name": "Cerebrum",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith C1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso C1",
-                        "Vaulted": true
-                    },
-                    {
                         "Rarity": "Rare",
-                        "Name": "Meso C2",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
+                        "Name": "Meso C2",
+                        "Rarity": "Rare",
+                        "Vaulted": true
+                    },
+                    {
                         "Name": "Meso N3",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -1405,7 +1404,7 @@
                         "Max": 80,
                         "Min": 10,
                         "Median": 35,
-                        "Average": 31.966666666666665
+                        "Average": 31.8
                     }
                 },
                 "Ducats": 65
@@ -1414,33 +1413,33 @@
                 "Name": "Systems",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith N2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith S2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith S3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo A1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo V3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi V1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -1457,28 +1456,28 @@
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Cernos Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith A2",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi B1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi V4",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -1499,25 +1498,25 @@
                 "Name": "Grip",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Meso V5",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo V4",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 4.5
+                        "Smart-median": 3.5
                     },
                     "Nexus-stats": {
                         "Max": 15,
                         "Min": 10,
-                        "Median": 12.5,
-                        "Average": 12.5
+                        "Median": 15,
+                        "Average": 13.333333333333334
                     }
                 },
                 "Ducats": 15
@@ -1526,13 +1525,13 @@
                 "Name": "Lower Limb",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi C1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi C2",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     }
                 ],
@@ -1544,7 +1543,7 @@
                         "Max": 37,
                         "Min": 7,
                         "Median": 20,
-                        "Average": 21.839285714285715
+                        "Average": 21.80701754385965
                     }
                 },
                 "Ducats": 100
@@ -1553,18 +1552,18 @@
                 "Name": "String",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso O1",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso S6",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo A1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -1585,24 +1584,24 @@
                 "Name": "Upper Limb",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith V3",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso C2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo N6",
+                        "Rarity": "Common",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 2.0
+                        "Smart-median": 2.5
                     },
                     "Nexus-stats": {
                         "Max": 30,
@@ -1613,23 +1612,23 @@
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Dakra Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Blade",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo B3",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo D1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
@@ -1650,13 +1649,13 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith M1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi R1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -1677,13 +1676,13 @@
                 "Name": "Handle",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Meso B1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso M1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -1700,30 +1699,30 @@
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Dual Kamas Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Blade",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso D1",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 40.0
+                        "Smart-median": 47.5
                     },
                     "Nexus-stats": {
                         "Max": 70,
                         "Min": 6,
                         "Median": 25,
-                        "Average": 29.86764705882353
+                        "Average": 29.47482014388489
                     }
                 },
                 "Ducats": 100
@@ -1732,33 +1731,33 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith S6",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo T1",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo V1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi N3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi V1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi V5",
+                        "Rarity": "Common",
                         "Vaulted": false
                     }
                 ],
@@ -1767,10 +1766,10 @@
                         "Smart-median": 2.5
                     },
                     "Nexus-stats": {
-                        "Max": 40,
+                        "Max": 50,
                         "Min": 8,
                         "Median": 15,
-                        "Average": 15.423076923076923
+                        "Average": 16.703703703703702
                     }
                 },
                 "Ducats": 15
@@ -1779,24 +1778,24 @@
                 "Name": "Handle",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso F1",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso N1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi A1",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 10.0
+                        "Smart-median": 9.5
                     },
                     "Nexus-stats": {
                         "Max": 20,
@@ -1807,18 +1806,18 @@
                 },
                 "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Ember Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi E1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
@@ -1839,8 +1838,8 @@
                 "Name": "Chassis",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Meso F2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -1861,20 +1860,20 @@
                 "Name": "Neuroptics",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Neo S5",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 16.5
+                        "Smart-median": 17.5
                     },
                     "Nexus-stats": {
                         "Max": 100,
-                        "Min": 8,
+                        "Min": 6,
                         "Median": 20,
-                        "Average": 27.157894736842106
+                        "Average": 26.883116883116884
                     }
                 },
                 "Ducats": 15
@@ -1883,8 +1882,8 @@
                 "Name": "Systems",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith G1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -1896,28 +1895,28 @@
                         "Max": 200,
                         "Min": 25,
                         "Median": 80,
-                        "Average": 82.89189189189189
+                        "Average": 82.929203539823
                     }
                 },
                 "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Euphona Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Barrel",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso N3",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso V5",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
@@ -1938,18 +1937,18 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Neo N7",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi B1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi O1",
+                        "Rarity": "Common",
                         "Vaulted": false
                     }
                 ],
@@ -1970,71 +1969,71 @@
                 "Name": "Receiver",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi E2",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 24.5
+                        "Smart-median": 24.0
                     },
                     "Nexus-stats": {
-                        "Max": 45,
+                        "Max": 75,
                         "Min": 10,
                         "Median": 25,
-                        "Average": 25.576271186440678
+                        "Average": 26.338983050847457
                     }
                 },
                 "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Fang Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Blade",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith C1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith F1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith N1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith S5",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith S6",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi B1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi B2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi N1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -2055,33 +2054,33 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith K1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith V2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso N1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso S4",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo B2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo N2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -2102,44 +2101,44 @@
                 "Name": "Handle",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith F2",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso N1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso N2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso S4",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo N3",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo V2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi H2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 4.0
+                        "Smart-median": 5.5
                     },
                     "Nexus-stats": {
                         "Max": 20,
@@ -2150,29 +2149,29 @@
                 },
                 "Ducats": 25
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Fragor Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith F1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso F1",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 12.0
+                        "Smart-median": 12.5
                     },
                     "Nexus-stats": {
                         "Max": 20,
@@ -2187,18 +2186,18 @@
                 "Name": "Handle",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith V1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo T1",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi C2",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
@@ -2219,24 +2218,24 @@
                 "Name": "Head",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Axi A1",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi B2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi H1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 5.5
+                        "Smart-median": 6.0
                     },
                     "Nexus-stats": {
                         "Max": 30,
@@ -2247,24 +2246,24 @@
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Frost Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso F2",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 178.0
+                        "Smart-median": 155.5
                     },
                     "Nexus-stats": {
                         "Max": 350,
@@ -2279,14 +2278,14 @@
                 "Name": "Chassis",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith G1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 14.0
+                        "Smart-median": 17.5
                     },
                     "Nexus-stats": {
                         "Max": 60,
@@ -2301,14 +2300,14 @@
                 "Name": "Neuroptics",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Axi E1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 37.5
+                        "Smart-median": 40.0
                     },
                     "Nexus-stats": {
                         "Max": 75,
@@ -2323,14 +2322,14 @@
                 "Name": "Systems",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo S5",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 25.0
+                        "Smart-median": 27.5
                     },
                     "Nexus-stats": {
                         "Max": 90,
@@ -2341,54 +2340,54 @@
                 },
                 "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Galatine Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Blade",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Meso C2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso S2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso S4",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso S6",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo N6",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo V2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo V3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 4.0
+                        "Smart-median": 3.5
                     },
                     "Nexus-stats": {
                         "Max": 30,
@@ -2403,14 +2402,14 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi G1",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 23.5
+                        "Smart-median": 22.0
                     },
                     "Nexus-stats": {
                         "Max": 35,
@@ -2425,18 +2424,18 @@
                 "Name": "Handle",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith S5",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo V2",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi O1",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
@@ -2453,24 +2452,24 @@
                 },
                 "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Glaive Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Blade",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi E1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 64.75
+                        "Smart-median": 62.0
                     },
                     "Nexus-stats": {
                         "Max": 100,
@@ -2485,8 +2484,8 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith G1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
@@ -2507,8 +2506,8 @@
                 "Name": "Disc",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo S5",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -2525,23 +2524,23 @@
                 },
                 "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Helios Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith N2",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith V4",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
@@ -2562,24 +2561,24 @@
                 "Name": "Carapace",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Meso S6",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo N5",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo V5",
+                        "Rarity": "Common",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 4.5
+                        "Smart-median": 4.0
                     },
                     "Nexus-stats": {
                         "Max": 30,
@@ -2594,19 +2593,19 @@
                 "Name": "Cerebrum",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi H1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi H2",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 27.5
+                        "Smart-median": 27.25
                     },
                     "Nexus-stats": {
                         "Max": 60,
@@ -2621,8 +2620,8 @@
                 "Name": "Systems",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith V3",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
@@ -2639,23 +2638,23 @@
                 },
                 "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Hikou Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith S1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso N2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -2676,19 +2675,19 @@
                 "Name": "Pouch",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Axi K1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi V2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 13.5
+                        "Smart-median": 16.5
                     },
                     "Nexus-stats": {
                         "Max": 55,
@@ -2703,13 +2702,13 @@
                 "Name": "Stars",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith F2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo N1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -2726,38 +2725,38 @@
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Kavasa Prime Collar",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Band",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith C1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith N2",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith S2",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith S6",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso V3",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -2773,23 +2772,23 @@
                 "Name": "Buckle",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith K1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo S6",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi B1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi K1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
@@ -2810,18 +2809,18 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith S4",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo N1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi G1",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
@@ -2838,18 +2837,18 @@
                 },
                 "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Latron Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Barrel",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Axi E1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -2870,8 +2869,8 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith G1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -2892,14 +2891,14 @@
                 "Name": "Receiver",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Neo S5",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 11.5
+                        "Smart-median": 10.0
                     },
                     "Nexus-stats": {
                         "Max": 80,
@@ -2914,8 +2913,8 @@
                 "Name": "Stock",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Meso F2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -2932,53 +2931,53 @@
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Lex Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Barrel",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith A2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith V2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso S5",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso V4",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo N3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo S1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi A2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi K1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -2999,29 +2998,29 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith S4",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso D1",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo N2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi A2",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 3.0
+                        "Smart-median": 2.5
                     },
                     "Nexus-stats": {
                         "Max": 35,
@@ -3036,33 +3035,33 @@
                 "Name": "Receiver",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith M1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi A2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi C1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi E2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi H2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi N2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -3079,11 +3078,11 @@
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Loki Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Blueprint",
@@ -3149,23 +3148,23 @@
                 },
                 "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Mag Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith M1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso M1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
@@ -3177,7 +3176,7 @@
                         "Max": 60,
                         "Min": 8,
                         "Median": 25,
-                        "Average": 26.372093023255815
+                        "Average": 26.183908045977013
                     }
                 },
                 "Ducats": 100
@@ -3186,13 +3185,13 @@
                 "Name": "Chassis",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso B1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo B3",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -3213,13 +3212,13 @@
                 "Name": "Neuroptics",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith B1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi V2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -3240,19 +3239,19 @@
                 "Name": "Systems",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Neo D1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi R1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 17.5
+                        "Smart-median": 19.5
                     },
                     "Nexus-stats": {
                         "Max": 30,
@@ -3263,40 +3262,40 @@
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Nekros Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith N3",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso N3",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi N3",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 20.0
+                        "Smart-median": 19.0
                     },
                     "Nexus-stats": {
                         "Max": 50,
                         "Min": 7,
                         "Median": 20,
-                        "Average": 20.79054054054054
+                        "Average": 20.85234899328859
                     }
                 },
                 "Ducats": 100
@@ -3305,23 +3304,23 @@
                 "Name": "Chassis",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith N1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith V4",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso S3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi G1",
+                        "Rarity": "Common",
                         "Vaulted": false
                     }
                 ],
@@ -3333,7 +3332,7 @@
                         "Max": 40,
                         "Min": 6,
                         "Median": 15,
-                        "Average": 14.770833333333334
+                        "Average": 14.824742268041238
                     }
                 },
                 "Ducats": 15
@@ -3342,20 +3341,20 @@
                 "Name": "Neuroptics",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso F1",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 6.5
+                        "Smart-median": 7.0
                     },
                     "Nexus-stats": {
                         "Max": 35,
                         "Min": 6,
                         "Median": 10,
-                        "Average": 12.857142857142858
+                        "Average": 13
                     }
                 },
                 "Ducats": 45
@@ -3364,56 +3363,56 @@
                 "Name": "Systems",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith N2",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo N3",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo N7",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 17.5
+                        "Smart-median": 19.0
                     },
                     "Nexus-stats": {
                         "Max": 60,
                         "Min": 10,
                         "Median": 20,
-                        "Average": 21.03030303030303
+                        "Average": 21.01492537313433
                     }
                 },
                 "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Nikana Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Blade",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso N4",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso V2",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo N4",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
@@ -3434,13 +3433,13 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo N5",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi A1",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     }
                 ],
@@ -3461,13 +3460,13 @@
                 "Name": "Hilt",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo N6",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi N2",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
@@ -3484,24 +3483,24 @@
                 },
                 "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Nova Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo N2",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 14.75
+                        "Smart-median": 19.25
                     },
                     "Nexus-stats": {
                         "Max": 50,
@@ -3516,25 +3515,25 @@
                 "Name": "Chassis",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith N1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo V1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 124.0
+                        "Smart-median": 117.5
                     },
                     "Nexus-stats": {
                         "Max": 200,
                         "Min": 45,
                         "Median": 125,
-                        "Average": 122.57037037037037
+                        "Average": 122.91911764705883
                     }
                 },
                 "Ducats": 100
@@ -3543,19 +3542,19 @@
                 "Name": "Neuroptics",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith C1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso C1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 6.0
+                        "Smart-median": 6.25
                     },
                     "Nexus-stats": {
                         "Max": 55,
@@ -3570,18 +3569,18 @@
                 "Name": "Systems",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith C1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso S1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo S2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -3598,29 +3597,29 @@
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Nyx Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith S2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo V1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 5.75
+                        "Smart-median": 6.0
                     },
                     "Nexus-stats": {
                         "Max": 50,
@@ -3635,14 +3634,14 @@
                 "Name": "Chassis",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo N1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 112.5
+                        "Smart-median": 115.0
                     },
                     "Nexus-stats": {
                         "Max": 300,
@@ -3657,14 +3656,14 @@
                 "Name": "Neuroptics",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso N1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 42.5
+                        "Smart-median": 45.0
                     },
                     "Nexus-stats": {
                         "Max": 75,
@@ -3679,14 +3678,14 @@
                 "Name": "Systems",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo S2",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 11.0
+                        "Smart-median": 11.5
                     },
                     "Nexus-stats": {
                         "Max": 45,
@@ -3697,18 +3696,18 @@
                 },
                 "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Oberon Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso N4",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
@@ -3729,14 +3728,14 @@
                 "Name": "Chassis",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Axi H2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 10.0
+                        "Smart-median": 9.5
                     },
                     "Nexus-stats": {
                         "Max": 45,
@@ -3751,8 +3750,8 @@
                 "Name": "Neuroptics",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso O1",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     }
                 ],
@@ -3773,8 +3772,8 @@
                 "Name": "Systems",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi O1",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     }
                 ],
@@ -3791,34 +3790,34 @@
                 },
                 "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Odonata Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith F1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso C2",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso S1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 9.0
+                        "Smart-median": 6.5
                     },
                     "Nexus-stats": {
                         "Max": 15,
@@ -3833,23 +3832,23 @@
                 "Name": "Harness",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith K1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi K1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi T1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi V4",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -3870,24 +3869,24 @@
                 "Name": "Systems",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith F2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo N3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi V1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 5.0
+                        "Smart-median": 3.5
                     },
                     "Nexus-stats": {
                         "Max": 30,
@@ -3902,14 +3901,14 @@
                 "Name": "Wings",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi N1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 25.0
+                        "Smart-median": 30.0
                     },
                     "Nexus-stats": {
                         "Max": 50,
@@ -3920,18 +3919,18 @@
                 },
                 "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Orthos Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Blade",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso D1",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
@@ -3952,29 +3951,29 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso B1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi B2",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi C1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi V3",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 5.5
+                        "Smart-median": 6.5
                     },
                     "Nexus-stats": {
                         "Max": 20,
@@ -3989,24 +3988,24 @@
                 "Name": "Handle",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Meso B1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso D1",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso N4",
+                        "Rarity": "Common",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 2.5
+                        "Smart-median": 3.0
                     },
                     "Nexus-stats": {
                         "Max": 40,
@@ -4017,53 +4016,53 @@
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Paris Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith F1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith S4",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso S1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso V2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi E2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi G1",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi O1",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi V4",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -4084,13 +4083,13 @@
                 "Name": "Grip",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith S1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso S2",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
@@ -4109,33 +4108,33 @@
                 "Name": "Lower Limb",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith V1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith V2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith V3",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso F1",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso O1",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo S2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -4154,43 +4153,43 @@
                 "Name": "String",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith S1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith S3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso S2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo B1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo N3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo N4",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo V3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo V5",
+                        "Rarity": "Common",
                         "Vaulted": false
                     }
                 ],
@@ -4211,43 +4210,43 @@
                 "Name": "Upper Limb",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith F2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith N2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith V1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith V2",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso N4",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso S1",
-                        "Vaulted": true
-                    },
-                    {
                         "Rarity": "Uncommon",
-                        "Name": "Neo S2",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
+                        "Name": "Neo S2",
+                        "Rarity": "Uncommon",
+                        "Vaulted": true
+                    },
+                    {
                         "Name": "Axi N3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -4264,18 +4263,18 @@
                 },
                 "Ducats": 25
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Reaper Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Blade",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso F2",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -4296,14 +4295,14 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Neo S5",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 12.0
+                        "Smart-median": 14.0
                     },
                     "Nexus-stats": {
                         "Max": 20,
@@ -4318,8 +4317,8 @@
                 "Name": "Handle",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith G1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -4336,18 +4335,18 @@
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Rhino Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi R1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
@@ -4359,7 +4358,7 @@
                         "Max": 400,
                         "Min": 50,
                         "Median": 150,
-                        "Average": 147.5868263473054
+                        "Average": 147.5722891566265
                     }
                 },
                 "Ducats": 100
@@ -4368,14 +4367,14 @@
                 "Name": "Chassis",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso M1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 23.5
+                        "Smart-median": 22.5
                     },
                     "Nexus-stats": {
                         "Max": 50,
@@ -4390,8 +4389,8 @@
                 "Name": "Neuroptics",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith B1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -4403,7 +4402,7 @@
                         "Max": 45,
                         "Min": 7,
                         "Median": 15,
-                        "Average": 17.04901960784314
+                        "Average": 17.02912621359223
                     }
                 },
                 "Ducats": 45
@@ -4412,8 +4411,8 @@
                 "Name": "Systems",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Neo B3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -4430,40 +4429,40 @@
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Saryn Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith S4",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso S4",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo S1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 15.0
+                        "Smart-median": 13.0
                     },
                     "Nexus-stats": {
-                        "Max": 45,
+                        "Max": 40,
                         "Min": 6,
                         "Median": 10,
-                        "Average": 13.463157894736842
+                        "Average": 13.127659574468085
                     }
                 },
                 "Ducats": 100
@@ -4472,13 +4471,13 @@
                 "Name": "Chassis",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso S2",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo S2",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
@@ -4499,18 +4498,18 @@
                 "Name": "Neuroptics",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith A1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso S5",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo V4",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -4531,33 +4530,33 @@
                 "Name": "Systems",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Meso C1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso F1",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso N4",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo N5",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi G1",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi T1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -4569,23 +4568,23 @@
                         "Max": 50,
                         "Min": 8,
                         "Median": 15,
-                        "Average": 17.685714285714287
+                        "Average": 17.652173913043477
                     }
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Scindo Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Blade",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi S1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
@@ -4606,14 +4605,14 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith F1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 6.0
+                        "Smart-median": 6.5
                     },
                     "Nexus-stats": {
                         "Max": 80,
@@ -4628,8 +4627,8 @@
                 "Name": "Handle",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso C1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -4646,24 +4645,24 @@
                 },
                 "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Sicarus Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Barrel",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Meso F2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 15.0
+                        "Smart-median": 13.5
                     },
                     "Nexus-stats": {
                         "Max": 35,
@@ -4678,14 +4677,14 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Axi E1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 30.0
+                        "Smart-median": 27.5
                     },
                     "Nexus-stats": {
                         "Max": 99,
@@ -4700,14 +4699,14 @@
                 "Name": "Receiver",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo S5",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 94.25
+                        "Smart-median": 92.5
                     },
                     "Nexus-stats": {
                         "Max": 160,
@@ -4718,30 +4717,30 @@
                 },
                 "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Silva & Aegis Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Blade",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi C2",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 9.0
+                        "Smart-median": 10.75
                     },
                     "Nexus-stats": {
                         "Max": 20,
-                        "Min": 8,
+                        "Min": 6,
                         "Median": 10,
-                        "Average": 12.052631578947368
+                        "Average": 11.31578947368421
                     }
                 },
                 "Ducats": 45
@@ -4750,8 +4749,8 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso V5",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
@@ -4772,8 +4771,8 @@
                 "Name": "Guard",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo S6",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     }
                 ],
@@ -4794,8 +4793,8 @@
                 "Name": "Hilt",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Neo V5",
+                        "Rarity": "Common",
                         "Vaulted": false
                     }
                 ],
@@ -4812,24 +4811,24 @@
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Soma Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Barrel",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Neo S3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 17.5
+                        "Smart-median": 16.5
                     },
                     "Nexus-stats": {
                         "Max": 35,
@@ -4844,13 +4843,13 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith M1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo S1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -4871,19 +4870,19 @@
                 "Name": "Receiver",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith S3",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo N1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 35.0
+                        "Smart-median": 37.5
                     },
                     "Nexus-stats": {
                         "Max": 100,
@@ -4898,57 +4897,57 @@
                 "Name": "Stock",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith S2",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso S1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 67.5
+                        "Smart-median": 70.0
                     },
                     "Nexus-stats": {
                         "Max": 160,
                         "Min": 20,
                         "Median": 75,
-                        "Average": 70.93167701863354
+                        "Average": 70.90062111801242
                     }
                 },
                 "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Spira Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Blade",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith S5",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso S6",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo S3",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 24.5
+                        "Smart-median": 25.5
                     },
                     "Nexus-stats": {
                         "Max": 60,
@@ -4963,28 +4962,28 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith N2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith V4",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso V1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso V3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso V5",
+                        "Rarity": "Common",
                         "Vaulted": false
                     }
                 ],
@@ -5005,23 +5004,23 @@
                 "Name": "Pouch",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith S1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith S3",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith S6",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso S3",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
@@ -5038,24 +5037,24 @@
                 },
                 "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Sybaris Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Barrel",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso S5",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 27.5
+                        "Smart-median": 26.5
                     },
                     "Nexus-stats": {
                         "Max": 45,
@@ -5070,8 +5069,8 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Axi B2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     }
                 ],
@@ -5092,8 +5091,8 @@
                 "Name": "Receiver",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo N6",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
@@ -5114,14 +5113,14 @@
                 "Name": "Stock",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith N3",
+                        "Rarity": "Common",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 4.25
+                        "Smart-median": 3.25
                     },
                     "Nexus-stats": {
                         "Max": 90,
@@ -5132,34 +5131,34 @@
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Tigris Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Barrel",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith K1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith V3",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith V4",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 4.5
+                        "Smart-median": 4.0
                     },
                     "Nexus-stats": {
                         "Max": 39,
@@ -5174,13 +5173,13 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo T1",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi T1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
@@ -5201,23 +5200,23 @@
                 "Name": "Receiver",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso S6",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo S6",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo V3",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi V5",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
@@ -5238,18 +5237,18 @@
                 "Name": "Stock",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Meso S1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo B2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo V4",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -5266,33 +5265,33 @@
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Trinity Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith K1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso S4",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo N6",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi S1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -5313,23 +5312,23 @@
                 "Name": "Chassis",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith S4",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo S1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi H1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi H2",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
@@ -5341,7 +5340,7 @@
                         "Max": 30,
                         "Min": 7,
                         "Median": 10,
-                        "Average": 12.987804878048781
+                        "Average": 12.951807228915662
                     }
                 },
                 "Ducats": 45
@@ -5350,40 +5349,40 @@
                 "Name": "Neuroptics",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo D1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo N7",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo S6",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi C1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi V3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 17.5
+                        "Smart-median": 10.0
                     },
                     "Nexus-stats": {
                         "Max": 40,
                         "Min": 6,
                         "Median": 10,
-                        "Average": 12.793650793650794
+                        "Average": 13.0625
                     }
                 },
                 "Ducats": 25
@@ -5392,33 +5391,33 @@
                 "Name": "Systems",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Neo B1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi A1",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi C2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi V2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi V3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi V4",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -5427,53 +5426,53 @@
                         "Smart-median": 15.0
                     },
                     "Nexus-stats": {
-                        "Max": 40,
+                        "Max": 50,
                         "Min": 6,
                         "Median": 15,
-                        "Average": 15.161016949152541
+                        "Average": 15.203389830508474
                     }
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Valkyr Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith A2",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Lith N3",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso S3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso S6",
+                        "Rarity": "Common",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 3.25
+                        "Smart-median": 3.5
                     },
                     "Nexus-stats": {
                         "Max": 70,
                         "Min": 6,
                         "Median": 15,
-                        "Average": 18.833333333333332
+                        "Average": 18.75824175824176
                     }
                 },
                 "Ducats": 15
@@ -5482,14 +5481,14 @@
                 "Name": "Chassis",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi V5",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 37.5
+                        "Smart-median": 39.5
                     },
                     "Nexus-stats": {
                         "Max": 70,
@@ -5504,29 +5503,29 @@
                 "Name": "Neuroptics",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith S6",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso C2",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso V4",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo N7",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 4.5
+                        "Smart-median": 6.0
                     },
                     "Nexus-stats": {
                         "Max": 51,
@@ -5541,57 +5540,57 @@
                 "Name": "Systems",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith V3",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso V3",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 20.0
+                        "Smart-median": 19.5
                     },
                     "Nexus-stats": {
                         "Max": 60,
                         "Min": 10,
                         "Median": 20,
-                        "Average": 23.619834710743802
+                        "Average": 23.65
                     }
                 },
                 "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Vasto Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Barrel",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Neo D1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo N2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi V3",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 7.5
+                        "Smart-median": 7.0
                     },
                     "Nexus-stats": {
                         "Max": 24,
@@ -5606,8 +5605,8 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo S3",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -5628,19 +5627,19 @@
                 "Name": "Receiver",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith A1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Meso V2",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 3.5
+                        "Smart-median": 4.0
                     },
                     "Nexus-stats": {
                         "Max": 30,
@@ -5651,23 +5650,23 @@
                 },
                 "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Vauban Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith F2",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo V2",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     }
                 ],
@@ -5688,18 +5687,18 @@
                 "Name": "Chassis",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith V4",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso V4",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi V1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
@@ -5720,30 +5719,30 @@
                 "Name": "Neuroptics",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso N2",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo V3",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo V5",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 16.5
+                        "Smart-median": 15.0
                     },
                     "Nexus-stats": {
                         "Max": 35,
                         "Min": 10,
                         "Median": 15,
-                        "Average": 17.02777777777778
+                        "Average": 16.985915492957748
                     }
                 },
                 "Ducats": 100
@@ -5752,13 +5751,13 @@
                 "Name": "Systems",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Lith V2",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo N2",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
@@ -5775,33 +5774,33 @@
                 },
                 "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Vectis Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Barrel",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Neo N1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi C1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi H1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi T1",
+                        "Rarity": "Common",
                         "Vaulted": true
                     }
                 ],
@@ -5822,13 +5821,13 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith A1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo A1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -5849,20 +5848,20 @@
                 "Name": "Receiver",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso V1",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 41.0
+                        "Smart-median": 43.5
                     },
                     "Nexus-stats": {
                         "Max": 92,
                         "Min": 15,
                         "Median": 40,
-                        "Average": 41.707317073170735
+                        "Average": 41.25
                     }
                 },
                 "Ducats": 100
@@ -5871,29 +5870,29 @@
                 "Name": "Stock",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo B1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi V2",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi V3",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Axi V4",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 13.75
+                        "Smart-median": 13.0
                     },
                     "Nexus-stats": {
                         "Max": 50,
@@ -5904,28 +5903,28 @@
                 },
                 "Ducats": 65
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Venka Prime",
-        "Vaulted": false,
         "Components": [
             {
                 "Name": "Blades",
                 "Relics": [
                     {
-                        "Rarity": "Common",
                         "Name": "Lith V4",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Neo N7",
+                        "Rarity": "Common",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Common",
                         "Name": "Axi V5",
+                        "Rarity": "Common",
                         "Vaulted": false
                     }
                 ],
@@ -5946,19 +5945,19 @@
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo B2",
+                        "Rarity": "Uncommon",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo N4",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 3.5
+                        "Smart-median": 4.0
                     },
                     "Nexus-stats": {
                         "Max": 30,
@@ -5973,13 +5972,13 @@
                 "Name": "Gauntlet",
                 "Relics": [
                     {
-                        "Rarity": "Rare",
                         "Name": "Meso V5",
+                        "Rarity": "Rare",
                         "Vaulted": false
                     },
                     {
-                        "Rarity": "Rare",
                         "Name": "Neo V4",
+                        "Rarity": "Rare",
                         "Vaulted": true
                     }
                 ],
@@ -5996,23 +5995,23 @@
                 },
                 "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Volt Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Blueprint",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Neo V1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi N3",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -6023,8 +6022,8 @@
                     "Nexus-stats": {
                         "Max": 70,
                         "Min": 6,
-                        "Median": 22.5,
-                        "Average": 24.910714285714285
+                        "Median": 20,
+                        "Average": 24.655172413793103
                     }
                 },
                 "Ducats": 45
@@ -6033,19 +6032,19 @@
                 "Name": "Chassis",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso V2",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     },
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Meso V3",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 12.5
+                        "Smart-median": 12.0
                     },
                     "Nexus-stats": {
                         "Max": 41,
@@ -6060,8 +6059,8 @@
                 "Name": "Neuroptics",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Axi V1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -6082,8 +6081,8 @@
                 "Name": "Systems",
                 "Relics": [
                     {
-                        "Rarity": "Uncommon",
                         "Name": "Lith V1",
+                        "Rarity": "Uncommon",
                         "Vaulted": true
                     }
                 ],
@@ -6100,11 +6099,11 @@
                 },
                 "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Wyrm Prime",
-        "Vaulted": true,
         "Components": [
             {
                 "Name": "Blueprint",
@@ -6127,7 +6126,7 @@
                 "Relics": [],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 47.0
+                        "Smart-median": 42.5
                     },
                     "Nexus-stats": {
                         "Max": 100,
@@ -6143,7 +6142,7 @@
                 "Relics": [],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 32.5
+                        "Smart-median": 30.0
                     },
                     "Nexus-stats": {
                         "Max": 55,
@@ -6159,7 +6158,7 @@
                 "Relics": [],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 32.5
+                        "Smart-median": 30.0
                     },
                     "Nexus-stats": {
                         "Max": 50,
@@ -6170,6 +6169,7 @@
                 },
                 "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": true
     }
 ]
