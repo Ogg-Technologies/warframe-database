@@ -36,10 +36,10 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 22,
                         "Average": 62.77777777777778,
-                        "Max": 210
+                        "Max": 210,
+                        "Min": 10,
+                        "Median": 22
                     }
                 },
                 "Ducats": 15
@@ -73,10 +73,10 @@
                         "Smart-median": 4.0
                     },
                     "Nexus-stats": {
-                        "Min": 8,
-                        "Median": 15,
                         "Average": 18.88235294117647,
-                        "Max": 40
+                        "Max": 40,
+                        "Min": 8,
+                        "Median": 15
                     }
                 },
                 "Ducats": 45
@@ -126,10 +126,10 @@
                         "Smart-median": 3.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 20,
                         "Average": 23.541666666666668,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 10,
+                        "Median": 20
                     }
                 },
                 "Ducats": 15
@@ -158,10 +158,10 @@
                         "Smart-median": 7.5
                     },
                     "Nexus-stats": {
-                        "Min": 8,
-                        "Median": 10,
                         "Average": 15.407407407407407,
-                        "Max": 40
+                        "Max": 40,
+                        "Min": 8,
+                        "Median": 10
                     }
                 },
                 "Ducats": 15
@@ -195,10 +195,10 @@
                         "Smart-median": 27.5
                     },
                     "Nexus-stats": {
+                        "Average": 31.74390243902439,
+                        "Max": 50,
                         "Min": 10,
-                        "Median": 30,
-                        "Average": 32.01234567901235,
-                        "Max": 50
+                        "Median": 30
                     }
                 },
                 "Ducats": 65
@@ -232,10 +232,10 @@
                         "Smart-median": 4.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 15,
                         "Average": 16.88888888888889,
-                        "Max": 40
+                        "Max": 40,
+                        "Min": 10,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -277,13 +277,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 4.0
+                        "Smart-median": 5.0
                     },
                     "Nexus-stats": {
-                        "Min": null,
-                        "Median": null,
                         "Average": null,
-                        "Max": null
+                        "Max": null,
+                        "Min": null,
+                        "Median": null
                     }
                 },
                 "Ducats": 45
@@ -314,13 +314,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 11.0
+                        "Smart-median": 10.0
                     },
                     "Nexus-stats": {
-                        "Min": null,
-                        "Median": null,
                         "Average": null,
-                        "Max": null
+                        "Max": null,
+                        "Min": null,
+                        "Median": null
                     }
                 },
                 "Ducats": 65
@@ -349,10 +349,10 @@
                         "Smart-median": 4.0
                     },
                     "Nexus-stats": {
-                        "Min": null,
-                        "Median": null,
                         "Average": null,
-                        "Max": null
+                        "Max": null,
+                        "Min": null,
+                        "Median": null
                     }
                 },
                 "Ducats": 45
@@ -382,10 +382,10 @@
                         "Smart-median": 6.0
                     },
                     "Nexus-stats": {
+                        "Average": 20.04,
+                        "Max": 45,
                         "Min": 7,
-                        "Median": 20,
-                        "Average": 20.03921568627451,
-                        "Max": 45
+                        "Median": 20
                     }
                 },
                 "Ducats": 15
@@ -401,13 +401,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 38.5
+                        "Smart-median": 37.5
                     },
                     "Nexus-stats": {
-                        "Min": 20,
-                        "Median": 45,
                         "Average": 45.91549295774648,
-                        "Max": 120
+                        "Max": 120,
+                        "Min": 20,
+                        "Median": 45
                     }
                 },
                 "Ducats": 100
@@ -423,13 +423,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 12.0
+                        "Smart-median": 13.25
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 20,
                         "Average": 22.394736842105264,
-                        "Max": 100
+                        "Max": 100,
+                        "Min": 10,
+                        "Median": 20
                     }
                 },
                 "Ducats": 45
@@ -448,10 +448,10 @@
                         "Smart-median": 114.5
                     },
                     "Nexus-stats": {
-                        "Min": 50,
-                        "Median": 125,
                         "Average": 127.36842105263158,
-                        "Max": 300
+                        "Max": 300,
+                        "Min": 50,
+                        "Median": 125
                     }
                 },
                 "Ducats": 100
@@ -478,13 +478,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 72.5
+                        "Smart-median": 74.0
                     },
                     "Nexus-stats": {
+                        "Average": 71.81592039800995,
+                        "Max": 120,
                         "Min": 30,
-                        "Median": 75,
-                        "Average": 71.8905472636816,
-                        "Max": 120
+                        "Median": 75
                     }
                 },
                 "Ducats": 100
@@ -505,13 +505,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 40.0
+                        "Smart-median": 36.25
                     },
                     "Nexus-stats": {
+                        "Average": 43.608695652173914,
+                        "Max": 100,
                         "Min": 20,
-                        "Median": 40,
-                        "Average": 43.59649122807018,
-                        "Max": 100
+                        "Median": 40
                     }
                 },
                 "Ducats": 45
@@ -535,10 +535,10 @@
                         "Smart-median": 7.0
                     },
                     "Nexus-stats": {
+                        "Average": 16.014705882352942,
+                        "Max": 45,
                         "Min": 9,
-                        "Median": 15,
-                        "Average": 15.955223880597014,
-                        "Max": 45
+                        "Median": 15
                     }
                 },
                 "Ducats": 25
@@ -557,10 +557,10 @@
                         "Smart-median": 17.5
                     },
                     "Nexus-stats": {
+                        "Average": 21.34246575342466,
+                        "Max": 60,
                         "Min": 7,
-                        "Median": 20,
-                        "Average": 21.430555555555557,
-                        "Max": 60
+                        "Median": 20
                     }
                 },
                 "Ducats": 15
@@ -592,13 +592,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 11.5
+                        "Smart-median": 10.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 15,
                         "Average": 20.151515151515152,
-                        "Max": 60
+                        "Max": 60,
+                        "Min": 7,
+                        "Median": 15
                     }
                 },
                 "Ducats": 45
@@ -619,13 +619,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 43.0
+                        "Smart-median": 43.5
                     },
                     "Nexus-stats": {
+                        "Average": 42.339506172839506,
+                        "Max": 80,
                         "Min": 15,
-                        "Median": 40,
-                        "Average": 42.4472049689441,
-                        "Max": 80
+                        "Median": 40
                     }
                 },
                 "Ducats": 65
@@ -654,10 +654,10 @@
                         "Smart-median": 7.0
                     },
                     "Nexus-stats": {
+                        "Average": 17.387096774193548,
+                        "Max": 60,
                         "Min": 6,
-                        "Median": 15,
-                        "Average": 17.466666666666665,
-                        "Max": 60
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -696,10 +696,10 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 15,
                         "Average": 13.878787878787879,
-                        "Max": 25
+                        "Max": 25,
+                        "Min": 7,
+                        "Median": 15
                     }
                 },
                 "Ducats": 45
@@ -759,10 +759,10 @@
                         "Smart-median": 4.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 10,
-                        "Average": 15.909090909090908,
-                        "Max": 35
+                        "Average": 16.8,
+                        "Max": 35,
+                        "Min": 8,
+                        "Median": 10
                     }
                 },
                 "Ducats": 15
@@ -809,10 +809,10 @@
                 "data": {
                     "Warframe.market": {},
                     "Nexus-stats": {
+                        "Average": 16.666666666666668,
+                        "Max": 50,
                         "Min": 8,
-                        "Median": 12,
-                        "Average": 14.705882352941176,
-                        "Max": 40
+                        "Median": 13.5
                     }
                 },
                 "Ducats": 15
@@ -868,13 +868,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 3.0
+                        "Smart-median": 2.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 10,
                         "Average": 13.75,
-                        "Max": 40
+                        "Max": 40,
+                        "Min": 10,
+                        "Median": 10
                     }
                 },
                 "Ducats": 15
@@ -928,10 +928,10 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 10,
                         "Average": 18.555555555555557,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 7,
+                        "Median": 10
                     }
                 },
                 "Ducats": 25
@@ -953,10 +953,10 @@
                 "data": {
                     "Warframe.market": {},
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 10,
                         "Average": 11.533333333333333,
-                        "Max": 30
+                        "Max": 30,
+                        "Min": 6,
+                        "Median": 10
                     }
                 },
                 "Ducats": 45
@@ -1001,10 +1001,10 @@
                         "Smart-median": 14.0
                     },
                     "Nexus-stats": {
-                        "Min": 8,
-                        "Median": 15,
                         "Average": 14.894736842105264,
-                        "Max": 30
+                        "Max": 30,
+                        "Min": 8,
+                        "Median": 15
                     }
                 },
                 "Ducats": 100
@@ -1030,13 +1030,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 25.0
+                        "Smart-median": 23.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 25,
-                        "Average": 26.540983606557376,
-                        "Max": 65
+                        "Average": 26.45967741935484,
+                        "Max": 65,
+                        "Min": 8,
+                        "Median": 25
                     }
                 },
                 "Ducats": 100
@@ -1072,13 +1072,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 3.0
+                        "Smart-median": 2.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 20,
                         "Average": 19.6875,
-                        "Max": 55
+                        "Max": 55,
+                        "Min": 6,
+                        "Median": 20
                     }
                 },
                 "Ducats": 15
@@ -1113,10 +1113,10 @@
                         "Smart-median": 6.0
                     },
                     "Nexus-stats": {
+                        "Average": 13.076923076923077,
+                        "Max": 35,
                         "Min": 6,
-                        "Median": 10,
-                        "Average": 13.043478260869565,
-                        "Max": 35
+                        "Median": 10
                     }
                 },
                 "Ducats": 45
@@ -1142,13 +1142,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 14.0
+                        "Smart-median": 13.75
                     },
                     "Nexus-stats": {
+                        "Average": 15.872727272727273,
+                        "Max": 40,
                         "Min": 10,
-                        "Median": 15,
-                        "Average": 15.781818181818181,
-                        "Max": 40
+                        "Median": 15
                     }
                 },
                 "Ducats": 100
@@ -1177,10 +1177,10 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 10,
                         "Average": 10.952380952380953,
-                        "Max": 15
+                        "Max": 15,
+                        "Min": 6,
+                        "Median": 10
                     }
                 },
                 "Ducats": 45
@@ -1214,10 +1214,10 @@
                         "Smart-median": 10.5
                     },
                     "Nexus-stats": {
+                        "Average": 15.468354430379748,
+                        "Max": 40,
                         "Min": 6,
-                        "Median": 15,
-                        "Average": 15.4,
-                        "Max": 40
+                        "Median": 15
                     }
                 },
                 "Ducats": 45
@@ -1252,10 +1252,10 @@
                         "Smart-median": 4.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 10,
                         "Average": 12.857142857142858,
-                        "Max": 25
+                        "Max": 25,
+                        "Min": 10,
+                        "Median": 10
                     }
                 },
                 "Ducats": 45
@@ -1284,10 +1284,10 @@
                         "Smart-median": 4.0
                     },
                     "Nexus-stats": {
-                        "Min": 8,
-                        "Median": 15,
                         "Average": 18.136363636363637,
-                        "Max": 60
+                        "Max": 60,
+                        "Min": 8,
+                        "Median": 15
                     }
                 },
                 "Ducats": 45
@@ -1311,10 +1311,10 @@
                         "Smart-median": 3.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 15,
                         "Average": 17,
-                        "Max": 40
+                        "Max": 40,
+                        "Min": 10,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -1348,10 +1348,10 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 15,
                         "Average": 15.5,
-                        "Max": 33
+                        "Max": 33,
+                        "Min": 6,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -1377,13 +1377,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 19.25
+                        "Smart-median": 19.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 20,
                         "Average": 21.586666666666666,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 10,
+                        "Median": 20
                     }
                 },
                 "Ducats": 100
@@ -1405,13 +1405,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 24.5
+                        "Smart-median": 25.0
                     },
                     "Nexus-stats": {
+                        "Average": 27.445652173913043,
+                        "Max": 60,
                         "Min": 10,
-                        "Median": 28,
-                        "Average": 27.197802197802197,
-                        "Max": 60
+                        "Median": 28
                     }
                 },
                 "Ducats": 100
@@ -1430,10 +1430,10 @@
                         "Smart-median": 10.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 10,
                         "Average": 13.184615384615384,
-                        "Max": 35
+                        "Max": 35,
+                        "Min": 7,
+                        "Median": 10
                     }
                 },
                 "Ducats": 15
@@ -1452,10 +1452,10 @@
                         "Smart-median": 30.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 30,
                         "Average": 33.796992481203006,
-                        "Max": 80
+                        "Max": 80,
+                        "Min": 10,
+                        "Median": 30
                     }
                 },
                 "Ducats": 100
@@ -1479,10 +1479,10 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 10,
                         "Average": 15.638297872340425,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 6,
+                        "Median": 10
                     }
                 },
                 "Ducats": 25
@@ -1527,10 +1527,10 @@
                         "Smart-median": 3.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 15,
                         "Average": 15.507142857142858,
-                        "Max": 40
+                        "Max": 40,
+                        "Min": 6,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -1564,10 +1564,10 @@
                         "Smart-median": 17.0
                     },
                     "Nexus-stats": {
+                        "Average": 19.33490566037736,
+                        "Max": 60,
                         "Min": 7,
-                        "Median": 20,
-                        "Average": 19.36150234741784,
-                        "Max": 60
+                        "Median": 20
                     }
                 },
                 "Ducats": 100
@@ -1596,10 +1596,10 @@
                         "Smart-median": 25.0
                     },
                     "Nexus-stats": {
+                        "Average": 21.743243243243242,
+                        "Max": 60,
                         "Min": 7,
-                        "Median": 20,
-                        "Average": 21.645454545454545,
-                        "Max": 60
+                        "Median": 20
                     }
                 },
                 "Ducats": 100
@@ -1623,10 +1623,10 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
+                        "Average": 13.108108108108109,
+                        "Max": 25,
                         "Min": 6,
-                        "Median": 10,
-                        "Average": 12.945205479452055,
-                        "Max": 25
+                        "Median": 10
                     }
                 },
                 "Ducats": 45
@@ -1666,10 +1666,10 @@
                         "Smart-median": 3.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 15,
                         "Average": 15.704347826086957,
-                        "Max": 40
+                        "Max": 40,
+                        "Min": 6,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -1705,13 +1705,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 5.5
+                        "Smart-median": 6.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 15,
                         "Average": 15.390243902439025,
-                        "Max": 35
+                        "Max": 35,
+                        "Min": 6,
+                        "Median": 15
                     }
                 },
                 "Ducats": 45
@@ -1735,10 +1735,10 @@
                         "Smart-median": 20.0
                     },
                     "Nexus-stats": {
+                        "Average": 22.6015625,
+                        "Max": 70,
                         "Min": 7,
-                        "Median": 20,
-                        "Average": 22.228346456692915,
-                        "Max": 60
+                        "Median": 20
                     }
                 },
                 "Ducats": 100
@@ -1759,13 +1759,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 38.0
+                        "Smart-median": 37.5
                     },
                     "Nexus-stats": {
+                        "Average": 37.032407407407405,
+                        "Max": 80,
                         "Min": 12,
-                        "Median": 40,
-                        "Average": 37.05140186915888,
-                        "Max": 80
+                        "Median": 40
                     }
                 },
                 "Ducats": 100
@@ -1830,10 +1830,10 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 10,
                         "Average": 13,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 6,
+                        "Median": 10
                     }
                 },
                 "Ducats": 15
@@ -1872,10 +1872,10 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
+                        "Average": 14.136363636363637,
+                        "Max": 35,
                         "Min": 6,
-                        "Median": 15,
-                        "Average": 14.095238095238095,
-                        "Max": 35
+                        "Median": 15
                     }
                 },
                 "Ducats": 25
@@ -1916,13 +1916,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 8.5
+                        "Smart-median": 9.5
                     },
                     "Nexus-stats": {
+                        "Average": 12.528301886792454,
+                        "Max": 40,
                         "Min": 7,
-                        "Median": 10,
-                        "Average": 12.481481481481481,
-                        "Max": 40
+                        "Median": 10
                     }
                 },
                 "Ducats": 15
@@ -2004,13 +2004,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 3.0
+                        "Smart-median": 2.0
                     },
                     "Nexus-stats": {
+                        "Average": 14,
+                        "Max": 25,
                         "Min": 6,
-                        "Median": 10,
-                        "Average": 13.466666666666667,
-                        "Max": 25
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -2054,10 +2054,10 @@
                         "Smart-median": 3.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 15,
                         "Average": 13.666666666666666,
-                        "Max": 20
+                        "Max": 20,
+                        "Min": 7,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -2083,13 +2083,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 9.0
+                        "Smart-median": 8.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 10,
                         "Average": 10.272727272727273,
-                        "Max": 20
+                        "Max": 20,
+                        "Min": 6,
+                        "Median": 10
                     }
                 },
                 "Ducats": 45
@@ -2154,10 +2154,10 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
+                        "Average": 15.2,
+                        "Max": 50,
                         "Min": 7,
-                        "Median": 10,
-                        "Average": 15.473684210526315,
-                        "Max": 50
+                        "Median": 10
                     }
                 },
                 "Ducats": 15
@@ -2208,13 +2208,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 5.0
+                        "Smart-median": 5.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 10,
                         "Average": 13,
-                        "Max": 40
+                        "Max": 40,
+                        "Min": 6,
+                        "Median": 10
                     }
                 },
                 "Ducats": 25
@@ -2258,10 +2258,10 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 15,
                         "Average": 21.764705882352942,
-                        "Max": 75
+                        "Max": 75,
+                        "Min": 10,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -2288,13 +2288,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 135.0
+                        "Smart-median": 130.0
                     },
                     "Nexus-stats": {
+                        "Average": 124.07936507936508,
+                        "Max": 250,
                         "Min": 40,
-                        "Median": 130,
-                        "Average": 124.21578947368421,
-                        "Max": 250
+                        "Median": 130
                     }
                 },
                 "Ducats": 100
@@ -2318,10 +2318,10 @@
                         "Smart-median": 6.0
                     },
                     "Nexus-stats": {
+                        "Average": 17.960526315789473,
+                        "Max": 50,
                         "Min": 7,
-                        "Median": 15,
-                        "Average": 18.066666666666666,
-                        "Max": 50
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -2350,10 +2350,10 @@
                         "Smart-median": 12.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 15,
                         "Average": 18.2875,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 10,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -2372,10 +2372,10 @@
                         "Smart-median": 17.5
                     },
                     "Nexus-stats": {
+                        "Average": 19.709302325581394,
+                        "Max": 42,
                         "Min": 7,
-                        "Median": 20,
-                        "Average": 19.770114942528735,
-                        "Max": 42
+                        "Median": 20
                     }
                 },
                 "Ducats": 45
@@ -2415,10 +2415,10 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 10,
                         "Average": 12.222222222222221,
-                        "Max": 15
+                        "Max": 15,
+                        "Min": 10,
+                        "Median": 10
                     }
                 },
                 "Ducats": 15
@@ -2449,13 +2449,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 5.0
+                        "Smart-median": 5.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 9,
                         "Average": 10.9,
-                        "Max": 25
+                        "Max": 25,
+                        "Min": 6,
+                        "Median": 9
                     }
                 },
                 "Ducats": 45
@@ -2486,13 +2486,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 3.0
+                        "Smart-median": 2.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 30,
                         "Average": 34.5,
-                        "Max": 100
+                        "Max": 100,
+                        "Min": 6,
+                        "Median": 30
                     }
                 },
                 "Ducats": 15
@@ -2536,10 +2536,10 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 10,
                         "Average": 19.3,
-                        "Max": 80
+                        "Max": 80,
+                        "Min": 6,
+                        "Median": 10
                     }
                 },
                 "Ducats": 15
@@ -2579,10 +2579,10 @@
                         "Smart-median": 4.0
                     },
                     "Nexus-stats": {
-                        "Min": 8,
-                        "Median": 15,
                         "Average": 22,
-                        "Max": 100
+                        "Max": 100,
+                        "Min": 8,
+                        "Median": 15
                     }
                 },
                 "Ducats": 45
@@ -2636,10 +2636,10 @@
                         "Smart-median": 4.0
                     },
                     "Nexus-stats": {
-                        "Min": 8,
-                        "Median": 15,
                         "Average": 16.682926829268293,
-                        "Max": 40
+                        "Max": 40,
+                        "Min": 8,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -2660,13 +2660,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 19.5
+                        "Smart-median": 20.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 20,
                         "Average": 20.007407407407406,
-                        "Max": 52
+                        "Max": 52,
+                        "Min": 10,
+                        "Median": 20
                     }
                 },
                 "Ducats": 100
@@ -2691,10 +2691,10 @@
                         "Smart-median": 40.0
                     },
                     "Nexus-stats": {
-                        "Min": 15,
-                        "Median": 50,
                         "Average": 47.351351351351354,
-                        "Max": 100
+                        "Max": 100,
+                        "Min": 15,
+                        "Median": 50
                     }
                 },
                 "Ducats": 100
@@ -2713,10 +2713,10 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 12.5,
                         "Average": 15.5,
-                        "Max": 30
+                        "Max": 30,
+                        "Min": 7,
+                        "Median": 12.5
                     }
                 },
                 "Ducats": 45
@@ -2735,10 +2735,10 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 12.5,
                         "Average": 13.5,
-                        "Max": 30
+                        "Max": 30,
+                        "Min": 6,
+                        "Median": 12.5
                     }
                 },
                 "Ducats": 45
@@ -2775,13 +2775,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 10.0
+                        "Smart-median": 9.5
                     },
                     "Nexus-stats": {
+                        "Average": 16.801526717557252,
+                        "Max": 60,
                         "Min": 6,
-                        "Median": 15,
-                        "Average": 16.42528735632184,
-                        "Max": 60
+                        "Median": 15
                     }
                 },
                 "Ducats": 45
@@ -2822,13 +2822,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 17.0
+                        "Smart-median": 15.5
                     },
                     "Nexus-stats": {
+                        "Average": 20.922829581993568,
+                        "Max": 60,
                         "Min": 7,
-                        "Median": 20,
-                        "Average": 20.95114006514658,
-                        "Max": 60
+                        "Median": 20
                     }
                 },
                 "Ducats": 15
@@ -2862,10 +2862,10 @@
                         "Smart-median": 8.5
                     },
                     "Nexus-stats": {
+                        "Average": 14.946058091286307,
+                        "Max": 40,
                         "Min": 6,
-                        "Median": 10,
-                        "Average": 14.966804979253112,
-                        "Max": 40
+                        "Median": 10
                     }
                 },
                 "Ducats": 45
@@ -2904,10 +2904,10 @@
                         "Smart-median": 9.5
                     },
                     "Nexus-stats": {
+                        "Average": 16.27127659574468,
+                        "Max": 50,
                         "Min": 6,
-                        "Median": 15,
-                        "Average": 16.338709677419356,
-                        "Max": 50
+                        "Median": 15
                     }
                 },
                 "Ducats": 25
@@ -2932,10 +2932,10 @@
                         "Smart-median": 15.0
                     },
                     "Nexus-stats": {
+                        "Average": 25.081632653061224,
+                        "Max": 100,
                         "Min": 10,
-                        "Median": 20,
-                        "Average": 24.686274509803923,
-                        "Max": 100
+                        "Median": 20
                     }
                 },
                 "Ducats": 45
@@ -2951,13 +2951,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 79.5
+                        "Smart-median": 81.25
                     },
                     "Nexus-stats": {
+                        "Average": 97.15328467153284,
+                        "Max": 200,
                         "Min": 50,
-                        "Median": 100,
-                        "Average": 97.48148148148148,
-                        "Max": 200
+                        "Median": 100
                     }
                 },
                 "Ducats": 100
@@ -3012,10 +3012,10 @@
                         "Smart-median": 3.5
                     },
                     "Nexus-stats": {
-                        "Min": 8,
-                        "Median": 10,
-                        "Average": 11.444444444444445,
-                        "Max": 20
+                        "Average": 11.875,
+                        "Max": 20,
+                        "Min": 10,
+                        "Median": 10
                     }
                 },
                 "Ducats": 15
@@ -3054,10 +3054,10 @@
                         "Smart-median": 3.25
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 20,
                         "Average": 44.111111111111114,
-                        "Max": 232
+                        "Max": 232,
+                        "Min": 10,
+                        "Median": 20
                     }
                 },
                 "Ducats": 15
@@ -3101,10 +3101,10 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 10,
                         "Average": 14.9375,
-                        "Max": 60
+                        "Max": 60,
+                        "Min": 6,
+                        "Median": 10
                     }
                 },
                 "Ducats": 25
@@ -3138,10 +3138,10 @@
                         "Smart-median": 8.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 10,
                         "Average": 11.823529411764707,
-                        "Max": 30
+                        "Max": 30,
+                        "Min": 6,
+                        "Median": 10
                     }
                 },
                 "Ducats": 45
@@ -3176,10 +3176,10 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 15,
                         "Average": 15.43421052631579,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 6,
+                        "Median": 15
                     }
                 },
                 "Ducats": 45
@@ -3223,10 +3223,10 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
+                        "Average": 16.39,
+                        "Max": 50,
                         "Min": 10,
-                        "Median": 15,
-                        "Average": 16.353535353535353,
-                        "Max": 50
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -3242,13 +3242,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 32.5
+                        "Smart-median": 35.0
                     },
                     "Nexus-stats": {
-                        "Min": 15,
-                        "Median": 40,
-                        "Average": 42.58730158730159,
-                        "Max": 100
+                        "Average": 42.66561514195583,
+                        "Max": 100,
+                        "Min": 10,
+                        "Median": 40
                     }
                 },
                 "Ducats": 100
@@ -3288,10 +3288,10 @@
                         "Smart-median": 4.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 10,
                         "Average": 13.722222222222221,
-                        "Max": 40
+                        "Max": 40,
+                        "Min": 6,
+                        "Median": 10
                     }
                 },
                 "Ducats": 15
@@ -3322,13 +3322,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 7.0
+                        "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 10,
                         "Average": 11.866666666666667,
-                        "Max": 30
+                        "Max": 30,
+                        "Min": 6,
+                        "Median": 10
                     }
                 },
                 "Ducats": 65
@@ -3354,13 +3354,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 9.0
+                        "Smart-median": 10.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 10,
                         "Average": 13.507246376811594,
-                        "Max": 40
+                        "Max": 40,
+                        "Min": 6,
+                        "Median": 10
                     }
                 },
                 "Ducats": 65
@@ -3395,10 +3395,10 @@
                         "Smart-median": 12.0
                     },
                     "Nexus-stats": {
+                        "Average": 18.855263157894736,
+                        "Max": 60,
                         "Min": 7,
-                        "Median": 15,
-                        "Average": 18.582781456953644,
-                        "Max": 50
+                        "Median": 15.5
                     }
                 },
                 "Ducats": 65
@@ -3424,13 +3424,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 20.25
+                        "Smart-median": 19.0
                     },
                     "Nexus-stats": {
+                        "Average": 21.130718954248366,
+                        "Max": 50,
                         "Min": 10,
-                        "Median": 20,
-                        "Average": 21.105263157894736,
-                        "Max": 50
+                        "Median": 20
                     }
                 },
                 "Ducats": 100
@@ -3456,13 +3456,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 15.0
+                        "Smart-median": 14.0
                     },
                     "Nexus-stats": {
+                        "Average": 19.192592592592593,
+                        "Max": 50,
                         "Min": 7,
-                        "Median": 20,
-                        "Average": 19.186567164179106,
-                        "Max": 50
+                        "Median": 20
                     }
                 },
                 "Ducats": 100
@@ -3497,10 +3497,10 @@
                         "Smart-median": 25.0
                     },
                     "Nexus-stats": {
+                        "Average": 26.87857142857143,
+                        "Max": 90,
                         "Min": 10,
-                        "Median": 25,
-                        "Average": 26.95,
-                        "Max": 90
+                        "Median": 25.5
                     }
                 },
                 "Ducats": 100
@@ -3534,10 +3534,10 @@
                         "Smart-median": 4.5
                     },
                     "Nexus-stats": {
-                        "Min": 8,
-                        "Median": 22.5,
                         "Average": 22.944444444444443,
-                        "Max": 52
+                        "Max": 52,
+                        "Min": 8,
+                        "Median": 22.5
                     }
                 },
                 "Ducats": 15
@@ -3558,13 +3558,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 5.5
+                        "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 11,
                         "Average": 15.23076923076923,
-                        "Max": 40
+                        "Max": 40,
+                        "Min": 6,
+                        "Median": 11
                     }
                 },
                 "Ducats": 45
@@ -3593,10 +3593,10 @@
                         "Smart-median": 4.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 15,
                         "Average": 16.03846153846154,
-                        "Max": 45
+                        "Max": 45,
+                        "Min": 6,
+                        "Median": 15
                     }
                 },
                 "Ducats": 45
@@ -3631,10 +3631,10 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
+                        "Average": 12.291666666666666,
+                        "Max": 30,
                         "Min": 6,
-                        "Median": 10,
-                        "Average": 12.32394366197183,
-                        "Max": 30
+                        "Median": 10
                     }
                 },
                 "Ducats": 45
@@ -3683,10 +3683,10 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 15,
                         "Average": 19.564356435643564,
-                        "Max": 60
+                        "Max": 60,
+                        "Min": 7,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -3720,10 +3720,10 @@
                         "Smart-median": 10.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 15,
                         "Average": 16.22459893048128,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 6,
+                        "Median": 15
                     }
                 },
                 "Ducats": 65
@@ -3744,13 +3744,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 25.5
+                        "Smart-median": 20.5
                     },
                     "Nexus-stats": {
+                        "Average": 22.349462365591396,
+                        "Max": 60,
                         "Min": 7,
-                        "Median": 20,
-                        "Average": 22.36216216216216,
-                        "Max": 60
+                        "Median": 20
                     }
                 },
                 "Ducats": 100
@@ -3780,10 +3780,10 @@
                         "Smart-median": 3.25
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 17.5,
                         "Average": 16.25,
-                        "Max": 20
+                        "Max": 20,
+                        "Min": 10,
+                        "Median": 17.5
                     }
                 },
                 "Ducats": 15
@@ -3812,10 +3812,10 @@
                         "Smart-median": 7.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 18,
                         "Average": 20.454545454545453,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 7,
+                        "Median": 18
                     }
                 },
                 "Ducats": 15
@@ -3831,13 +3831,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 17.5
+                        "Smart-median": 16.75
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 20,
                         "Average": 21.31578947368421,
-                        "Max": 45
+                        "Max": 45,
+                        "Min": 7,
+                        "Median": 20
                     }
                 },
                 "Ducats": 45
@@ -3867,10 +3867,10 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 18.5,
                         "Average": 16.416666666666668,
-                        "Max": 30
+                        "Max": 30,
+                        "Min": 6,
+                        "Median": 18.5
                     }
                 },
                 "Ducats": 45
@@ -3901,13 +3901,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 8.5
+                        "Smart-median": 7.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 12.5,
                         "Average": 21.25,
-                        "Max": 75
+                        "Max": 75,
+                        "Min": 10,
+                        "Median": 12.5
                     }
                 },
                 "Ducats": 15
@@ -3941,10 +3941,10 @@
                         "Smart-median": 14.5
                     },
                     "Nexus-stats": {
+                        "Average": 19.6,
+                        "Max": 50,
                         "Min": 10,
-                        "Median": 20,
-                        "Average": 19.704545454545453,
-                        "Max": 50
+                        "Median": 20
                     }
                 },
                 "Ducats": 65
@@ -3960,13 +3960,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 40.0
+                        "Smart-median": 42.5
                     },
                     "Nexus-stats": {
-                        "Min": 15,
-                        "Median": 47.5,
                         "Average": 45.796875,
-                        "Max": 100
+                        "Max": 100,
+                        "Min": 15,
+                        "Median": 47.5
                     }
                 },
                 "Ducats": 100
@@ -3988,13 +3988,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 45.75
+                        "Smart-median": 32.5
                     },
                     "Nexus-stats": {
+                        "Average": 27.19298245614035,
+                        "Max": 55,
                         "Min": 10,
-                        "Median": 25,
-                        "Average": 27.454545454545453,
-                        "Max": 55
+                        "Median": 25
                     }
                 },
                 "Ducats": 45
@@ -4028,10 +4028,10 @@
                         "Smart-median": 6.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 10,
                         "Average": 12.9,
-                        "Max": 22
+                        "Max": 22,
+                        "Min": 7,
+                        "Median": 10
                     }
                 },
                 "Ducats": 15
@@ -4057,13 +4057,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 3.5
+                        "Smart-median": 5.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 20,
                         "Average": 42.5,
-                        "Max": 200
+                        "Max": 200,
+                        "Min": 10,
+                        "Median": 20
                     }
                 },
                 "Ducats": 15
@@ -4092,10 +4092,10 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 12.5,
                         "Average": 20.666666666666668,
-                        "Max": 100
+                        "Max": 100,
+                        "Min": 7,
+                        "Median": 12.5
                     }
                 },
                 "Ducats": 45
@@ -4125,10 +4125,10 @@
                         "Smart-median": 17.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 20,
                         "Average": 17.285714285714285,
-                        "Max": 30
+                        "Max": 30,
+                        "Min": 10,
+                        "Median": 20
                     }
                 },
                 "Ducats": 15
@@ -4152,10 +4152,10 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 15,
                         "Average": 17.5,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 10,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -4179,10 +4179,10 @@
                         "Smart-median": 7.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 10,
                         "Average": 15.076923076923077,
-                        "Max": 30
+                        "Max": 30,
+                        "Min": 10,
+                        "Median": 10
                     }
                 },
                 "Ducats": 15
@@ -4222,10 +4222,10 @@
                         "Smart-median": 4.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 15,
                         "Average": 18.41176470588235,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 7,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -4246,13 +4246,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 4.0
+                        "Smart-median": 5.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 10,
                         "Average": 13.242424242424242,
-                        "Max": 35
+                        "Max": 35,
+                        "Min": 6,
+                        "Median": 10
                     }
                 },
                 "Ducats": 45
@@ -4268,13 +4268,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 26.25
+                        "Smart-median": 24.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 25,
                         "Average": 25.581632653061224,
-                        "Max": 75
+                        "Max": 75,
+                        "Min": 10,
+                        "Median": 25
                     }
                 },
                 "Ducats": 100
@@ -4309,10 +4309,10 @@
                         "Smart-median": 15.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 15,
                         "Average": 16.0327868852459,
-                        "Max": 40
+                        "Max": 40,
+                        "Min": 7,
+                        "Median": 15
                     }
                 },
                 "Ducats": 100
@@ -4346,10 +4346,10 @@
                         "Smart-median": 4.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 15,
                         "Average": 15.84,
-                        "Max": 45
+                        "Max": 45,
+                        "Min": 6,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -4380,13 +4380,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 4.0
+                        "Smart-median": 3.5
                     },
                     "Nexus-stats": {
-                        "Min": 8,
-                        "Median": 10,
                         "Average": 12.548387096774194,
-                        "Max": 30
+                        "Max": 30,
+                        "Min": 8,
+                        "Median": 10
                     }
                 },
                 "Ducats": 45
@@ -4425,10 +4425,10 @@
                         "Smart-median": 4.0
                     },
                     "Nexus-stats": {
+                        "Average": 14.652173913043478,
+                        "Max": 30,
                         "Min": 6,
-                        "Median": 15,
-                        "Average": 14.863636363636363,
-                        "Max": 30
+                        "Median": 15
                     }
                 },
                 "Ducats": 45
@@ -4453,10 +4453,10 @@
                         "Smart-median": 20.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 17.5,
                         "Average": 17.047619047619047,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 10,
+                        "Median": 17.5
                     }
                 },
                 "Ducats": 45
@@ -4475,10 +4475,10 @@
                         "Smart-median": 4.0
                     },
                     "Nexus-stats": {
-                        "Min": 9,
-                        "Median": 10,
                         "Average": 14.083333333333334,
-                        "Max": 25
+                        "Max": 25,
+                        "Min": 9,
+                        "Median": 10
                     }
                 },
                 "Ducats": 15
@@ -4497,10 +4497,10 @@
                         "Smart-median": 11.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 15,
                         "Average": 15.38888888888889,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 7,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -4530,10 +4530,10 @@
                         "Smart-median": 7.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 10,
                         "Average": 10.159090909090908,
-                        "Max": 20
+                        "Max": 20,
+                        "Min": 7,
+                        "Median": 10
                     }
                 },
                 "Ducats": 15
@@ -4557,10 +4557,10 @@
                         "Smart-median": 20.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 20,
                         "Average": 19.19047619047619,
-                        "Max": 60
+                        "Max": 60,
+                        "Min": 10,
+                        "Median": 20
                     }
                 },
                 "Ducats": 100
@@ -4584,10 +4584,10 @@
                         "Smart-median": 10.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 10,
                         "Average": 11.555555555555555,
-                        "Max": 20
+                        "Max": 20,
+                        "Min": 7,
+                        "Median": 10
                     }
                 },
                 "Ducats": 45
@@ -4611,10 +4611,10 @@
                         "Smart-median": 6.75
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 10,
                         "Average": 18.38095238095238,
-                        "Max": 80
+                        "Max": 80,
+                        "Min": 6,
+                        "Median": 10
                     }
                 },
                 "Ducats": 15
@@ -4636,13 +4636,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 20.0
+                        "Smart-median": 22.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 15,
                         "Average": 18.13095238095238,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 10,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -4658,13 +4658,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 10.0
+                        "Smart-median": 8.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 10,
                         "Average": 13.853658536585366,
-                        "Max": 35
+                        "Max": 35,
+                        "Min": 7,
+                        "Median": 10
                     }
                 },
                 "Ducats": 45
@@ -4683,10 +4683,10 @@
                         "Smart-median": 7.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 10,
                         "Average": 12.041666666666666,
-                        "Max": 30
+                        "Max": 30,
+                        "Min": 7,
+                        "Median": 10
                     }
                 },
                 "Ducats": 15
@@ -4705,10 +4705,10 @@
                         "Smart-median": 35.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 30,
                         "Average": 29.705882352941178,
-                        "Max": 100
+                        "Max": 100,
+                        "Min": 10,
+                        "Median": 30
                     }
                 },
                 "Ducats": 100
@@ -4738,10 +4738,10 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 10,
                         "Average": 20.235294117647058,
-                        "Max": 150
+                        "Max": 150,
+                        "Min": 7,
+                        "Median": 10
                     }
                 },
                 "Ducats": 45
@@ -4762,13 +4762,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 5.5
+                        "Smart-median": 6.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 15,
                         "Average": 20.692307692307693,
-                        "Max": 70
+                        "Max": 70,
+                        "Min": 10,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -4792,10 +4792,10 @@
                         "Smart-median": 14.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 10,
                         "Average": 12.761904761904763,
-                        "Max": 30
+                        "Max": 30,
+                        "Min": 7,
+                        "Median": 10
                     }
                 },
                 "Ducats": 65
@@ -4825,10 +4825,10 @@
                         "Smart-median": 19.5
                     },
                     "Nexus-stats": {
-                        "Min": 9,
-                        "Median": 20,
                         "Average": 22.729166666666668,
-                        "Max": 70
+                        "Max": 70,
+                        "Min": 9,
+                        "Median": 20
                     }
                 },
                 "Ducats": 15
@@ -4852,10 +4852,10 @@
                         "Smart-median": 7.5
                     },
                     "Nexus-stats": {
+                        "Average": 15.755555555555556,
+                        "Max": 40,
                         "Min": 7,
-                        "Median": 15,
-                        "Average": 15.325581395348838,
-                        "Max": 40
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -4879,10 +4879,10 @@
                         "Smart-median": 20.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 25,
                         "Average": 27.5,
-                        "Max": 80
+                        "Max": 80,
+                        "Min": 10,
+                        "Median": 25
                     }
                 },
                 "Ducats": 100
@@ -4906,10 +4906,10 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 20,
                         "Average": 20.825,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 10,
+                        "Median": 20
                     }
                 },
                 "Ducats": 45
@@ -4934,10 +4934,10 @@
                         "Smart-median": 151.0
                     },
                     "Nexus-stats": {
+                        "Average": 154.0122950819672,
+                        "Max": 300,
                         "Min": 50,
-                        "Median": 150,
-                        "Average": 154.27272727272728,
-                        "Max": 300
+                        "Median": 150
                     }
                 },
                 "Ducats": 100
@@ -4953,13 +4953,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 12.5
+                        "Smart-median": 14.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 15,
                         "Average": 16.11340206185567,
-                        "Max": 40
+                        "Max": 40,
+                        "Min": 10,
+                        "Median": 15
                     }
                 },
                 "Ducats": 45
@@ -4978,10 +4978,10 @@
                         "Smart-median": 22.0
                     },
                     "Nexus-stats": {
+                        "Average": 26.63888888888889,
+                        "Max": 75,
                         "Min": 10,
-                        "Median": 25,
-                        "Average": 26.546296296296298,
-                        "Max": 75
+                        "Median": 25
                     }
                 },
                 "Ducats": 45
@@ -4997,13 +4997,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 10.0
+                        "Smart-median": 10.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 15,
                         "Average": 16.14851485148515,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 7,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -5030,13 +5030,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 12.0
+                        "Smart-median": 13.5
                     },
                     "Nexus-stats": {
+                        "Average": 17.402298850574713,
+                        "Max": 60,
                         "Min": 10,
-                        "Median": 15,
-                        "Average": 17.430232558139537,
-                        "Max": 60
+                        "Median": 15
                     }
                 },
                 "Ducats": 45
@@ -5057,13 +5057,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 15.0
+                        "Smart-median": 17.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 20,
                         "Average": 24.845070422535212,
-                        "Max": 75
+                        "Max": 75,
+                        "Min": 7,
+                        "Median": 20
                     }
                 },
                 "Ducats": 45
@@ -5082,10 +5082,10 @@
                         "Smart-median": 9.5
                     },
                     "Nexus-stats": {
+                        "Average": 16.47142857142857,
+                        "Max": 45,
                         "Min": 7,
-                        "Median": 15,
-                        "Average": 16.46268656716418,
-                        "Max": 45
+                        "Median": 15
                     }
                 },
                 "Ducats": 45
@@ -5101,13 +5101,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 20.0
+                        "Smart-median": 19.5
                     },
                     "Nexus-stats": {
+                        "Average": 22.472727272727273,
+                        "Max": 75,
                         "Min": 7,
-                        "Median": 20,
-                        "Average": 22.61111111111111,
-                        "Max": 75
+                        "Median": 20
                     }
                 },
                 "Ducats": 45
@@ -5134,13 +5134,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 3.5
+                        "Smart-median": 5.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 20,
                         "Average": 20.77777777777778,
-                        "Max": 35
+                        "Max": 35,
+                        "Min": 10,
+                        "Median": 20
                     }
                 },
                 "Ducats": 45
@@ -5164,10 +5164,10 @@
                         "Smart-median": 20.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 25,
                         "Average": 25.900990099009903,
-                        "Max": 70
+                        "Max": 70,
+                        "Min": 10,
+                        "Median": 25
                     }
                 },
                 "Ducats": 100
@@ -5201,10 +5201,10 @@
                         "Smart-median": 5.25
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 10,
                         "Average": 11.75,
-                        "Max": 20
+                        "Max": 20,
+                        "Min": 6,
+                        "Median": 10
                     }
                 },
                 "Ducats": 15
@@ -5234,10 +5234,10 @@
                         "Smart-median": 38.0
                     },
                     "Nexus-stats": {
+                        "Average": 36.845454545454544,
+                        "Max": 90,
                         "Min": 10,
-                        "Median": 40,
-                        "Average": 36.945205479452056,
-                        "Max": 90
+                        "Median": 40
                     }
                 },
                 "Ducats": 100
@@ -5263,13 +5263,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 3.5
+                        "Smart-median": 4.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 15,
                         "Average": 17.19178082191781,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 6,
+                        "Median": 15
                     }
                 },
                 "Ducats": 45
@@ -5293,10 +5293,10 @@
                         "Smart-median": 15.0
                     },
                     "Nexus-stats": {
+                        "Average": 19.70212765957447,
+                        "Max": 50,
                         "Min": 7,
-                        "Median": 20,
-                        "Average": 19.774647887323944,
-                        "Max": 50
+                        "Median": 20
                     }
                 },
                 "Ducats": 100
@@ -5320,10 +5320,10 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
+                        "Average": 17.666666666666668,
+                        "Max": 50,
                         "Min": 6,
-                        "Median": 15,
-                        "Average": 17.779411764705884,
-                        "Max": 50
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -5355,13 +5355,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 15.0
+                        "Smart-median": 16.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 15,
                         "Average": 17.27777777777778,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 7,
+                        "Median": 15
                     }
                 },
                 "Ducats": 100
@@ -5390,10 +5390,10 @@
                         "Smart-median": 15.0
                     },
                     "Nexus-stats": {
+                        "Average": 16.12162162162162,
+                        "Max": 40,
                         "Min": 8,
-                        "Median": 15,
-                        "Average": 16.223684210526315,
-                        "Max": 40
+                        "Median": 15
                     }
                 },
                 "Ducats": 100
@@ -5417,10 +5417,10 @@
                         "Smart-median": 15.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 15,
                         "Average": 16.826923076923077,
-                        "Max": 35
+                        "Max": 35,
+                        "Min": 7,
+                        "Median": 15
                     }
                 },
                 "Ducats": 100
@@ -5444,10 +5444,10 @@
                         "Smart-median": 14.5
                     },
                     "Nexus-stats": {
-                        "Min": 9,
-                        "Median": 15,
                         "Average": 17.82,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 9,
+                        "Median": 15
                     }
                 },
                 "Ducats": 100
@@ -5487,10 +5487,10 @@
                         "Smart-median": 6.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Median": 10,
                         "Average": 13,
-                        "Max": 20
+                        "Max": 20,
+                        "Min": 6,
+                        "Median": 10
                     }
                 },
                 "Ducats": 45
@@ -5524,10 +5524,10 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 15,
                         "Average": 18.357142857142858,
-                        "Max": 52
+                        "Max": 52,
+                        "Min": 10,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -5551,10 +5551,10 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 10,
                         "Average": 10.146341463414634,
-                        "Max": 25
+                        "Max": 25,
+                        "Min": 7,
+                        "Median": 10
                     }
                 },
                 "Ducats": 45
@@ -5576,13 +5576,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 10.0
+                        "Smart-median": 7.5
                     },
                     "Nexus-stats": {
-                        "Min": 8,
-                        "Median": 15,
                         "Average": 17.444444444444443,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 8,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -5601,10 +5601,10 @@
                         "Smart-median": 26.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 25,
                         "Average": 26.72222222222222,
-                        "Max": 45
+                        "Max": 45,
+                        "Min": 10,
+                        "Median": 25
                     }
                 },
                 "Ducats": 100
@@ -5623,10 +5623,10 @@
                         "Smart-median": 3.5
                     },
                     "Nexus-stats": {
-                        "Min": 8,
-                        "Median": 10,
                         "Average": 15.952380952380953,
-                        "Max": 40
+                        "Max": 40,
+                        "Min": 8,
+                        "Median": 10
                     }
                 },
                 "Ducats": 15
@@ -5647,13 +5647,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 4.0
+                        "Smart-median": 4.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 10,
                         "Average": 13.31578947368421,
-                        "Max": 30
+                        "Max": 30,
+                        "Min": 7,
+                        "Median": 10
                     }
                 },
                 "Ducats": 45
@@ -5680,13 +5680,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 10.0
+                        "Smart-median": 9.25
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 11,
                         "Average": 16.166666666666668,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 10,
+                        "Median": 11
                     }
                 },
                 "Ducats": 45
@@ -5705,10 +5705,10 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 9,
-                        "Median": 10,
                         "Average": 15.5,
-                        "Max": 55
+                        "Max": 55,
+                        "Min": 9,
+                        "Median": 10
                     }
                 },
                 "Ducats": 45
@@ -5727,10 +5727,10 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
+                        "Average": 11.846153846153847,
+                        "Max": 20,
                         "Min": 7,
-                        "Median": 11,
-                        "Average": 12.166666666666666,
-                        "Max": 20
+                        "Median": 10
                     }
                 },
                 "Ducats": 15
@@ -5751,13 +5751,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 15.0
+                        "Smart-median": 14.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 20,
                         "Average": 18.42222222222222,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 7,
+                        "Median": 20
                     }
                 },
                 "Ducats": 100
@@ -5779,13 +5779,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 400.0
+                        "Smart-median": 399.5
                     },
                     "Nexus-stats": {
+                        "Average": 398.06451612903226,
+                        "Max": 1000,
                         "Min": 150,
-                        "Median": 400,
-                        "Average": 398.05194805194805,
-                        "Max": 1000
+                        "Median": 400
                     }
                 },
                 "Ducats": 100
@@ -5801,13 +5801,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 32.0
+                        "Smart-median": 30.0
                     },
                     "Nexus-stats": {
+                        "Average": 37.64655172413793,
+                        "Max": 100,
                         "Min": 15,
-                        "Median": 39.5,
-                        "Average": 37.560344827586206,
-                        "Max": 100
+                        "Median": 40
                     }
                 },
                 "Ducats": 15
@@ -5826,10 +5826,10 @@
                         "Smart-median": 17.5
                     },
                     "Nexus-stats": {
+                        "Average": 23.49074074074074,
+                        "Max": 70,
                         "Min": 10,
-                        "Median": 20,
-                        "Average": 23.523364485981308,
-                        "Max": 70
+                        "Median": 20
                     }
                 },
                 "Ducats": 15
@@ -5845,13 +5845,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 72.5
+                        "Smart-median": 82.5
                     },
                     "Nexus-stats": {
+                        "Average": 95.05732484076434,
+                        "Max": 200,
                         "Min": 30,
-                        "Median": 95,
-                        "Average": 95.24528301886792,
-                        "Max": 200
+                        "Median": 95
                     }
                 },
                 "Ducats": 45
@@ -5873,13 +5873,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 35.0
+                        "Smart-median": 37.25
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 32.5,
                         "Average": 35.68181818181818,
-                        "Max": 130
+                        "Max": 130,
+                        "Min": 10,
+                        "Median": 32.5
                     }
                 },
                 "Ducats": 15
@@ -5898,10 +5898,10 @@
                         "Smart-median": 145.5
                     },
                     "Nexus-stats": {
-                        "Min": 50,
-                        "Median": 170,
                         "Average": 165.41538461538462,
-                        "Max": 275
+                        "Max": 275,
+                        "Min": 50,
+                        "Median": 170
                     }
                 },
                 "Ducats": 100
@@ -5917,13 +5917,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 22.5
+                        "Smart-median": 25.0
                     },
                     "Nexus-stats": {
+                        "Average": 38.78048780487805,
+                        "Max": 100,
                         "Min": 10,
-                        "Median": 25,
-                        "Average": 37.214285714285715,
-                        "Max": 100
+                        "Median": 25
                     }
                 },
                 "Ducats": 45
@@ -5942,10 +5942,10 @@
                         "Smart-median": 14.0
                     },
                     "Nexus-stats": {
+                        "Average": 19.85,
+                        "Max": 90,
                         "Min": 7,
-                        "Median": 15,
-                        "Average": 19.076923076923077,
-                        "Max": 90
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -5967,13 +5967,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 65.0
+                        "Smart-median": 62.5
                     },
                     "Nexus-stats": {
-                        "Min": 30,
-                        "Median": 80,
                         "Average": 75,
-                        "Max": 150
+                        "Max": 150,
+                        "Min": 30,
+                        "Median": 80
                     }
                 },
                 "Ducats": 45
@@ -5992,10 +5992,10 @@
                         "Smart-median": 12.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 17.5,
                         "Average": 16.22222222222222,
-                        "Max": 20
+                        "Max": 20,
+                        "Min": 7,
+                        "Median": 17.5
                     }
                 },
                 "Ducats": 45
@@ -6014,10 +6014,10 @@
                         "Smart-median": 75.0
                     },
                     "Nexus-stats": {
+                        "Average": 88.43137254901961,
+                        "Max": 120,
                         "Min": 30,
-                        "Median": 90,
-                        "Average": 88.26923076923077,
-                        "Max": 120
+                        "Median": 90
                     }
                 },
                 "Ducats": 100
@@ -6039,13 +6039,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 43.0
+                        "Smart-median": 45.0
                     },
                     "Nexus-stats": {
-                        "Min": 15,
-                        "Median": 50,
                         "Average": 57.096774193548384,
-                        "Max": 130
+                        "Max": 130,
+                        "Min": 15,
+                        "Median": 50
                     }
                 },
                 "Ducats": 15
@@ -6064,10 +6064,10 @@
                         "Smart-median": 10.25
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 13.5,
                         "Average": 15.75,
-                        "Max": 40
+                        "Max": 40,
+                        "Min": 7,
+                        "Median": 13.5
                     }
                 },
                 "Ducats": 15
@@ -6086,10 +6086,10 @@
                         "Smart-median": 13.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 15,
                         "Average": 18,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 10,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -6108,10 +6108,10 @@
                         "Smart-median": 7.5
                     },
                     "Nexus-stats": {
+                        "Average": 112,
+                        "Max": 200,
                         "Min": 10,
-                        "Median": 150,
-                        "Average": 138.88888888888889,
-                        "Max": 200
+                        "Median": 145
                     }
                 },
                 "Ducats": 15
@@ -6136,10 +6136,10 @@
                         "Smart-median": 37.5
                     },
                     "Nexus-stats": {
+                        "Average": 43.75,
+                        "Max": 80,
                         "Min": 15,
-                        "Median": 40,
-                        "Average": 42.714285714285715,
-                        "Max": 80
+                        "Median": 40
                     }
                 },
                 "Ducats": 15
@@ -6155,13 +6155,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 15.0
+                        "Smart-median": 17.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 20,
                         "Average": 21.428571428571427,
-                        "Max": 50
+                        "Max": 50,
+                        "Min": 10,
+                        "Median": 20
                     }
                 },
                 "Ducats": 15
@@ -6177,13 +6177,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 105.75
+                        "Smart-median": 100.0
                     },
                     "Nexus-stats": {
+                        "Average": 116.97826086956522,
+                        "Max": 180,
                         "Min": 43,
-                        "Median": 120,
-                        "Average": 116.24444444444444,
-                        "Max": 180
+                        "Median": 120
                     }
                 },
                 "Ducats": 100
@@ -6205,13 +6205,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 30.0
+                        "Smart-median": 27.5
                     },
                     "Nexus-stats": {
-                        "Min": 15,
-                        "Median": 35,
                         "Average": 37.36363636363637,
-                        "Max": 65
+                        "Max": 65,
+                        "Min": 15,
+                        "Median": 35
                     }
                 },
                 "Ducats": 45
@@ -6227,13 +6227,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 14.0
+                        "Smart-median": 12.0
                     },
                     "Nexus-stats": {
+                        "Average": 21,
+                        "Max": 50,
                         "Min": 10,
-                        "Median": 15,
-                        "Average": 21.31578947368421,
-                        "Max": 50
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -6252,10 +6252,10 @@
                         "Smart-median": 13.75
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 15,
                         "Average": 18.095238095238095,
-                        "Max": 30
+                        "Max": 30,
+                        "Min": 10,
+                        "Median": 15
                     }
                 },
                 "Ducats": 15
@@ -6277,13 +6277,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 50.0
+                        "Smart-median": 53.25
                     },
                     "Nexus-stats": {
+                        "Average": 59.17738095238095,
+                        "Max": 170,
                         "Min": 20,
-                        "Median": 50,
-                        "Average": 59.218116805721095,
-                        "Max": 170
+                        "Median": 50
                     }
                 },
                 "Ducats": 45
@@ -6299,13 +6299,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 37.5
+                        "Smart-median": 35.0
                     },
                     "Nexus-stats": {
+                        "Average": 56.60734149054505,
+                        "Max": 180,
                         "Min": 15,
-                        "Median": 50,
-                        "Average": 56.690848214285715,
-                        "Max": 180
+                        "Median": 50
                     }
                 },
                 "Ducats": 45
@@ -6324,10 +6324,10 @@
                         "Smart-median": 57.5
                     },
                     "Nexus-stats": {
+                        "Average": 100.05695142378559,
+                        "Max": 350,
                         "Min": 25,
-                        "Median": 90,
-                        "Average": 100.34150464919696,
-                        "Max": 350
+                        "Median": 90
                     }
                 },
                 "Ducats": 100
@@ -6346,10 +6346,10 @@
                         "Smart-median": 12.5
                     },
                     "Nexus-stats": {
+                        "Average": 32.68588957055215,
+                        "Max": 120,
                         "Min": 7,
-                        "Median": 25,
-                        "Average": 32.54187192118226,
-                        "Max": 120
+                        "Median": 25
                     }
                 },
                 "Ducats": 15
@@ -6372,10 +6372,10 @@
                 "data": {
                     "Warframe.market": {},
                     "Nexus-stats": {
+                        "Average": 97.76315789473684,
+                        "Max": 350,
                         "Min": 35,
-                        "Median": 80,
-                        "Average": 98.0641592920354,
-                        "Max": 350
+                        "Median": 80
                     }
                 },
                 "Ducats": 100
@@ -6392,10 +6392,10 @@
                 "data": {
                     "Warframe.market": {},
                     "Nexus-stats": {
+                        "Average": 63.564,
+                        "Max": 200,
                         "Min": 20,
-                        "Median": 60,
-                        "Average": 63.67213114754098,
-                        "Max": 200
+                        "Median": 60
                     }
                 },
                 "Ducats": 45
@@ -6412,10 +6412,10 @@
                 "data": {
                     "Warframe.market": {},
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 20,
-                        "Average": 28.107142857142858,
-                        "Max": 100
+                        "Average": 27.842105263157894,
+                        "Max": 100,
+                        "Min": 7,
+                        "Median": 20
                     }
                 },
                 "Ducats": 15
@@ -6440,10 +6440,10 @@
                         "Smart-median": 14.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Median": 20,
                         "Average": 25.945945945945947,
-                        "Max": 100
+                        "Max": 100,
+                        "Min": 7,
+                        "Median": 20
                     }
                 },
                 "Ducats": 15
@@ -6459,13 +6459,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 56.0
+                        "Smart-median": 60.0
                     },
                     "Nexus-stats": {
-                        "Min": 30,
-                        "Median": 80,
                         "Average": 95.36697247706422,
-                        "Max": 300
+                        "Max": 300,
+                        "Min": 30,
+                        "Median": 80
                     }
                 },
                 "Ducats": 100
@@ -6481,13 +6481,13 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 33.25
+                        "Smart-median": 30.75
                     },
                     "Nexus-stats": {
-                        "Min": 15,
-                        "Median": 45,
                         "Average": 48.906474820143885,
-                        "Max": 100
+                        "Max": 100,
+                        "Min": 15,
+                        "Median": 45
                     }
                 },
                 "Ducats": 45
@@ -6506,10 +6506,10 @@
                         "Smart-median": 24.5
                     },
                     "Nexus-stats": {
+                        "Average": 38.865497076023395,
+                        "Max": 125,
                         "Min": 10,
-                        "Median": 35,
-                        "Average": 39.22093023255814,
-                        "Max": 125
+                        "Median": 35
                     }
                 },
                 "Ducats": 45
@@ -6528,10 +6528,10 @@
                         "Smart-median": 22.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Median": 40,
                         "Average": 40.32748538011696,
-                        "Max": 150
+                        "Max": 150,
+                        "Min": 10,
+                        "Median": 40
                     }
                 },
                 "Ducats": 45
