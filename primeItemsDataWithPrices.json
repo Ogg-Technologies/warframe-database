@@ -1,10 +1,8 @@
 [
     {
         "Name": "Akbronco Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -38,15 +36,15 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 25,
                         "Average": 12.931034482758621,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 25,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 45,
                 "Name": "Link",
                 "Relics": [
                     {
@@ -72,24 +70,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 3.5
+                        "Smart-median": 4.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 50,
                         "Average": 20.03448275862069,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 50,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Carrier Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Systems",
                 "Relics": [
                     {
@@ -128,15 +126,15 @@
                         "Smart-median": 3.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 40,
                         "Average": 16.930232558139537,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 40,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "Carapace",
                 "Relics": [
                     {
@@ -160,15 +158,15 @@
                         "Smart-median": 7.5
                     },
                     "Nexus-stats": {
-                        "Min": 8,
+                        "Average": 13.709090909090909,
+                        "Median": 10,
                         "Max": 40,
-                        "Average": 13.685185185185185,
-                        "Median": 10
+                        "Min": 8
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 65,
                 "Name": "Cerebrum",
                 "Relics": [
                     {
@@ -197,15 +195,15 @@
                         "Smart-median": 27.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 60,
                         "Average": 29.47244094488189,
-                        "Median": 30
+                        "Median": 30,
+                        "Max": 60,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 65
             },
             {
-                "Ducats": 15,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -234,21 +232,21 @@
                         "Smart-median": 6.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 30,
                         "Average": 15.921052631578947,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 30,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Kavasa Prime Collar",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 45,
                 "Name": "Band",
                 "Relics": [
                     {
@@ -282,10 +280,10 @@
                         "Smart-median": 4.0
                     },
                     "Nexus-stats": {}
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 65,
                 "Name": "Buckle",
                 "Relics": [
                     {
@@ -311,18 +309,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 7.0
+                        "Smart-median": 8.5
                     },
                     "Nexus-stats": {
-                        "Min": null,
-                        "Max": null,
                         "Average": null,
-                        "Median": null
+                        "Median": null,
+                        "Max": null,
+                        "Min": null
                     }
-                }
+                },
+                "Ducats": 65
             },
             {
-                "Ducats": 45,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -346,21 +344,21 @@
                         "Smart-median": 5.5
                     },
                     "Nexus-stats": {
-                        "Min": 20,
-                        "Max": 20,
                         "Average": 20,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 20,
+                        "Min": 20
                     }
-                }
+                },
+                "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Nyx Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -376,18 +374,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 5.25
+                        "Smart-median": 5.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
+                        "Average": 20.838383838383837,
+                        "Median": 20,
                         "Max": 60,
-                        "Average": 20.744897959183675,
-                        "Median": 20
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 100,
                 "Name": "Neuroptics",
                 "Relics": [
                     {
@@ -401,15 +399,15 @@
                         "Smart-median": 47.5
                     },
                     "Nexus-stats": {
-                        "Min": 20,
+                        "Average": 50.22549019607843,
+                        "Median": 45,
                         "Max": 150,
-                        "Average": 50.54545454545455,
-                        "Median": 45
+                        "Min": 20
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 45,
                 "Name": "Systems",
                 "Relics": [
                     {
@@ -420,18 +418,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 12.5
+                        "Smart-median": 12.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 230,
                         "Average": 31.71153846153846,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 230,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 100,
                 "Name": "Chassis",
                 "Relics": [
                     {
@@ -442,24 +440,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 125.0
+                        "Smart-median": 120.0
                     },
                     "Nexus-stats": {
-                        "Min": 40,
-                        "Max": 300,
                         "Average": 123.22727272727273,
-                        "Median": 120
+                        "Median": 120,
+                        "Max": 300,
+                        "Min": 40
                     }
-                }
+                },
+                "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Soma Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 100,
                 "Name": "Stock",
                 "Relics": [
                     {
@@ -475,18 +473,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 75.0
+                        "Smart-median": 74.5
                     },
                     "Nexus-stats": {
-                        "Min": 25,
+                        "Average": 72.632,
+                        "Median": 70,
                         "Max": 165,
-                        "Average": 72.5725806451613,
-                        "Median": 70
+                        "Min": 25
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 45,
                 "Name": "Receiver",
                 "Relics": [
                     {
@@ -502,18 +500,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 39.5
+                        "Smart-median": 40.0
                     },
                     "Nexus-stats": {
-                        "Min": 15,
-                        "Max": 150,
                         "Average": 42.924107142857146,
-                        "Median": 40
+                        "Median": 40,
+                        "Max": 150,
+                        "Min": 15
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 25,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -532,15 +530,15 @@
                         "Smart-median": 7.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 51,
                         "Average": 17.01834862385321,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 51,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 25
             },
             {
-                "Ducats": 15,
                 "Name": "Barrel",
                 "Relics": [
                     {
@@ -554,21 +552,21 @@
                         "Smart-median": 20.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 55,
-                        "Average": 20.753731343283583,
-                        "Median": 20
+                        "Average": 21.014705882352942,
+                        "Median": 20,
+                        "Max": 70,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Ash Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 45,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -592,15 +590,15 @@
                         "Smart-median": 12.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
+                        "Average": 17.246913580246915,
+                        "Median": 15,
                         "Max": 60,
-                        "Average": 17.540372670807454,
-                        "Median": 15
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 65,
                 "Name": "Systems",
                 "Relics": [
                     {
@@ -616,18 +614,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 42.5
+                        "Smart-median": 50.0
                     },
                     "Nexus-stats": {
-                        "Min": 15,
-                        "Max": 120,
                         "Average": 45.38095238095238,
-                        "Median": 45
+                        "Median": 45,
+                        "Max": 120,
+                        "Min": 15
                     }
-                }
+                },
+                "Ducats": 65
             },
             {
-                "Ducats": 15,
                 "Name": "Chassis",
                 "Relics": [
                     {
@@ -651,15 +649,15 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 45,
-                        "Average": 16.46086956521739,
-                        "Median": 15
+                        "Average": 16.92241379310345,
+                        "Median": 15,
+                        "Max": 70,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 45,
                 "Name": "Neuroptics",
                 "Relics": [
                     {
@@ -693,21 +691,21 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 60,
                         "Average": 16.10576923076923,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 60,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Paris Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "String",
                 "Relics": [
                     {
@@ -756,15 +754,15 @@
                         "Smart-median": 4.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
+                        "Average": 17.566666666666666,
+                        "Median": 15,
                         "Max": 50,
-                        "Average": 17.482758620689655,
-                        "Median": 15
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "Lower Limb",
                 "Relics": [
                     {
@@ -806,15 +804,15 @@
                 "data": {
                     "Warframe.market": {},
                     "Nexus-stats": {
-                        "Min": 8,
-                        "Max": 75,
                         "Average": 22.322580645161292,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 75,
+                        "Min": 8
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -868,15 +866,15 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 40,
                         "Average": 17.043478260869566,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 40,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 25,
                 "Name": "Upper Limb",
                 "Relics": [
                     {
@@ -925,15 +923,15 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 50,
                         "Average": 18.375,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 50,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 25
             },
             {
-                "Ducats": 45,
                 "Name": "Grip",
                 "Relics": [
                     {
@@ -950,21 +948,21 @@
                 "data": {
                     "Warframe.market": {},
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 30,
                         "Average": 12.333333333333334,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 30,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Spira Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 100,
                 "Name": "Pouch",
                 "Relics": [
                     {
@@ -995,18 +993,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 14.0
+                        "Smart-median": 14.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 40,
                         "Average": 15.642857142857142,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 40,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 100,
                 "Name": "Blade",
                 "Relics": [
                     {
@@ -1030,15 +1028,15 @@
                         "Smart-median": 30.0
                     },
                     "Nexus-stats": {
-                        "Min": 9,
+                        "Average": 27.85135135135135,
+                        "Median": 25,
                         "Max": 80,
-                        "Average": 27.986206896551725,
-                        "Median": 25
+                        "Min": 9
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 15,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -1069,24 +1067,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 2.0
+                        "Smart-median": 2.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 40,
                         "Average": 17.04255319148936,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 40,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Akstiletto Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 45,
                 "Name": "Link",
                 "Relics": [
                     {
@@ -1110,15 +1108,15 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 9090,
-                        "Average": 518.4166666666666,
-                        "Median": 15
+                        "Average": 14.8,
+                        "Median": 15,
+                        "Max": 35,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 100,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -1139,18 +1137,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 14.0
+                        "Smart-median": 12.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
+                        "Average": 13.756302521008404,
+                        "Median": 14,
                         "Max": 40,
-                        "Average": 13.975,
-                        "Median": 14
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 45,
                 "Name": "Barrel",
                 "Relics": [
                     {
@@ -1174,15 +1172,15 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 30,
                         "Average": 11.397727272727273,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 30,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 45,
                 "Name": "Receiver",
                 "Relics": [
                     {
@@ -1208,24 +1206,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 11.0
+                        "Smart-median": 11.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
+                        "Average": 15.204225352112676,
+                        "Median": 15,
                         "Max": 40,
-                        "Average": 15.54861111111111,
-                        "Median": 15
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Cernos Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 45,
                 "Name": "String",
                 "Relics": [
                     {
@@ -1249,15 +1247,15 @@
                         "Smart-median": 4.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 47,
                         "Average": 15.6,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 47,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 45,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -1281,15 +1279,15 @@
                         "Smart-median": 4.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 40,
                         "Average": 16.4,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 40,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 15,
                 "Name": "Grip",
                 "Relics": [
                     {
@@ -1308,15 +1306,15 @@
                         "Smart-median": 3.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 25,
                         "Average": 13,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 25,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "Upper Limb",
                 "Relics": [
                     {
@@ -1342,18 +1340,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 2.5
+                        "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 45,
                         "Average": 16.65909090909091,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 45,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 100,
                 "Name": "Lower Limb",
                 "Relics": [
                     {
@@ -1374,24 +1372,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 19.5
+                        "Smart-median": 20.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 50,
                         "Average": 20.401869158878505,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 50,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Oberon Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 100,
                 "Name": "Neuroptics",
                 "Relics": [
                     {
@@ -1402,18 +1400,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 23.0
+                        "Smart-median": 24.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 60,
                         "Average": 27.42325581395349,
-                        "Median": 25
+                        "Median": 25,
+                        "Max": 60,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 15,
                 "Name": "Chassis",
                 "Relics": [
                     {
@@ -1424,18 +1422,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 10.0
+                        "Smart-median": 8.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 40,
                         "Average": 16.337078651685392,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 40,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 100,
                 "Name": "Systems",
                 "Relics": [
                     {
@@ -1446,18 +1444,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 30.0
+                        "Smart-median": 30.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 70,
                         "Average": 33.73972602739726,
-                        "Median": 32
+                        "Median": 32,
+                        "Max": 70,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 25,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -1476,21 +1474,21 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 45,
                         "Average": 15.235772357723578,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 45,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 25
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Nekros Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Chassis",
                 "Relics": [
                     {
@@ -1524,15 +1522,15 @@
                         "Smart-median": 3.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 45,
                         "Average": 15.92436974789916,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 45,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 100,
                 "Name": "Systems",
                 "Relics": [
                     {
@@ -1561,15 +1559,15 @@
                         "Smart-median": 15.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
+                        "Average": 19.164133738601823,
+                        "Median": 20,
                         "Max": 60,
-                        "Average": 18.92749244712991,
-                        "Median": 20
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 100,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -1590,18 +1588,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 25.5
+                        "Smart-median": 25.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 60,
                         "Average": 22.754569190600524,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 60,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 45,
                 "Name": "Neuroptics",
                 "Relics": [
                     {
@@ -1620,21 +1618,21 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
+                        "Average": 14.015384615384615,
+                        "Median": 11,
                         "Max": 30,
-                        "Average": 14.069767441860465,
-                        "Median": 11
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Valkyr Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -1663,15 +1661,15 @@
                         "Smart-median": 3.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
+                        "Average": 16.048648648648648,
+                        "Median": 15,
                         "Max": 45,
-                        "Average": 16.081521739130434,
-                        "Median": 15
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 45,
                 "Name": "Neuroptics",
                 "Relics": [
                     {
@@ -1702,18 +1700,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 6.5
+                        "Smart-median": 5.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 50,
-                        "Average": 15.525252525252526,
-                        "Median": 15
+                        "Average": 14.402061855670103,
+                        "Median": 10,
+                        "Max": 45,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 100,
                 "Name": "Systems",
                 "Relics": [
                     {
@@ -1732,15 +1730,15 @@
                         "Smart-median": 20.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
+                        "Average": 24.740458015267176,
+                        "Median": 25,
                         "Max": 70,
-                        "Average": 24.75862068965517,
-                        "Median": 25
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 100,
                 "Name": "Chassis",
                 "Relics": [
                     {
@@ -1759,21 +1757,21 @@
                         "Smart-median": 35.0
                     },
                     "Nexus-stats": {
-                        "Min": 15,
+                        "Average": 39.0551948051948,
+                        "Median": 40,
                         "Max": 100,
-                        "Average": 39.00986842105263,
-                        "Median": 40
+                        "Min": 15
                     }
-                }
+                },
+                "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Lex Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Barrel",
                 "Relics": [
                     {
@@ -1827,15 +1825,15 @@
                         "Smart-median": 3.25
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 35,
                         "Average": 12.761904761904763,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 35,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 25,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -1869,15 +1867,15 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 127,
-                        "Average": 16.805555555555557,
-                        "Median": 15
+                        "Average": 13.594594594594595,
+                        "Median": 15,
+                        "Max": 30,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 25
             },
             {
-                "Ducats": 15,
                 "Name": "Receiver",
                 "Relics": [
                     {
@@ -1913,18 +1911,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 10.0
+                        "Smart-median": 8.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
+                        "Average": 11.904109589041095,
+                        "Median": 10,
                         "Max": 40,
-                        "Average": 11.985714285714286,
-                        "Median": 10
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "receiver",
                 "Relics": [
                     {
@@ -1936,16 +1934,16 @@
                 "data": {
                     "Warframe.market": {},
                     "Nexus-stats": {}
-                }
+                },
+                "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Bronco Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -2004,15 +2002,15 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 8,
-                        "Max": 35,
                         "Average": 13.782608695652174,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 35,
+                        "Min": 8
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "Receiver",
                 "Relics": [
                     {
@@ -2051,15 +2049,15 @@
                         "Smart-median": 3.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 15,
                         "Average": 10.142857142857142,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 15,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 45,
                 "Name": "Barrel",
                 "Relics": [
                     {
@@ -2083,21 +2081,21 @@
                         "Smart-median": 9.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 30,
                         "Average": 12.225806451612904,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 30,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Fang Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Blade",
                 "Relics": [
                     {
@@ -2151,15 +2149,15 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 40,
                         "Average": 13.909090909090908,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 40,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 25,
                 "Name": "Handle",
                 "Relics": [
                     {
@@ -2205,18 +2203,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 6.0
+                        "Smart-median": 5.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 20,
                         "Average": 10.578947368421053,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 20,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 25
             },
             {
-                "Ducats": 15,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -2252,24 +2250,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 2.5
+                        "Smart-median": 2.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 30,
                         "Average": 12.833333333333334,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 30,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Nova Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 100,
                 "Name": "Chassis",
                 "Relics": [
                     {
@@ -2285,18 +2283,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 130.0
+                        "Smart-median": 135.0
                     },
                     "Nexus-stats": {
-                        "Min": 50,
-                        "Max": 300,
                         "Average": 130.5369774919614,
-                        "Median": 140
+                        "Median": 140,
+                        "Max": 300,
+                        "Min": 50
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 15,
                 "Name": "Neuroptics",
                 "Relics": [
                     {
@@ -2315,15 +2313,15 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 50,
                         "Average": 17.65,
-                        "Median": 17.5
+                        "Median": 17.5,
+                        "Max": 50,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "Systems",
                 "Relics": [
                     {
@@ -2347,15 +2345,15 @@
                         "Smart-median": 12.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 55,
                         "Average": 20.084033613445378,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 55,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 45,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -2369,21 +2367,21 @@
                         "Smart-median": 17.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 75,
                         "Average": 20.975409836065573,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 75,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Burston Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Receiver",
                 "Relics": [
                     {
@@ -2409,18 +2407,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 2.75
+                        "Smart-median": 3.25
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 50,
                         "Average": 14.31578947368421,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 50,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 45,
                 "Name": "Barrel",
                 "Relics": [
                     {
@@ -2449,15 +2447,15 @@
                         "Smart-median": 5.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
+                        "Average": 20.636363636363637,
+                        "Median": 15,
                         "Max": 75,
-                        "Average": 21.7,
-                        "Median": 15
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 15,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -2486,15 +2484,15 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 35,
                         "Average": 14.80952380952381,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 35,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "Stock",
                 "Relics": [
                     {
@@ -2533,21 +2531,21 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 40,
                         "Average": 15.636363636363637,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 40,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Galatine Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 45,
                 "Name": "Handle",
                 "Relics": [
                     {
@@ -2576,15 +2574,15 @@
                         "Smart-median": 5.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 40,
                         "Average": 16.285714285714285,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 40,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 15,
                 "Name": "Blade",
                 "Relics": [
                     {
@@ -2633,15 +2631,15 @@
                         "Smart-median": 3.75
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 35,
                         "Average": 14.555555555555555,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 35,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 100,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -2657,24 +2655,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 20.0
+                        "Smart-median": 19.75
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 50,
                         "Average": 19.30857142857143,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 50,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Scindo Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 100,
                 "Name": "Blade",
                 "Relics": [
                     {
@@ -2685,18 +2683,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 44.5
+                        "Smart-median": 42.5
                     },
                     "Nexus-stats": {
-                        "Min": 15,
+                        "Average": 42.083333333333336,
+                        "Median": 40,
                         "Max": 70,
-                        "Average": 41.83673469387755,
-                        "Median": 40
+                        "Min": 15
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 45,
                 "Name": "Handle",
                 "Relics": [
                     {
@@ -2710,15 +2708,15 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 30,
                         "Average": 13.1,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 30,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 45,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -2729,24 +2727,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 6.0
+                        "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 125,
                         "Average": 29.75,
-                        "Median": 12.5
+                        "Median": 12.5,
+                        "Max": 125,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Trinity Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 45,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -2775,15 +2773,15 @@
                         "Smart-median": 9.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
+                        "Average": 15.842342342342342,
+                        "Median": 15,
                         "Max": 60,
-                        "Average": 16.164444444444445,
-                        "Median": 15
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 15,
                 "Name": "Systems",
                 "Relics": [
                     {
@@ -2819,18 +2817,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 13.5
+                        "Smart-median": 16.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 60,
-                        "Average": 20.8141592920354,
-                        "Median": 20
+                        "Average": 23.493333333333332,
+                        "Median": 20,
+                        "Max": 702,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 45,
                 "Name": "Chassis",
                 "Relics": [
                     {
@@ -2859,15 +2857,15 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 50,
                         "Average": 16.81188118811881,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 50,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 25,
                 "Name": "Neuroptics",
                 "Relics": [
                     {
@@ -2898,24 +2896,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 9.0
+                        "Smart-median": 9.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 201,
-                        "Average": 16.72289156626506,
-                        "Median": 15
+                        "Average": 15.662650602409638,
+                        "Median": 15,
+                        "Max": 40,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 25
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Aklex Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 45,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -2929,15 +2927,15 @@
                         "Smart-median": 18.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 150,
-                        "Average": 28.78205128205128,
-                        "Median": 20
+                        "Average": 27.142857142857142,
+                        "Median": 20,
+                        "Max": 140,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 100,
                 "Name": "Link",
                 "Relics": [
                     {
@@ -2951,21 +2949,21 @@
                         "Smart-median": 70.0
                     },
                     "Nexus-stats": {
-                        "Min": 25,
+                        "Average": 88.37588652482269,
+                        "Median": 95,
                         "Max": 200,
-                        "Average": 88.80985915492958,
-                        "Median": 95
+                        "Min": 25
                     }
-                }
+                },
+                "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Braton Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Stock",
                 "Relics": [
                     {
@@ -3009,15 +3007,15 @@
                         "Smart-median": 3.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
+                        "Average": 10.85,
+                        "Median": 10,
                         "Max": 25,
-                        "Average": 10.894736842105264,
-                        "Median": 10
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "Barrel",
                 "Relics": [
                     {
@@ -3051,15 +3049,15 @@
                         "Smart-median": 3.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
+                        "Average": 24.11764705882353,
+                        "Median": 10,
                         "Max": 232,
-                        "Average": 25,
-                        "Median": 10
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 25,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -3098,15 +3096,15 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
+                        "Average": 14.607843137254902,
+                        "Median": 15,
                         "Max": 60,
-                        "Average": 14.6,
-                        "Median": 13.5
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 25
             },
             {
-                "Ducats": 45,
                 "Name": "Receiver",
                 "Relics": [
                     {
@@ -3132,24 +3130,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 7.0
+                        "Smart-median": 8.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 30,
                         "Average": 11.914285714285715,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 30,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Dual Kamas Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 45,
                 "Name": "Handle",
                 "Relics": [
                     {
@@ -3173,15 +3171,15 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 50,
-                        "Average": 18.5625,
-                        "Median": 15
+                        "Average": 20.22,
+                        "Median": 15,
+                        "Max": 60,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 15,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -3220,15 +3218,15 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 8,
-                        "Max": 65,
-                        "Average": 17.66346153846154,
-                        "Median": 15
+                        "Average": 17.203883495145632,
+                        "Median": 15,
+                        "Max": 60,
+                        "Min": 8
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 100,
                 "Name": "Blade",
                 "Relics": [
                     {
@@ -3239,24 +3237,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 28.5
+                        "Smart-median": 31.5
                     },
                     "Nexus-stats": {
-                        "Min": 14,
+                        "Average": 39.75141242937853,
+                        "Median": 40,
                         "Max": 100,
-                        "Average": 39.675824175824175,
-                        "Median": 40
+                        "Min": 14
                     }
-                }
+                },
+                "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Fragor Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Head",
                 "Relics": [
                     {
@@ -3282,18 +3280,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 5.25
+                        "Smart-median": 5.75
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 45,
                         "Average": 14.727272727272727,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 45,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 65,
                 "Name": "Handle",
                 "Relics": [
                     {
@@ -3319,18 +3317,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 7.0
+                        "Smart-median": 7.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 15,
                         "Average": 8.772727272727273,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 15,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 65
             },
             {
-                "Ducats": 65,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -3354,21 +3352,21 @@
                         "Smart-median": 7.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
+                        "Average": 13.350877192982455,
+                        "Median": 10,
                         "Max": 30,
-                        "Average": 13.053571428571429,
-                        "Median": 10
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 65
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Nikana Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 65,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -3389,18 +3387,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 11.5
+                        "Smart-median": 12.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
+                        "Average": 15.692307692307692,
+                        "Median": 15,
                         "Max": 45,
-                        "Average": 15.618556701030927,
-                        "Median": 15
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 65
             },
             {
-                "Ducats": 100,
                 "Name": "Blade",
                 "Relics": [
                     {
@@ -3421,18 +3419,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 24.25
+                        "Smart-median": 25.75
                     },
                     "Nexus-stats": {
-                        "Min": 8,
+                        "Average": 23.49034749034749,
+                        "Median": 20,
                         "Max": 60,
-                        "Average": 23.455252918287936,
-                        "Median": 20
+                        "Min": 8
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 100,
                 "Name": "Hilt",
                 "Relics": [
                     {
@@ -3456,21 +3454,21 @@
                         "Smart-median": 15.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
+                        "Average": 16.972602739726028,
+                        "Median": 15,
                         "Max": 45,
-                        "Average": 17.07373271889401,
-                        "Median": 15
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Helios Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 100,
                 "Name": "Cerebrum",
                 "Relics": [
                     {
@@ -3491,18 +3489,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 25.5
+                        "Smart-median": 26.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 60,
                         "Average": 23.06896551724138,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 60,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 15,
                 "Name": "Carapace",
                 "Relics": [
                     {
@@ -3531,15 +3529,15 @@
                         "Smart-median": 4.75
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 52,
                         "Average": 18.46808510638298,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 52,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 45,
                 "Name": "Systems",
                 "Relics": [
                     {
@@ -3558,15 +3556,15 @@
                         "Smart-median": 5.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 50,
                         "Average": 18.1,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 50,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 45,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -3587,24 +3585,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 4.0
+                        "Smart-median": 5.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
+                        "Average": 16.37313432835821,
+                        "Median": 15,
                         "Max": 50,
-                        "Average": 16.415384615384614,
-                        "Median": 15
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Saryn Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 45,
                 "Name": "Neuroptics",
                 "Relics": [
                     {
@@ -3628,15 +3626,15 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 30,
                         "Average": 12.220125786163521,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 30,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 15,
                 "Name": "Systems",
                 "Relics": [
                     {
@@ -3680,15 +3678,15 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 60,
                         "Average": 18.605882352941176,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 60,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 65,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -3717,15 +3715,15 @@
                         "Smart-median": 10.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 50,
                         "Average": 15.22279792746114,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 50,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 65
             },
             {
-                "Ducats": 100,
                 "Name": "Chassis",
                 "Relics": [
                     {
@@ -3741,24 +3739,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 27.0
+                        "Smart-median": 24.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
+                        "Average": 26.164383561643834,
+                        "Median": 25,
                         "Max": 70,
-                        "Average": 26.132596685082873,
-                        "Median": 25
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Vasto Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Receiver",
                 "Relics": [
                     {
@@ -3777,15 +3775,15 @@
                         "Smart-median": 3.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 30,
                         "Average": 13.88888888888889,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 30,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "Barrel",
                 "Relics": [
                     {
@@ -3809,15 +3807,15 @@
                         "Smart-median": 7.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 50,
                         "Average": 19.85,
-                        "Median": 15.5
+                        "Median": 15.5,
+                        "Max": 50,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 45,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -3828,24 +3826,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 17.5
+                        "Smart-median": 17.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 35,
                         "Average": 18.346153846153847,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 35,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Vectis Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 45,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -3864,15 +3862,15 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 8,
-                        "Max": 60,
                         "Average": 21.46511627906977,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 60,
+                        "Min": 8
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 15,
                 "Name": "Barrel",
                 "Relics": [
                     {
@@ -3901,15 +3899,15 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 8,
-                        "Max": 75,
-                        "Average": 18.612903225806452,
-                        "Median": 15
+                        "Average": 19.903225806451612,
+                        "Median": 15,
+                        "Max": 90,
+                        "Min": 8
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 65,
                 "Name": "Stock",
                 "Relics": [
                     {
@@ -3935,18 +3933,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 17.0
+                        "Smart-median": 16.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 60,
                         "Average": 19.50793650793651,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 60,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 65
             },
             {
-                "Ducats": 100,
                 "Name": "Receiver",
                 "Relics": [
                     {
@@ -3957,24 +3955,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 47.5
+                        "Smart-median": 45.5
                     },
                     "Nexus-stats": {
-                        "Min": 15,
+                        "Average": 45.01075268817204,
+                        "Median": 45,
                         "Max": 90,
-                        "Average": 45.120879120879124,
-                        "Median": 45
+                        "Min": 15
                     }
-                }
+                },
+                "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Odonata Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 45,
                 "Name": "Wings",
                 "Relics": [
                     {
@@ -3988,15 +3986,15 @@
                         "Smart-median": 32.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 55,
-                        "Average": 34.23076923076923,
-                        "Median": 35
+                        "Average": 35.094339622641506,
+                        "Median": 35,
+                        "Max": 80,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 15,
                 "Name": "Harness",
                 "Relics": [
                     {
@@ -4025,15 +4023,15 @@
                         "Smart-median": 6.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 45,
                         "Average": 16.636363636363637,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 45,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "Systems",
                 "Relics": [
                     {
@@ -4057,15 +4055,15 @@
                         "Smart-median": 3.25
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 100,
                         "Average": 23.47826086956522,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 100,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 45,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -4086,24 +4084,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 7.0
+                        "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 9,
-                        "Max": 60,
                         "Average": 17.419354838709676,
-                        "Median": 13
+                        "Median": 13,
+                        "Max": 60,
+                        "Min": 9
                     }
-                }
+                },
+                "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Hikou Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Pouch",
                 "Relics": [
                     {
@@ -4119,18 +4117,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 17.5
+                        "Smart-median": 17.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 40,
                         "Average": 18.13953488372093,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 40,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -4146,18 +4144,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 4.5
+                        "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
+                        "Average": 20.9375,
+                        "Median": 10,
                         "Max": 80,
-                        "Average": 21.666666666666668,
-                        "Median": 10
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "Stars",
                 "Relics": [
                     {
@@ -4176,21 +4174,21 @@
                         "Smart-median": 7.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 30,
                         "Average": 16.68421052631579,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 30,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Euphona Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -4219,15 +4217,15 @@
                         "Smart-median": 4.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 25,
                         "Average": 13.526315789473685,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 25,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 45,
                 "Name": "Barrel",
                 "Relics": [
                     {
@@ -4243,18 +4241,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 6.5
+                        "Smart-median": 5.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 35,
                         "Average": 15.631578947368421,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 35,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 100,
                 "Name": "Receiver",
                 "Relics": [
                     {
@@ -4265,24 +4263,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 22.5
+                        "Smart-median": 21.5
                     },
                     "Nexus-stats": {
-                        "Min": 9,
-                        "Max": 50,
                         "Average": 23.68794326241135,
-                        "Median": 25
+                        "Median": 25,
+                        "Max": 50,
+                        "Min": 9
                     }
-                }
+                },
+                "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Tigris Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 100,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -4306,15 +4304,15 @@
                         "Smart-median": 15.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
+                        "Average": 15.497607655502392,
+                        "Median": 15,
                         "Max": 45,
-                        "Average": 15.495238095238095,
-                        "Median": 15
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 15,
                 "Name": "Stock",
                 "Relics": [
                     {
@@ -4343,15 +4341,15 @@
                         "Smart-median": 4.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
+                        "Average": 14.5625,
+                        "Median": 10,
                         "Max": 40,
-                        "Average": 14.303030303030303,
-                        "Median": 10
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 45,
                 "Name": "Barrel",
                 "Relics": [
                     {
@@ -4380,15 +4378,15 @@
                         "Smart-median": 3.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 30,
                         "Average": 13.508196721311476,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 30,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 45,
                 "Name": "Receiver",
                 "Relics": [
                     {
@@ -4422,21 +4420,21 @@
                         "Smart-median": 3.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 35,
                         "Average": 16.076923076923077,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 35,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Ankyros Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 45,
                 "Name": "Blade",
                 "Relics": [
                     {
@@ -4447,18 +4445,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 30.0
+                        "Smart-median": 27.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 60,
                         "Average": 25.886363636363637,
-                        "Median": 25
+                        "Median": 25,
+                        "Max": 60,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 15,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -4472,15 +4470,15 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 8,
-                        "Max": 40,
                         "Average": 14.75,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 40,
+                        "Min": 8
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "Gauntlet",
                 "Relics": [
                     {
@@ -4494,21 +4492,21 @@
                         "Smart-median": 11.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 90,
                         "Average": 32.45,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 90,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Boar Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Receiver",
                 "Relics": [
                     {
@@ -4527,15 +4525,15 @@
                         "Smart-median": 7.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 15,
                         "Average": 11.263157894736842,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 15,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 100,
                 "Name": "Stock",
                 "Relics": [
                     {
@@ -4551,18 +4549,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 25.0
+                        "Smart-median": 22.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 60,
                         "Average": 19.16949152542373,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 60,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 45,
                 "Name": "Barrel",
                 "Relics": [
                     {
@@ -4578,18 +4576,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 7.5
+                        "Smart-median": 9.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 20,
                         "Average": 10.590909090909092,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 20,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 15,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -4608,21 +4606,21 @@
                         "Smart-median": 7.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 60,
                         "Average": 17,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 60,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Boltor Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Stock",
                 "Relics": [
                     {
@@ -4633,18 +4631,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 22.5
+                        "Smart-median": 22.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
+                        "Average": 26.349397590361445,
+                        "Median": 25,
                         "Max": 67,
-                        "Average": 26.365853658536587,
-                        "Median": 25
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 45,
                 "Name": "Receiver",
                 "Relics": [
                     {
@@ -4658,15 +4656,15 @@
                         "Smart-median": 10.0
                     },
                     "Nexus-stats": {
-                        "Min": 8,
-                        "Max": 30,
                         "Average": 13.365384615384615,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 30,
+                        "Min": 8
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 15,
                 "Name": "Barrel",
                 "Relics": [
                     {
@@ -4680,15 +4678,15 @@
                         "Smart-median": 7.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 40,
                         "Average": 15.142857142857142,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 40,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 100,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -4699,24 +4697,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 32.5
+                        "Smart-median": 38.0
                     },
                     "Nexus-stats": {
-                        "Min": 15,
-                        "Max": 90,
                         "Average": 34.94444444444444,
-                        "Median": 30
+                        "Median": 30,
+                        "Max": 90,
+                        "Min": 15
                     }
-                }
+                },
+                "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Dakra Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 45,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -4735,15 +4733,15 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 30,
                         "Average": 11.464285714285714,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 30,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 15,
                 "Name": "Handle",
                 "Relics": [
                     {
@@ -4762,15 +4760,15 @@
                         "Smart-median": 5.75
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 80,
                         "Average": 40.125,
-                        "Median": 30
+                        "Median": 30,
+                        "Max": 80,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 65,
                 "Name": "Blade",
                 "Relics": [
                     {
@@ -4786,24 +4784,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 13.5
+                        "Smart-median": 15.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 45,
                         "Average": 16.114285714285714,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 45,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 65
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Mag Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Systems",
                 "Relics": [
                     {
@@ -4822,15 +4820,15 @@
                         "Smart-median": 20.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 60,
                         "Average": 23.487179487179485,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 60,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "Neuroptics",
                 "Relics": [
                     {
@@ -4849,15 +4847,15 @@
                         "Smart-median": 7.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 52,
                         "Average": 18.15,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 52,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 100,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -4873,18 +4871,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 25.0
+                        "Smart-median": 27.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
+                        "Average": 29.02097902097902,
+                        "Median": 25,
                         "Max": 100,
-                        "Average": 28.86986301369863,
-                        "Median": 25
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 45,
                 "Name": "Chassis",
                 "Relics": [
                     {
@@ -4903,21 +4901,21 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 60,
                         "Average": 20.24590163934426,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 60,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Rhino Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 100,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -4931,15 +4929,15 @@
                         "Smart-median": 154.5
                     },
                     "Nexus-stats": {
-                        "Min": 50,
+                        "Average": 155.2290502793296,
+                        "Median": 150,
                         "Max": 380,
-                        "Average": 154.68347338935575,
-                        "Median": 150
+                        "Min": 50
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 45,
                 "Name": "Neuroptics",
                 "Relics": [
                     {
@@ -4953,15 +4951,15 @@
                         "Smart-median": 14.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
+                        "Average": 19.70945945945946,
+                        "Median": 15,
                         "Max": 60,
-                        "Average": 19.186206896551724,
-                        "Median": 15
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 45,
                 "Name": "Chassis",
                 "Relics": [
                     {
@@ -4975,15 +4973,15 @@
                         "Smart-median": 25.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 60,
                         "Average": 25.352941176470587,
-                        "Median": 25
+                        "Median": 25,
+                        "Max": 60,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 15,
                 "Name": "Systems",
                 "Relics": [
                     {
@@ -4997,21 +4995,21 @@
                         "Smart-median": 10.5
                     },
                     "Nexus-stats": {
-                        "Min": 8,
+                        "Average": 22.172131147540984,
+                        "Median": 17,
                         "Max": 60,
-                        "Average": 22.479674796747968,
-                        "Median": 17
+                        "Min": 8
                     }
-                }
+                },
+                "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Volt Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 45,
                 "Name": "Chassis",
                 "Relics": [
                     {
@@ -5030,15 +5028,15 @@
                         "Smart-median": 13.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 50,
                         "Average": 16.783216783216783,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 50,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 45,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -5054,18 +5052,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 25.0
+                        "Smart-median": 24.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
+                        "Average": 26.293333333333333,
+                        "Median": 25,
                         "Max": 55,
-                        "Average": 26.233333333333334,
-                        "Median": 25
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 45,
                 "Name": "Systems",
                 "Relics": [
                     {
@@ -5079,15 +5077,15 @@
                         "Smart-median": 10.0
                     },
                     "Nexus-stats": {
-                        "Min": 8,
+                        "Average": 16.475806451612904,
+                        "Median": 15,
                         "Max": 40,
-                        "Average": 16.581967213114755,
-                        "Median": 15
+                        "Min": 8
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 45,
                 "Name": "Neuroptics",
                 "Relics": [
                     {
@@ -5101,21 +5099,21 @@
                         "Smart-median": 19.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
+                        "Average": 22.652542372881356,
+                        "Median": 20,
                         "Max": 50,
-                        "Average": 22.18103448275862,
-                        "Median": 20
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Venka Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 45,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -5131,18 +5129,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 4.0
+                        "Smart-median": 5.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 40,
-                        "Average": 14.344827586206897,
-                        "Median": 12
+                        "Average": 13.428571428571429,
+                        "Median": 11,
+                        "Max": 25,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 100,
                 "Name": "Gauntlet",
                 "Relics": [
                     {
@@ -5158,18 +5156,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 25.5
+                        "Smart-median": 26.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
+                        "Average": 24.31446540880503,
+                        "Median": 25,
                         "Max": 60,
-                        "Average": 24.310126582278482,
-                        "Median": 25
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 15,
                 "Name": "Blades",
                 "Relics": [
                     {
@@ -5198,21 +5196,21 @@
                         "Smart-median": 5.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 30,
                         "Average": 13.903225806451612,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 30,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Banshee Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 100,
                 "Name": "Systems",
                 "Relics": [
                     {
@@ -5228,18 +5226,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 37.5
+                        "Smart-median": 37.0
                     },
                     "Nexus-stats": {
-                        "Min": 15,
-                        "Max": 80,
                         "Average": 38.34984520123839,
-                        "Median": 40
+                        "Median": 40,
+                        "Max": 80,
+                        "Min": 15
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 45,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -5260,18 +5258,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 4.5
+                        "Smart-median": 4.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
+                        "Average": 17.54014598540146,
+                        "Median": 15,
                         "Max": 50,
-                        "Average": 18.007194244604317,
-                        "Median": 15
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 100,
                 "Name": "Chassis",
                 "Relics": [
                     {
@@ -5287,18 +5285,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 17.5
+                        "Smart-median": 17.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 50,
                         "Average": 19.98952879581152,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 50,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 15,
                 "Name": "Neuroptics",
                 "Relics": [
                     {
@@ -5317,21 +5315,21 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 50,
                         "Average": 17.149425287356323,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 50,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Vauban Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 100,
                 "Name": "Neuroptics",
                 "Relics": [
                     {
@@ -5355,15 +5353,15 @@
                         "Smart-median": 17.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
+                        "Average": 18.314606741573034,
+                        "Median": 20,
                         "Max": 50,
-                        "Average": 18.29608938547486,
-                        "Median": 20
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 100,
                 "Name": "Chassis",
                 "Relics": [
                     {
@@ -5387,15 +5385,15 @@
                         "Smart-median": 15.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 30,
                         "Average": 15.552,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 30,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 100,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -5414,15 +5412,15 @@
                         "Smart-median": 15.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
+                        "Average": 18.058823529411764,
+                        "Median": 15,
                         "Max": 50,
-                        "Average": 18.038961038961038,
-                        "Median": 15
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 100,
                 "Name": "Systems",
                 "Relics": [
                     {
@@ -5441,21 +5439,21 @@
                         "Smart-median": 15.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 50,
-                        "Average": 17.0390625,
-                        "Median": 15
+                        "Average": 16.515873015873016,
+                        "Median": 15,
+                        "Max": 40,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Orthos Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 45,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -5484,15 +5482,15 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 40,
                         "Average": 16.058823529411764,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 40,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 15,
                 "Name": "Handle",
                 "Relics": [
                     {
@@ -5521,15 +5519,15 @@
                         "Smart-median": 3.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 30,
                         "Average": 15.11111111111111,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 30,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 45,
                 "Name": "Blade",
                 "Relics": [
                     {
@@ -5548,21 +5546,21 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
+                        "Average": 10.112359550561798,
+                        "Median": 10,
                         "Max": 25,
-                        "Average": 10.136363636363637,
-                        "Median": 10
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Sybaris Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -5576,15 +5574,15 @@
                         "Smart-median": 9.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 40,
                         "Average": 13.27027027027027,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 40,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 100,
                 "Name": "Barrel",
                 "Relics": [
                     {
@@ -5598,15 +5596,15 @@
                         "Smart-median": 27.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
+                        "Average": 27.382978723404257,
+                        "Median": 25,
                         "Max": 60,
-                        "Average": 27.194444444444443,
-                        "Median": 25
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 15,
                 "Name": "Stock",
                 "Relics": [
                     {
@@ -5617,18 +5615,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 4.0
+                        "Smart-median": 5.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 65,
                         "Average": 17.289473684210527,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 65,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 45,
                 "Name": "Receiver",
                 "Relics": [
                     {
@@ -5644,24 +5642,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 6.0
+                        "Smart-median": 5.5
                     },
                     "Nexus-stats": {
-                        "Min": 8,
-                        "Max": 25,
                         "Average": 11.606060606060606,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 25,
+                        "Min": 8
                     }
-                }
+                },
+                "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Silva & Aegis Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 45,
                 "Name": "Blade",
                 "Relics": [
                     {
@@ -5680,15 +5678,15 @@
                         "Smart-median": 7.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 30,
                         "Average": 12.545454545454545,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 30,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 45,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -5702,15 +5700,15 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 25,
                         "Average": 12.64102564102564,
-                        "Median": 10
+                        "Median": 10,
+                        "Max": 25,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 15,
                 "Name": "Hilt",
                 "Relics": [
                     {
@@ -5724,15 +5722,15 @@
                         "Smart-median": 6.5
                     },
                     "Nexus-stats": {
-                        "Min": 8,
+                        "Average": 19.130434782608695,
+                        "Median": 10,
                         "Max": 102,
-                        "Average": 17.857142857142858,
-                        "Median": 10
+                        "Min": 8
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 100,
                 "Name": "Guard",
                 "Relics": [
                     {
@@ -5751,21 +5749,21 @@
                         "Smart-median": 13.5
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 40,
                         "Average": 16.822429906542055,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 40,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Ember Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 100,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -5776,18 +5774,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 425.0
+                        "Smart-median": 445.0
                     },
                     "Nexus-stats": {
-                        "Min": 110,
-                        "Max": 1002,
                         "Average": 399.4829268292683,
-                        "Median": 400
+                        "Median": 400,
+                        "Max": 1002,
+                        "Min": 110
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 15,
                 "Name": "Chassis",
                 "Relics": [
                     {
@@ -5801,15 +5799,15 @@
                         "Smart-median": 35.0
                     },
                     "Nexus-stats": {
-                        "Min": 15,
-                        "Max": 100,
                         "Average": 40.523809523809526,
-                        "Median": 40
+                        "Median": 40,
+                        "Max": 100,
+                        "Min": 15
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "Neuroptics",
                 "Relics": [
                     {
@@ -5820,18 +5818,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 17.0
+                        "Smart-median": 15.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 85,
                         "Average": 25.90066225165563,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 85,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 45,
                 "Name": "Systems",
                 "Relics": [
                     {
@@ -5842,24 +5840,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 93.0
+                        "Smart-median": 95.0
                     },
                     "Nexus-stats": {
-                        "Min": 30,
-                        "Max": 300,
-                        "Average": 93.26457399103138,
-                        "Median": 90
+                        "Average": 92.33333333333333,
+                        "Median": 90,
+                        "Max": 250,
+                        "Min": 30
                     }
-                }
+                },
+                "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Frost Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Neuroptics",
                 "Relics": [
                     {
@@ -5873,15 +5871,15 @@
                         "Smart-median": 35.0
                     },
                     "Nexus-stats": {
-                        "Min": 20,
-                        "Max": 70,
                         "Average": 38.333333333333336,
-                        "Median": 40
+                        "Median": 40,
+                        "Max": 70,
+                        "Min": 20
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 100,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -5892,18 +5890,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 185.0
+                        "Smart-median": 170.5
                     },
                     "Nexus-stats": {
-                        "Min": 60,
+                        "Average": 167.05,
+                        "Median": 162.5,
                         "Max": 300,
-                        "Average": 165.36708860759492,
-                        "Median": 160
+                        "Min": 60
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 45,
                 "Name": "Systems",
                 "Relics": [
                     {
@@ -5914,18 +5912,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 27.0
+                        "Smart-median": 27.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 100,
                         "Average": 36.25,
-                        "Median": 30
+                        "Median": 30,
+                        "Max": 100,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 15,
                 "Name": "Chassis",
                 "Relics": [
                     {
@@ -5936,24 +5934,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 13.0
+                        "Smart-median": 18.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
+                        "Average": 22.303030303030305,
+                        "Median": 15.5,
                         "Max": 60,
-                        "Average": 22.523076923076925,
-                        "Median": 16
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Glaive Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 45,
                 "Name": "Blade",
                 "Relics": [
                     {
@@ -5964,18 +5962,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 67.5
+                        "Smart-median": 65.0
                     },
                     "Nexus-stats": {
-                        "Min": 30,
-                        "Max": 150,
                         "Average": 62.67307692307692,
-                        "Median": 65
+                        "Median": 65,
+                        "Max": 150,
+                        "Min": 30
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 45,
                 "Name": "Disc",
                 "Relics": [
                     {
@@ -5986,18 +5984,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 15.0
+                        "Smart-median": 14.5
                     },
                     "Nexus-stats": {
-                        "Min": 20,
-                        "Max": 250,
                         "Average": 70.27777777777777,
-                        "Median": 25
+                        "Median": 25,
+                        "Max": 250,
+                        "Min": 20
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 100,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -6011,21 +6009,21 @@
                         "Smart-median": 80.0
                     },
                     "Nexus-stats": {
-                        "Min": 35,
+                        "Average": 84.26470588235294,
+                        "Median": 82.5,
                         "Max": 170,
-                        "Average": 84.20289855072464,
-                        "Median": 80
+                        "Min": 35
                     }
-                }
+                },
+                "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Latron Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Barrel",
                 "Relics": [
                     {
@@ -6036,18 +6034,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 40.0
+                        "Smart-median": 39.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 70,
                         "Average": 39.51724137931034,
-                        "Median": 40
+                        "Median": 40,
+                        "Max": 70,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "Stock",
                 "Relics": [
                     {
@@ -6061,15 +6059,15 @@
                         "Smart-median": 12.5
                     },
                     "Nexus-stats": {
-                        "Min": 9,
-                        "Max": 35,
                         "Average": 15.047619047619047,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 35,
+                        "Min": 9
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "Receiver",
                 "Relics": [
                     {
@@ -6083,15 +6081,15 @@
                         "Smart-median": 13.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 20,
                         "Average": 13.692307692307692,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 20,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -6105,21 +6103,21 @@
                         "Smart-median": 7.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
+                        "Average": 32.22222222222222,
+                        "Median": 15,
                         "Max": 300,
-                        "Average": 40,
-                        "Median": 15
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Sicarus Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -6130,18 +6128,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 35.0
+                        "Smart-median": 31.0
                     },
                     "Nexus-stats": {
-                        "Min": 15,
-                        "Max": 80,
                         "Average": 40.714285714285715,
-                        "Median": 40
+                        "Median": 40,
+                        "Max": 80,
+                        "Min": 15
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "Barrel",
                 "Relics": [
                     {
@@ -6155,15 +6153,15 @@
                         "Smart-median": 17.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 70,
                         "Average": 21.862745098039216,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 70,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 100,
                 "Name": "Receiver",
                 "Relics": [
                     {
@@ -6174,24 +6172,24 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 105.0
+                        "Smart-median": 102.5
                     },
                     "Nexus-stats": {
-                        "Min": 40,
+                        "Average": 115.55172413793103,
+                        "Median": 107.5,
                         "Max": 300,
-                        "Average": 114.32203389830508,
-                        "Median": 100
+                        "Min": 40
                     }
-                }
+                },
+                "Ducats": 100
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Reaper Prime",
-        "Vaulted": true,
         "Components": [
             {
-                "Ducats": 45,
                 "Name": "Blade",
                 "Relics": [
                     {
@@ -6205,15 +6203,15 @@
                         "Smart-median": 32.5
                     },
                     "Nexus-stats": {
-                        "Min": 15,
-                        "Max": 120,
                         "Average": 36.4,
-                        "Median": 30
+                        "Median": 30,
+                        "Max": 120,
+                        "Min": 15
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 15,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -6227,15 +6225,15 @@
                         "Smart-median": 14.5
                     },
                     "Nexus-stats": {
-                        "Min": 8,
-                        "Max": 50,
                         "Average": 21.92,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 50,
+                        "Min": 8
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 15,
                 "Name": "Handle",
                 "Relics": [
                     {
@@ -6249,21 +6247,21 @@
                         "Smart-median": 17.0
                     },
                     "Nexus-stats": {
-                        "Min": 10,
-                        "Max": 60,
                         "Average": 19.916666666666668,
-                        "Median": 19
+                        "Median": 19,
+                        "Max": 60,
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": true
     },
     {
         "Name": "Hydroid Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 45,
                 "Name": "Neuroptics",
                 "Relics": [
                     {
@@ -6277,15 +6275,15 @@
                         "Smart-median": 42.5
                     },
                     "Nexus-stats": {
-                        "Min": 15,
+                        "Average": 45.0010162601626,
+                        "Median": 45,
                         "Max": 150,
-                        "Average": 45.00512820512821,
-                        "Median": 45
+                        "Min": 15
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 45,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -6299,15 +6297,15 @@
                         "Smart-median": 22.5
                     },
                     "Nexus-stats": {
-                        "Min": 10,
+                        "Average": 35.585077343039124,
+                        "Median": 35,
                         "Max": 100,
-                        "Average": 35.63229927007299,
-                        "Median": 35
+                        "Min": 10
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 100,
                 "Name": "Systems",
                 "Relics": [
                     {
@@ -6321,15 +6319,15 @@
                         "Smart-median": 40.0
                     },
                     "Nexus-stats": {
-                        "Min": 15,
+                        "Average": 56.848414539829854,
+                        "Median": 50,
                         "Max": 180,
-                        "Average": 56.8677494199536,
-                        "Median": 50
+                        "Min": 15
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 15,
                 "Name": "Chassis",
                 "Relics": [
                     {
@@ -6343,21 +6341,21 @@
                         "Smart-median": 10.0
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 70,
-                        "Average": 19.719059405940595,
-                        "Median": 15
+                        "Average": 19.6469864698647,
+                        "Median": 15,
+                        "Max": 60,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Nami Skyla Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 100,
                 "Name": "Blade",
                 "Relics": [
                     {
@@ -6368,18 +6366,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 67.5
+                        "Smart-median": 65.0
                     },
                     "Nexus-stats": {
-                        "Min": 20,
-                        "Max": 160,
                         "Average": 62.75037147102526,
-                        "Median": 60
+                        "Median": 60,
+                        "Max": 160,
+                        "Min": 20
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 45,
                 "Name": "Handle",
                 "Relics": [
                     {
@@ -6393,15 +6391,15 @@
                         "Smart-median": 22.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
+                        "Average": 37.174789915966386,
+                        "Median": 35,
                         "Max": 100,
-                        "Average": 37.249578414839796,
-                        "Median": 35
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 15,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -6415,21 +6413,21 @@
                         "Smart-median": 7.75
                     },
                     "Nexus-stats": {
-                        "Min": 6,
-                        "Max": 40,
-                        "Average": 16.194312796208532,
-                        "Median": 15
+                        "Average": 16.621495327102803,
+                        "Median": 15,
+                        "Max": 50,
+                        "Min": 6
                     }
-                }
+                },
+                "Ducats": 15
             }
-        ]
+        ],
+        "Vaulted": false
     },
     {
         "Name": "Ballistica Prime",
-        "Vaulted": false,
         "Components": [
             {
-                "Ducats": 15,
                 "Name": "Lower Limb",
                 "Relics": [
                     {
@@ -6440,18 +6438,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 13.0
+                        "Smart-median": 12.0
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 50,
                         "Average": 16.25,
-                        "Median": 15
+                        "Median": 15,
+                        "Max": 50,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 15
             },
             {
-                "Ducats": 100,
                 "Name": "Blueprint",
                 "Relics": [
                     {
@@ -6462,18 +6460,18 @@
                 ],
                 "data": {
                     "Warframe.market": {
-                        "Smart-median": 37.5
+                        "Smart-median": 35.0
                     },
                     "Nexus-stats": {
-                        "Min": 15,
+                        "Average": 51.60997732426304,
+                        "Median": 50,
                         "Max": 100,
-                        "Average": 51.67045454545455,
-                        "Median": 50
+                        "Min": 15
                     }
-                }
+                },
+                "Ducats": 100
             },
             {
-                "Ducats": 45,
                 "Name": "Upper Limb",
                 "Relics": [
                     {
@@ -6487,15 +6485,15 @@
                         "Smart-median": 15.0
                     },
                     "Nexus-stats": {
-                        "Min": 8,
+                        "Average": 27.04,
+                        "Median": 25,
                         "Max": 80,
-                        "Average": 27.07716049382716,
-                        "Median": 25
+                        "Min": 8
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 45,
                 "Name": "String",
                 "Relics": [
                     {
@@ -6509,15 +6507,15 @@
                         "Smart-median": 17.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
+                        "Average": 25.023809523809526,
+                        "Median": 25,
                         "Max": 75,
-                        "Average": 25.053731343283584,
-                        "Median": 25
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 45
             },
             {
-                "Ducats": 45,
                 "Name": "Receiver",
                 "Relics": [
                     {
@@ -6531,13 +6529,15 @@
                         "Smart-median": 17.5
                     },
                     "Nexus-stats": {
-                        "Min": 7,
-                        "Max": 75,
                         "Average": 24.44927536231884,
-                        "Median": 20
+                        "Median": 20,
+                        "Max": 75,
+                        "Min": 7
                     }
-                }
+                },
+                "Ducats": 45
             }
-        ]
+        ],
+        "Vaulted": false
     }
 ]
